@@ -1,0 +1,7853 @@
+@p /pi:/
+*  danh từ,  số nhiều Ps,  P's
+- vật hình P
+!mind your P's and Q's
+- hây cư xử nói năng đứng đắn, hây xử sự đứng đắn
+
+@p.m. /'poust,mistris/ (pip_emma) /pip'emə/
+*  phó từ
+- ((viết tắt) p.m) quá trưa, chiều, tối
+=at 7 p.m.+ vào lúc 7 giờ tối
+
+@pa /pɑ:/
+*  danh từ
+- (thông tục),  (viết tắt) của papa ba, bố
+
+@pabulum /'pæbjuləm/
+*  danh từ
+- thức ăn, đồ ăn ((thường),  (nghĩa bóng))
+=mental pabulum+ món ăn tinh thần
+
+@pace /peis/
+*  danh từ
+- bước chân, bước
+- bước đi; nhịp đi; tốc độ đi, tốc độ chạy
+=to go at a foat's (walking) pace+ đi từng bước
+=to go at a quick pace+ đi rảo bước, đi nhanh
+- nước đi (của ngựa); cách đi
+- nước kiệu (ngựa)
+- nhịp độ tiến triển, tốc độ tiến triển
+!to go the pace
+- đi nhanh
+- ăn chơi, phóng đãng
+!to hold (keep) pace with
+- theo kịp, sánh kịp
+!to mend one's pace
+- (xem) mend
+!to put someone through his paces
+- thử tài ai, thử sức ai
+- cho ai thi thố tài năng
+!to set the pace
+- dẫn tốc độ; chỉ đạo tốc độ (trong chạy đua)
+- nêu gương cho (ai) theo
+- tiên tiến nhất, thành công vượt bực
+*  nội động từ
+- đi từng bước, bước từng bước
+=to pace up and down+ đi bách bộ, đi đi lại lại
+- chạy nước kiệu (ngựa)
+*  ngoại động từ
+- bước từng bước qua, đi đi lại lại; đo bằng bước chân
+=to pace the room+ đi đi lại lại trong phòng; đo gian phòng bằng bước chân
+- dẫn tốc độ; chỉ đạo tốc độ (trong chạy đua)
+*  danh từ
+- mạn phép, xin lỗi (khi không đồng ý)
+=pace Smith+ xin lỗi ông Xmít; xin mạn phép ông Xmít
+
+@pace-maker /'peis,meikə/
+*  danh từ
+- người dẫn tốc độ; người chỉ đạo tốc độ (trong chạy đua)
+
+@pacer /'peisə/
+*  danh từ
+- (như) pace-maker
+- ngựa đi nước kiệu
+
+@pacha /'pɑ:ʃə/ (pacha) /'pa:ʃə/
+*  danh từ
+- Pasa, tổng trấn (Thổ nhĩ kỳ)
+
+@pachyderm /'pækidə:m/
+*  danh từ
+- (động vật học) loài vật da dày
+- con voi
+- (nghĩa bóng) người mặt dày mày dạn, người không biết nhục
+
+@pachydermatous /,pæki'də:mətəs/
+*  tính từ
+- (động vật học) (thuộc) loài da dày; có da dày
+- (nghĩa bóng) mặt dày mày dạn, không biết nhục
+
+@pacific /pə'sifik/
+*  tính từ
+- thái bình, hoà bình, ưa hoà bình
+!the Pacific [Ocean]
+- Thái bình dương
+
+@pacification /,pæsifi'keiʃn/
+*  danh từ
+- sự bình định
+- sự làm yên, sự làm nguôi
+- hoà ước
+
+@pacificator /pə'sifikeitə/
+*  danh từ
+- người bình định; người dẹp yên
+- (từ Mỹ,nghĩa Mỹ) người hoà giải
+
+@pacificatory /pə'sifikətəri/
+*  tính từ
+- bình định
+- làm yên, làm nguôi
+- hoà giải, đem lại hoà bình
+
+@pacificism /pə'sifisizm/ (pacifism) /'pæsifizm/
+*  danh từ
+- chủ nghĩa hoà bình
+
+@pacificist /pə'sifisist/ (pacifist) /'pæsifist/
+*  danh từ
+- người theo chủ nghĩa hoà bình
+
+@pacifier /'pæsifaiə/
+*  danh từ
+- người bình định
+- người làm yên, người làm nguôi
+- người hoà giải
+- (từ Mỹ,nghĩa Mỹ) núm vú giả (cho trẻ em ngận)
+
+@pacifism /pə'sifisizm/ (pacifism) /'pæsifizm/
+*  danh từ
+- chủ nghĩa hoà bình
+
+@pacifist /pə'sifisist/ (pacifist) /'pæsifist/
+*  danh từ
+- người theo chủ nghĩa hoà bình
+
+@pacify /'pæsifai/
+*  ngoại động từ
+- bình định; dẹp yên
+- làm yên, làm nguôi (cơn giận...)
+
+@pack /pæk/
+*  danh từ
+- bó, gói; ba lô (quần áo)
+- đàn, bầy (chó săn, chó sói...)
+=pack of wolves+ bầy chó sói
+=pack of grouse+ đàn gà gô trắng
+=pack of U-boats+ một đội tàu ngầm Đức
+- lũ, loạt, lô
+=a pack of fools+ một lũ ngốc
+=a pack of lies+ một loạt những lời nói láo
+=a pack of troubles+ một lô rắc rối phiền hà
+- bộ, cỗ (bài)
+- (thương nghiệp) kiện (hàng); khối lượng hàng (cá, hoa quả...) đóng gói trong một vụ; phương pháp đóng gói hàng
+- (thể dục,thể thao) hàng tiền đạo (bóng, bầu dục)
+- đám băng nổi ((cũng) pack ice)
+- (y học) khăn ướt để đắp, mền ướt để cuốn (người); sự đắp khăn ướt, sự cuốn mền ướt (vào người)
+- lượt đắp (kem đắp vào mặt cho mịn da...)
+*  ngoại động từ
+- gói, bọc lại, buộc lại; đóng gói, đóng hộp, đóng kiện
+- tập hợp lại thành bầy (chó); sắp thành bộ, sắp thành cỗ (bài)
+- xếp chặt (vào hòm, hộp); ních người (vào phòng, xe)
+=to pack a bag with old clothes+ xếp quần áo cũ vào bị
+=the car was packed with passangers+ xe chật ních hành khách
+- thồ hàng lên (ngựa, súc vật...)
+- nhét, hàn, gắn (khe hở)
+- (y học) đắp khăn ướt lên, cuốn mền ướt vào (người)
+- xếp người phe mình (vào hội đồng giám khảo...) để chiếm đa số khi quyết định
+- (thể dục,thể thao),  (từ lóng) nện, giáng
+=to pack a punch+ nện một quả đấm (quyền Anh)
+*  nội động từ
+- ((thường) + up) sắp xếp hành lý
+- đóng gói, đóng kiện
+=dry food packs easity+ thực phẩm khô để đóng gói
+- tụ tập thành bầy, tụ tập thành đàn
+- khăn gói ra đi, cuốn gói
+=to send somebody packing+ đuổi ai đi, tống cổ ai đi
+!to pack off
+- tống tiền (ai), cho (ai) đi xa, tống cổ (ai) đi
+- khăn gói ra đi, cuốn gói
+!to pack it in
+- (từ lóng) làm xong, hoàn thành
+!to pack it up
+- (từ lóng) thôi ngừng
+!to pack up
+- (từ lóng) không chạy, chết máy, không nổ (máy...)
+
+@pack-animal /'pæk,æniməl/
+*  danh từ
+- súc vật thồ
+
+@pack-drill /'pækdril/
+*  danh từ
+- (quân sự) sự phạt đi bộ vũ trang mang nặng
+
+@pack-horse /'pækhɔ:s/
+*  danh từ
+- ngựa thồ
+
+@pack-ice /'pækais/
+*  danh từ
+- đám băng nổi
+
+@pack-saddle /'pæk,sædl/
+*  danh từ
+- yên thồ
+
+@package /'pækidʤ/
+*  danh từ
+- gói đồ; kiện hàng; hộp để đóng hàng
+- sự đóng gói hàng
+- (từ Mỹ,nghĩa Mỹ) chương trình quảng cáo hoàn chỉnh (trên đài truyền thanh, đài truyền hình)
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) món
+=that girl is a pretty package+ cô ả kia là một món xinh
+*  ngoại động từ
+- đóng gói, đóng kiện, xếp vào bao bì
+- (từ Mỹ,nghĩa Mỹ) trình bày và sản xuất bao bì cho (một thứ hàng)
+- (từ Mỹ,nghĩa Mỹ) kết hợp (gộp) (các bộ phận) thành một đơn vị
+
+@package deal /'pækidʤ'di:l/
+*  danh từ
+- sự bán mớ, sự bán xô bồ
+
+@packer /'pækə/
+*  danh từ
+- người gói hàng; máy gói hàng
+- người đóng đồ hộp
+- (từ Mỹ,nghĩa Mỹ) người khuân vác; người tải hàng bằng sức vật thồ
+
+@packet /'pækit/
+*  danh từ
+- gói nhỏ
+=a packet of cigarettes+ gói thuốc lá
+- tàu chở thư ((cũng) packet boat)
+- (từ lóng) món tiền được cuộc; món tiền thua cuộc (đánh cuộc, đánh đổ...)
+- (từ lóng) viên đạn
+=to catch (stop) a packet+ bị ăn đạn
+
+@packet-boat /'pækitbout/
+*  danh từ
+- tàu chở thư
+
+@packing /'pækiɳ/
+*  danh từ
+- sự gói đồ, sự đóng kiện, sự đóng gói, sự xếp hàng vào bao bì
+- bao bì
+- sự xếp chặt, sự ních vào
+- sự thồ, sự khuân vác; sự chất hàng (lên lưng súc vật thồ)
+- (từ Mỹ,nghĩa Mỹ) sự gắn kín, sự nhét kín, sự đệm kín
+- vật liệu để gắn kín, vật liệu để nhét kín, vật liệu để đệm kín
+- (y học) sự đắp bằng khăn ướt, sự cuốn bằng mền ướt
+
+@packing-case /'pækiɳkeis/
+*  danh từ
+- hòm (để) đóng hàng
+
+@packing-needle /'pækiɳ,ni:dl/
+*  danh từ
+- kim khâu kiện hàng
+
+@packing-paper /'pækiɳ,peipə/
+*  danh từ
+- giấy gói hàng
+
+@packing-sheet /'pækiɳʃi:t/
+*  danh từ
+- vải gói hàng
+- (y học) vải ướt (để) làm khăn đắp, vải ướt (để) làm mền cuốn
+
+@packman /'pækmən/
+*  danh từ
+- người bán hàng rong
+
+@packpaper /'pæk,peipə/
+*  danh từ
+- giấy (để) bọc, giấy (để) gói
+
+@packthread /'pækθred/
+*  danh từ
+- chỉ khâu bao bì
+- dây gói hàng
+
+@pact /pækt/
+*  danh từ
+- hiệp ước, công ước
+!Pact of Peace
+- hiệp ước hoà bình
+
+@pad /pæd/
+*  danh từ
+- (từ lóng) đường cái
+=gentleman (knight, squire) of the pad+ kẻ cướp đường
+- ngựa dễ cưỡi ((cũng) pad nag)
+*  động từ
+- đi chân, cuốc bộ
+=to pad it; to pad the hoof+ (từ lóng) cuốc bộ
+*  danh từ
+- cái đệm, cái lót; yên ngựa có đệm
+- tập giấy thấm; tập giấy (viết, vẽ)
+- lõi hộp mực đóng dấu
+- cái đệm ống chân (chơi bóng gậy cong...)
+- gan bàn chân (loài vật); bàn chân (thỏ, cáo...)
+*  ngoại động từ
+- đệm, lót, độn (áo...)
+- ((thường) + out) nhồi nhét những thứ thừa (đầy câu, đầy sách...)
+=to pad a sentence out+ nhồi nhét những thứ thừa đầy câu
+!padded cell
+- buồng có tường lót đệm (để nhốt người điên)
+*  danh từ
+- giỏ (dùng làm đơn vị đo lường)
+*  danh từ
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) ổ ăn chơi; tiệm hút
+
+@padding /'pædiɳ/
+*  danh từ
+- sự đệm, sự lót, sự độn
+- vật đệm, vật lót, vật độn
+- từ thừa nhồi nhét (đầy câu, đầy sách...)
+
+@paddle /'pædl/
+*  danh từ
+- cái giầm; cánh (guồng nước)
+=double paddle+ mái xuồng chèo cả hai đầu
+- cuộc bơi xuồng, sự chèo xuồng
+- (động vật học),  (như) flipper
+- chèo bằng giầm
+*  nội động từ
+- chèo thuyền bằng giầm
+- chèo nhẹ nhàng
+- lội nước
+- vầy, vọc, nghịch bằng ngón tay
+=to paddle in (on, about) something+ vầy một vật gì
+- đi chập chững (trẻ con)
+!to paddle one's own canoe
+- (xem) canoe
+
+@paddle board /'pædlbɔ:d/
+*  danh từ
+- ván (để) cưỡi sóng
+
+@paddle-box /'pædlbɔks/
+*  danh từ
+- bao guồng (tàu thuỷ)
+
+@paddle-wheel /'pædlwi:l/
+*  danh từ
+- guồng (tàu thuỷ)
+
+@paddlefish /'pædlfiʃ/
+*  danh từ
+- (động vật học) cá tầm thìa
+
+@paddock /'pædək/
+*  danh từ
+- bãi cỏ (ở trại nuôi ngựa)
+- bâi tập hợp ngựa (ở cạnh trường đua)
+- (Uc) mảnh ruộng, mảnh đất
+*  danh từ
+- (từ cổ,nghĩa cổ),  (tiếng địa phương) cóc nhái
+
+@paddy /'pædi/
+*  danh từ
+- (thông tục) Paddy người Ai-len
+- thóc, lúa; (từ Mỹ,nghĩa Mỹ) gạo
+- (từ Mỹ,nghĩa Mỹ) đồng lúa, ruộng lúa
+- dụng cụ để khoan
+*  danh từ+ (paddywhack) /'pædiwæk/
+- (thông tục) cơn giận
+
+@paddywhack /'pædi/
+*  danh từ
+- (thông tục) Paddy người Ai-len
+- thóc, lúa; (từ Mỹ,nghĩa Mỹ) gạo
+- (từ Mỹ,nghĩa Mỹ) đồng lúa, ruộng lúa
+- dụng cụ để khoan
+*  danh từ+ (paddywhack) /'pædiwæk/
+- (thông tục) cơn giận
+
+@padishah /'pɑ:diʃɑ:/ (Padshah) /'pædjuəsɔi/
+*  danh từ
+- Pađisat, vua (ở Ba-tư,  Thổ nhĩ kỳ)
+
+@padlock /'pædlɔk/
+*  danh từ
+- cái khoá móc
+*  ngoại động từ
+- khoá móc
+
+@padre /'pɑ:dri/
+*  danh từ
+- (thông tục) cha, thầy cả (trong quân đội)
+
+@padrone /pə'drouni/
+*  danh từ,  số nhiều padroni  /pə'drouni:/
+- chủ tàu buôn (ở Địa trung hải)
+- chủ quán (ở Y)
+- trùm nhạc sĩ rong, trùm hát xẩm
+- trùm trẻ con ăn xin (ở Y)
+
+@padroni /pə'drouni/
+*  danh từ,  số nhiều padroni  /pə'drouni:/
+- chủ tàu buôn (ở Địa trung hải)
+- chủ quán (ở Y)
+- trùm nhạc sĩ rong, trùm hát xẩm
+- trùm trẻ con ăn xin (ở Y)
+
+@padshah /'pɑ:diʃɑ:/ (Padshah) /'pædjuəsɔi/
+*  danh từ
+- Pađisat, vua (ở Ba-tư,  Thổ nhĩ kỳ)
+
+@paduasoy /'pædjuəsɔi/
+*  danh từ
+- lụa sọc ((thế kỷ) 18)
+
+@paean /'pi:ən/
+*  danh từ
+- bài tán ca (tán tụng thần A-pô-lô và Ac-tê-mít)
+- bài hát ca tụng; bài ca chiến thắng
+
+@paeaselene /,pærəsi'li:ni:/ (paraselenae) /,pærəsi'li:ni/
+*  danh từ số nhiều
+- (thiên văn học) trăng già, trăng ảo
+
+@paece-love /'pi:s,lʌvə/
+*  danh từ
+- người yêu chuộng hoà bình
+
+@paece-loving /'pi:s,lʌviɳ/
+*  tính từ
+- yêu chuộng hoà bình
+
+@paederasty /'pi:dəræsti/ (pederasty) /'pædəræsti/
+*  danh từ
+- thói đồng dâm nam
+
+@paediatrician /,pi:diə'triʃn/ (paediatrist) /,pi:di'ætrist/ (pedestrician) /pi'destriən/
+*  danh từ
+- bác sĩ khoa trẻ em
+
+@paediatrics /,pi:di'ætriks/ (pediatrics) /,pi:di'ætriks/
+*  danh từ,  số nhiều (dùng như số ít)
+- (y học) khoa trẻ em
+
+@paediatrist /,pi:diə'triʃn/ (paediatrist) /,pi:di'ætrist/ (pedestrician) /pi'destriən/
+*  danh từ
+- bác sĩ khoa trẻ em
+
+@paedogenesis /,pidɔ'dʤenisis/
+*  danh từ
+- (sinh vật học) sinh sản ấu thể
+
+@paedology /pi'dɔlədʤi/
+*  danh từ
+- môn tâm lý trẻ em, nhi đồng học ((cũng) pedology)
+
+@paeon /'pi:ən/
+*  danh từ
+- (thơ ca) thể thơ pêon (một âm tiết dài, ba âm tiết ngắn)
+
+@paeony /'piəni/ (paeony) /'piəni/
+*  danh từ
+- (thực vật học) cây mẫu đơn
+- hoa mẫu đơn
+
+@pagan /'peigən/
+*  danh từ
+- người tà giáo; người theo đạo nhiều thần
+- người tối dạ
+*  tính từ
+- (thuộc) tà giáo, (thuộc) đạo nhiều thần
+
+@pagandom /'peigəndəm/
+*  danh từ
+- giới tà giáo; giới đạo nhiều thần
+
+@paganise /'peigənaiz/ (paganise) /'peigənaiz/
+*  ngoại động từ
+- làm cho theo tà giáo; làm cho theo đạo nhiều thần
+*  nội động từ
+- theo tà giáo, theo đạo nhiều thần
+
+@paganish /'peigəniʃ/
+*  tính từ
+- có tính chất tà giáo, có tính chất đạo nhiều thần
+
+@paganism /'peigənizm/
+*  danh từ
+- tà giáo, đạo nhiều thần
+
+@paganize /'peigənaiz/ (paganise) /'peigənaiz/
+*  ngoại động từ
+- làm cho theo tà giáo; làm cho theo đạo nhiều thần
+*  nội động từ
+- theo tà giáo, theo đạo nhiều thần
+
+@page /peidʤ/
+*  danh từ
+- trang (sách...); (nghĩa bóng) trang sử
+*  ngoại động từ
+- đánh số trang
+*  danh từ
+- tiểu đồng
+- em nhỏ phục vụ (ở khách sạn, rạp hát...)
+*  ngoại động từ
+- (từ Mỹ,nghĩa Mỹ) sai em nhỏ phục vụ gọi (ai)
+*  nội động từ
+- (từ Mỹ,nghĩa Mỹ) làm em nhỏ phục vụ (ở khách sạn, rạp hát)
+
+@pageant /'pædʤənt/
+*  danh từ
+- đám rước lộng lẫy
+- hoạt cảnh lịch sử biểu diễn người trời
+- (nghĩa bóng) cảnh hào nhoáng bề ngoài, cảnh phô trương rỗng tuếch
+
+@pageantry /'pædʤəntri/
+*  danh từ
+- cảnh lộng lẫy
+- cảnh hào nhoáng bề ngoài, cảnh phô trương rỗng tuếch
+
+@pagehood /'peidʤhud/ (pageship) /'peidʤʃip/
+*  danh từ
+- thân phận tiểu đồng, thân phận em nhỏ phục vụ (ở khách sạn, rạp hát...)
+
+@pageship /'peidʤhud/ (pageship) /'peidʤʃip/
+*  danh từ
+- thân phận tiểu đồng, thân phận em nhỏ phục vụ (ở khách sạn, rạp hát...)
+
+@paginal /'pædʤinl/ (paginary) /'pædʤinəri/
+*  tính từ
+- (thuộc) trang sách; theo từng trang
+
+@paginary /'pædʤinl/ (paginary) /'pædʤinəri/
+*  tính từ
+- (thuộc) trang sách; theo từng trang
+
+@paginate /'pædʤineit/
+*  ngoại động từ
+- đánh số trang
+
+@pagination /,pædʤi'neiʃn/
+*  danh từ
+- sự đánh số trang
+
+@pagoda /pə'goudə/
+*  danh từ
+- chùa
+- đồng pagôt (tiền vàng Ân-độ thời xưa)
+- quán (bán báo, thuốc lá...)
+
+@pagoda-tree /pə'goudətri:/
+*  danh từ
+- (thực vật học) cây đa
+- (nghĩa bóng) cây đẻ ra tiền vàng
+=to shake the pagoda-tree+ làm giàu nhanh chóng, phất (ở Ân-độ)
+
+@pah /pɑ:/
+*  thán từ
+- hừ!, chà!
+
+@paid /pei/
+*  ngoại động từ paid  /peid/
+- trả (tiền lương...); nộp, thanh toán
+=to high wages+ trả lương cao
+=to pay somebody+ trả tiền ai
+=to pay a sum+ trả một số tiền
+=to pay one's debt+ trả nợ, thanh toán nợ
+=to pay taxes+ nộp thuế
+- (nghĩa bóng) trả công, thưởng, đền đáp lại
+- dành cho; đến (thăm...); ngỏ (lời khen...)
+=to pay a visit+ đến thăm
+=to pay one's respects to someone+ đến chào ai
+=to pay someone a compliment+ ngỏ lời khen ngợi, ca tụng ai
+=to pay attention to+ chú ý tới
+- cho (lãi...), mang (lợi...)
+=it pays six per cent+ món đó cho sáu phần trăm lãi
+*  nội động từ
+- trả tiền
+- (+ for) (nghĩa bóng) phải trả giá đắt, phải chịu hậu quả
+=he shall pay for it+ hắn sẽ phải trả giá đắt về việc đó
+- có lợi; mang lợi, sinh lợi
+=this concern does not pay+ công việc kinh doanh chẳng lợi lộc gì
+!to pay away
+- trả hết, thanh toán, trang trải
+- (hàng hải) thả (dây chuyền...)
+!to pay back
+- trả lại, hoàn lại
+!to pay down
+- trả tiền mặt
+!to pay in
+- nộp tiền
+!to pay off
+- thanh toán, trang trải
+- trả hết lương rồi cho thôi việc
+- giáng trả, trả đũa, trả thù
+- cho kết quả, mang lại kết quả
+- (hàng hải) đi né về phía dưới gió (tàu, thuyền)
+!to pay out
+- (như) to pay away
+- trả thù, trừng phạt (ai)
+!to pay up
+- trả hết, thanh toán, trang trải, xuỳ tiền ra
+!to pay someone in his own coin
+- (xem) coin
+!to pay through the nose
+- (xem) nose
+!he who pays the piper calls the tume
+- ai trả tiền thì người ấy có quyền
+!to pay one's way
+- không mang công việc mắc nợ
+!to pay for one's whistle
+- phải trả giá đắt về cái tính ngông cuồng của mình
+*  ngoại động từ
+- sơn, quét hắc ín
+
+@pail /peid/
+*  danh từ
+- cái thùng, cái xô
+- thùng (đầy), xô (đầy)
+=half a pail of milk+ nửa xô sữa
+
+@pailful /'peiful/
+*  danh từ
+- thùng (đầy), xô (đầy)
+
+@paillasse /pæl'jæs/ (palliasse) /pæl'jæs/
+*  danh từ
+- nệm rơm
+
+@paillette /pæl'jet/
+*  danh từ
+- vảy kim tuyến (để dưới lớp mem hay trên vải cho óng ánh)
+
+@pain /pein/
+*  danh từ
+- sự đau đớn, sự đau khổ (thể chất, tinh thần)
+=to have a pain in the head+ đau đầu
+- (số nhiều) sự đau đẻ
+- (số nhiều) nỗi khó nhọc công sức
+=to take pains+ bỏ công sức
+- hình phạt
+=pains and penalties+ các hình phạt
+=on (under) pain of death+ sẽ bị xử tử, sẽ bị tội chết (nếu vi phạm cái gì...)
+!to be at the pains of doing something
+- chịu thương chịu khó làm cái gì
+!to give someone a pain in the neck
+- quấy rầy ai, chọc tức ai
+*  ngoại động từ
+- làm đau đớn, làm đau khổ
+=does your tooth pain you?+ răng anh có làm anh đau không?
+*  nội động từ
+- đau nhức, đau đớn
+=my arm is paining+ tay tôi đang đau nhức đây
+
+@pain-killer /'pein,kilə/
+*  danh từ
+- thuốc giảm đau
+
+@pained /peind/
+*  tính từ
+- đau đớn, đau khổ, phiền lòng
+=to look pained+ trông có vẻ đau đớn, trông có vẻ đau khổ
+
+@painful /'peinful/
+*  tính từ
+- đau đớn, đau khổ; làm đau đớn, làm đau khổ
+- vất vả, khó nhọc, mất nhiều công sức
+
+@painless /'peinlis/
+*  tính từ
+- không đau đớn
+
+@painstaking /'peinz,teikiɳ/
+*  tính từ
+- chịu khó, cần cù; cẩn thận
+
+@paint /peint/
+*  danh từ
+- sơn
+- thuốc màu
+- phấn (bôi má)
+!as pretty (smart) as paint
+- đẹp như vẽ
+*  ngoại động từ
+- sơn, quét sơn
+=to paint a door green+ sơn cửa màu lục
+- vẽ, tô vẽ, mô tả
+=to paint a landscope+ vẽ phong cảnh
+=to paint a black (rosy) picture of+ bôi đen (tô hồng)
+- đánh phấn
+*  nội động từ
+- vẽ tranh
+- thoa phấn
+!to paint in
+- ghi bằng sơn
+!to paint out
+- sơn phủ lên, lấy sơn quét lấp đi
+!to panin in bright colours
+- vẽ màu tươi, vẽ màu sáng; (nghĩa bóng) tô hồng (sự việc gì)
+!to pain the lily
+- mặc thêm là lượt cho phò mã (làm một việc thừa)
+!to paint the town red
+- (xem) town
+
+@paint-box /peintbɔks/
+*  danh từ
+- hộp thuốc màu, hộp thuốc vẽ
+
+@paintbrush /peintbrʌʃ/
+*  danh từ
+- chổi sơn; bút vẽ
+
+@painted lady /peintid'leidi/
+*  danh từ
+- (động vật học) bướm vẽ
+
+@painter /peintə/
+*  danh từ
+- thợ sơn
+- hoạ sĩ
+*  danh từ
+- dây néo (thuyền tàu)
+!to cut the painter
+- (nghĩa bóng) cắt đứt, đoạn tuyệt
+
+@painter's colic /peintəz'kɔlik/
+*  danh từ
+- (y học) chứng đau bụng ngộ độc chì
+
+@painterly /peintəli/
+*  tính từ
+- (thuộc) hoạ sĩ; có liên quan đến hoạ sĩ; có tính điển hình hoạ sĩ
+
+@painting /'peintiɳ/
+*  danh từ
+- sự sơn
+- hội hoạ
+- bức vẽ, bức tranh
+
+@paintress /'peintris/
+*  danh từ
+- nữ hoạ sĩ
+
+@painty /'peinti/
+*  tính từ
+- (thuộc) sơn, (thuộc) màu, (thuộc) thuốc vẽ
+=painty smell+ mùi sơn
+- đậm màu quá (bức vẽ)
+
+@pair /peə/
+*  danh từ
+- đôi, cặp
+=a pair of gloves+ đôi găng tay
+=pair of horses+ cặp ngựa
+- cặp vợ chồng; đôi đực cái, đôi trống mái (loài vật)
+- chiếc; cái (đồ vật có hai bộ phận)
+=a pair of scissor+ cái kéo
+=where is the pair to this sock?+ chiếc tất kia đâu rồi?
+- (chính trị) cặp (nghị sĩ ở hai đảng đối lập thoả thuận cùng không bỏ phiếu); người kết đôi (một trong hai nghị sĩ ở hai đảng đối lạp thoả thuận cùng không bỏ phiếu)
+=I cannot find a pair+ tôi không tìm được người kết đôi (trong việc bỏ phiếu)
+!in pairs
+- từng đôi, từng cặp
+!pairs of stairs
+!pair of steps
+- cầu thang, tầng gác
+!that is another pair of shoes
+- đó lại là vấn đề khác
+*  ngoại động từ
+- ghép đôi, ghép cặp
+- cho yêu nhau, cho lấy nhau (đôi trai gái)
+*  nội động từ
+- kết đôi, sánh cặp
+- yêu nhau, lấy nhau (đôi trai gái); kết đôi với nhau (con đực con cái, con trống con mái)
+!to pair off
+- ghép từng đôi một; hợp thành từng đôi; kết đôi (trong việc thoả thuận không bỏ phiếu ở nghị trường)
+!to pair off with
+- (thông tục) kết duyên với
+
+@pair-horse /'peəhɔ:s/
+*  tính từ
+- hai ngựa, để cho một cặp ngựa
+=a pair-horse carriage+ xe hai ngựa
+
+@pair-oar /'peərɔ:/
+*  danh từ
+- (thể dục,thể thao) thuyền hai mái chèo
+
+@pajamas /pə'dʤɑ:məz/ (pajamas) /pə'dʤɑ:məz/
+*  danh từ số nhiều
+- pijama, quần áo ngủ
+
+@pakistani /,pɑ:kis'tɑ:ni/
+*  tính từ
+- (thuộc) Pa-ki-xtăng
+*  danh từ
+- người Pa-ki-xtăng
+
+@pal /pæl/
+*  danh từ
+- (từ lóng) bạn
+*  nội động từ
+- ((thường) + up) đánh bạn, kết bạn
+=to pal up with (to) someone+ đánh bạn với ai
+
+@palace /'pælis/
+*  danh từ
+- cung, điện; lâu đài
+- chỗ ở chính thức (của một thủ lĩnh tôn giáo)
+- quán ăn trang trí loè loẹt, tiệm rượu trang trí loè loẹt ((cũng) gin palace)
+
+@palace car /'pælis'kɑ:/
+*  danh từ
+- toa xe lửa sang trọng
+
+@paladin /'pælədin/
+*  danh từ
+- (sử học) lạc hầu (triều vua Sác-lơ-ma-nhơ)
+- (sử học) hiệp sĩ
+- người bênh vực, người đấu tranh (cho chính nghĩa...)
+
+@palaeographer /,pæli'ɔgrəfə/
+*  danh từ
+- nhà nghiên cứu chữ cổ
+
+@palaeography /,pæli'ɔgrəfi/
+*  danh từ
+- môn chữ cổ
+
+@palaeolith /'pæliəliθ/
+*  danh từ
+- thời kỳ đồ đá cũ
+
+@palaeolithic /,pæliou'liθik/
+*  tính từ
+- (thuộc) thời đồ đá cũ
+
+@palaeontologist /,pæliɔn'tɔlədʤist/
+*  danh từ
+- nhà cổ sinh vật học
+
+@palaeontology /,pæliɔn'tɔlədʤi/
+*  danh từ
+- môn cổ sinh vật
+
+@palaeozoic /pæliou'zouik/
+*  tính từ
+- (địa lý,địa chất) (thuộc) đại cổ sinh
+
+@palaestra /pə'lestrə/ (palestra) /pə'lestrə/
+*  danh từ,  số nhiều palaestrae  /pə'lestri:/
+- trường dạy võ, nơi tập võ
+
+@palaestrae /pə'lestrə/ (palestra) /pə'lestrə/
+*  danh từ,  số nhiều palaestrae  /pə'lestri:/
+- trường dạy võ, nơi tập võ
+
+@palankeen /,pælən'ki:n/ (palanquin) /,pælən'ki:n/
+*  danh từ
+- kiệu, cáng
+
+@palanquin /,pælən'ki:n/ (palanquin) /,pælən'ki:n/
+*  danh từ
+- kiệu, cáng
+
+@palatability /,pælətə'biliti/ (palatableness) /'pælətəblnis/
+*  danh từ
+- vị ngon
+- (nghĩa bóng) tính làm dễ chịu, tính làm khoan khái
+- tính có thể chấp nhận được
+
+@palatable /'pælətəbl/
+*  tính từ
+- ngon
+- (nghĩa bóng) làm dễ chịu, làm khoan khoái (tinh thần)
+- có thể chấp nhận được
+=a palatable fact+ một sự việc có thể chấp nhận được
+
+@palatableness /,pælətə'biliti/ (palatableness) /'pælətəblnis/
+*  danh từ
+- vị ngon
+- (nghĩa bóng) tính làm dễ chịu, tính làm khoan khái
+- tính có thể chấp nhận được
+
+@palatal /'pælətl/
+*  tính từ
+- (thuộc) vòm miệng
+- (ngôn ngữ học) vòm
+=palatal sound+ âm vòm
+
+@palatalization /'pælətəlai'zeiʃn/
+*  danh từ
+- (ngôn ngữ học) hiện tượng vòm hoá
+
+@palatalize /'pælətəlaiz/
+*  ngoại động từ
+- (ngôn ngữ học) vòm hoá, biến thành âm vòm
+
+@palate /'pælətl/
+*  danh từ
+- (giải phẫu) vòm miệng
+- khẩu vị; ý thích
+=to have a delicate palate+ rất sành ăn
+
+@palatial /pə'leiʃəl/
+*  tính từ
+- như lâu đài, như cung điện; nguy nga
+
+@palatinate /pə'lætinit/
+*  danh từ
+- (sử học) lânh địa sứ quân
+- màu hoa cà, áo thể thao màu hoa cà (ở trường đại học Đơ-ham)
+
+@palatine /'pælətain/
+*  tính từ
+- (thuộc) sứ quân
+*  danh từ
+- (sử học) (Palatine) sứ quân (bá tước có quyền như nhà vua trên lânh địa của mình)
+- áo choàng vai (bằng lông thú của phụ nữ)
+*  tính từ
+- (giải phẫu) (thuộc) vòm miệng
+=palatine bones+ xương vòm miệng
+*  danh từ số nhiều
+- (giải phẫu) xương vòm miệng
+
+@palatogram /'pælətəgræm/
+*  danh từ
+- (ngôn ngữ học) biểu đồ vòm
+
+@palaver /pə'lɑ:və/
+*  danh từ
+- lời nói ba hoa
+- lời dỗ ngọt, lời phỉnh phờ, lời tán tỉnh
+- cuộc hội đàm (giữa thổ dân Châu Phi với thương nhân, nhà thám hiểm...)
+- (từ lóng) áp phe, chuyện làm ăn
+*  danh từ
+- cọc, cọc rào
+- (thường),  (nghĩa bóng) giới hạn
+=within the palaver of+ trong giới hạn
+- vạch dọc giữa (trên huy hiệu)
+!the [English] Pale
+- phần đất đai Ai-len dưới sự thống trị của Anh
+
+@pale /peil/
+*  ngoại động từ
+- làm rào bao quanh, quây rào
+- làm tái đi, làm nhợt nhạt, làm xanh xám
+*  nội động từ
+- tái đi, nhợt nhạt, xanh xám
+- (nghĩa bóng) lu mờ đi
+=my work paled beside his+ công trình của tôi lu mờ đi bên cạnh công trình của anh ấy
+*  tính từ
+- tái, nhợt nhạt, xanh xám
+=to be pale with fear+ sợ xanh mặt
+=to look pale+ trông nhợt nhạt
+=to turn pale+ tái đi
+- nhợt (màu); lờ mờ, yếu ớt (ánh sáng)
+
+@pale-face /'peilfeis/
+*  danh từ
+- người da trắng (tiếng dùng của người da đỏ Châu Mỹ)
+
+@paled /peild/
+*  tính từ
+- có hàng rào
+
+@palestinian /,pæləs'tiniən/
+*  tính từ
+- (thuộc) Pa-le-xtin
+*  danh từ
+- người Pa-le-xtin
+
+@palestra /pə'lestrə/ (palestra) /pə'lestrə/
+*  danh từ,  số nhiều palaestrae  /pə'lestri:/
+- trường dạy võ, nơi tập v
+
+@paletot /'pæltoun/
+*  danh từ
+- áo khoác ngoài, áo choàng
+
+@palette /'pælit/
+*  danh từ
+- (hội họa) bảng màu ((cũng) pallet)
+- màu sắc riêng (một hoạ sĩ ưa dùng); màu sắc riêng (để vẽ một cảnh vật nào đó)
+
+@palette-knife /'pælitnaif/
+*  danh từ
+- dao trộn thuốc màu (của hoạ sĩ)
+
+@palfrey /'pɔ:lfri/
+*  danh từ
+- (từ cổ,nghĩa cổ),  (thơ ca) ngựa nhỏ ((thường) để cho đàn bà cưỡi)
+
+@pali /'pɑ:li/
+*  danh từ
+- tiếng Pa-li (Ân-độ)
+
+@palimpsest /'pælimpsest/
+*  danh từ
+- bản viết trên da cừu nạo,  palimxet
+
+@palindrome /'pælindroum/
+*  tính từ
+- đọc xuôi ngược đều giống như nhau
+*  danh từ
+- từ đọc xuôi ngược đều giống như nhau (ví dụ radar,  madam); câu thơ đọc xuôi ngược đều giống nhau
+
+@paling /'peiliɳ/
+*  danh từ
+- hàng rào cọc; những cọc rào
+
+@palingenesis /,pæli'dʤenisis/
+*  danh từ
+- sự sống lại; sự làm sống lại
+- (sinh vật học) sự phát sinh diễn lại
+
+@palisade /,pæli'seid/
+*  danh từ
+- hàng rào cọ, hàng rào chấn song sắt
+- (quân sự) cọc rào nhọn
+- (từ Mỹ,nghĩa Mỹ) hàng vách đá dốc đứng (ở bờ biển)
+*  ngoại động từ
+- rào bằng hàng rào chấn song
+
+@palish /'peiliʃ/
+*  tính từ
+- tai tái, hơi nhợt nhạt, hơi xanh xám
+
+@pall /pɔ:l/
+*  danh từ
+- vải phủ quan tài
+- áo bào (giáo hoàng, tổng giám mục)
+- (nghĩa bóng) vật che phủ, áo khoác, màn phủ
+=a pall of darkness+ màn đêm
+*  ngoại động từ
+- làm ngán, làm phát ngấy (vì quá nhàm)
+*  nội động từ
+- trở thành nhạt nhẽo vô vị (vì quá nhàm)
+
+@pall-bearer /'pɔ:l,beərə/
+*  danh từ
+- người hộ tang bên quan tài
+
+@pall-man /'pel'mel/
+*  danh từ
+- trò chơi penmen (đánh bóng qua vòng sắt)
+
+@palladia /pə'leidjəm/
+*  danh từ,  số nhiều palladia  /pə'leidjə/
+- (thần thoại,thần học) tượng thần Pa-lát (vị thần bảo hộ thành Tơ-roa)
+- sự bảo hộ, sự che chở
+- vật hộ mệnh, vật hộ thân, bảo bối
+*  danh từ
+- (hoá học) Palađi
+
+@palladium /pə'leidjəm/
+*  danh từ,  số nhiều palladia  /pə'leidjə/
+- (thần thoại,thần học) tượng thần Pa-lát (vị thần bảo hộ thành Tơ-roa)
+- sự bảo hộ, sự che chở
+- vật hộ mệnh, vật hộ thân, bảo bối
+*  danh từ
+- (hoá học) Palađi
+
+@pallet /'pælit/
+*  danh từ
+- ổ rơm, nệm rơm
+- bàn xoa (thợ gốm)
+- (hội họa) bảng màu ((cũng) palette)
+
+@pallia /'pæliəm/
+*  danh từ,  số nhiều pallia  /'pæliə/
+- áo bào (tổng giám mục)
+- áo choàng rộng (đặc biệt của người đàn ông Hy-lạp)
+- (động vật học) áo (của động vật thân mềm)
+
+@palliasse /pæl'jæs/ (palliasse) /pæl'jæs/
+*  danh từ
+- nệm rơm
+
+@palliate /'pælieit/
+*  ngoại động từ
+- làm giảm bớt tạm thời, làm dịu (đau)
+- giảm nhẹ; bào chữa (tội lỗi)
+
+@palliation /,pæli'eiʃn/
+*  danh từ
+- sự làm giảm bớt tạm thời, sự làm dịu (đau)
+- sự giảm nhẹ; sự bào chữa (tội lỗi)
+
+@palliative /'pæliətiv/
+*  tính từ
+- tạm thời làm dịu (đau)
+- giảm nhẹ; bào chữa (tội lỗi); xoa dịu
+=palliative measure+ biện pháp làm giảm nhẹ
+*  danh từ+ (palliator) /'pælieitə/
+- thuốc trị đỡ (đau)
+- biện pháp làm giảm nhẹ
+
+@palliator /'pæliətiv/
+*  tính từ
+- tạm thời làm dịu (đau)
+- giảm nhẹ; bào chữa (tội lỗi); xoa dịu
+=palliative measure+ biện pháp làm giảm nhẹ
+*  danh từ+ (palliator) /'pælieitə/
+- thuốc trị đỡ (đau)
+- biện pháp làm giảm nhẹ
+
+@pallid /'pælid/
+*  tính từ
+- xanh xao, vàng vọt
+
+@pallidness /'pælidnis/
+*  danh từ
+- sự xanh xao, sự vàng vọt
+
+@pallium /'pæliəm/
+*  danh từ,  số nhiều pallia  /'pæliə/
+- áo bào (tổng giám mục)
+- áo choàng rộng (đặc biệt của người đàn ông Hy-lạp)
+- (động vật học) áo (của động vật thân mềm)
+
+@pallor /'pælə/
+*  danh từ
+- vẻ xanh xao, vẻ tái nhợt
+
+@pally /'pæli/
+*  tính từ
+- (thông tục) thân thiết, nối kh
+
+@palm /pɑ:m/
+*  danh từ
+- (thực vật học) cây cọ, cây họ cau dừa
+- cành cọ (tượng trưng cho chiến thắng); (nghĩa bóng) chiến thắng; giải
+=to bear (carry) the palm+ chiến thắng, đoạt giải
+=to yield the palm+ chịu thua
+*  danh từ
+- gan bàn tay, lòng bàn tay
+- lòng găng tay
+- gan bàn tay (đơn vị đo lường rộng 4 insơ, dài 8 insơ)
+!to grease (cross) someone's palm
+- hối lộ ai, đút lót ai, đấm mồm ai
+*  ngoại động từ
+- giấu (quân bài, con súc sắc) trong lòng bàn tay
+- sờ bằng gan bàn tay
+- hối lộ, đút lót (ai)
+- (+ off) đánh lừa, đánh lộn sòng, đánh tráo
+=to palm off something upon (on) somebody+ đánh lừa mà tống cái gì cho ai
+
+@palm-grease /'pɑ:mɔil/
+*  danh từ
+- dầu cọ
+*  danh từ+ (palm-grease) /'pɑ:mgi:s/
+- (thông tục) tiền đút lót, tiền đấm mõm
+
+@palm-greasing /'pɑ:m,gri:siɳ/
+*  danh từ
+- (thông tục) sự đút lót, sự đấm mồm
+
+@palm-oil /'pɑ:mɔil/
+*  danh từ
+- dầu cọ
+*  danh từ+ (palm-grease) /'pɑ:mgi:s/
+- (thông tục) tiền đút lót, tiền đấm mõm
+
+@palm-sugar /'pɑ:m,ʃugə/
+*  danh từ
+- đường thốt nốt
+
+@palm-tree /'pɑ:mtri:/
+*  danh từ
+- (thực vật học) cây cọ; cây loại cau dừa
+
+@palma christi /'pælmə'kristi/
+*  danh từ
+- (thực vật học) cây thầu dầu
+
+@palmaceous /pæl'meiʃəs/
+*  tính từ
+- (thực vật học) (thuộc) loại cau dừa
+
+@palmar /'pælmə/
+*  tính từ
+- (thuộc) gan bàn tay; trong lòng bàn tay
+
+@palmary /'pælməri/
+*  tính từ
+- đoạt giải nhất, chiến thắng; trội nhất, ưu tú; đáng khen
+
+@palmate /'pælmit/ (palmated) /'pælmeitid/
+*  tính từ
+- (thực vật học) hình chân vịt (lá)
+- (động vật học) có màng (chân chim)
+
+@palmated /'pælmit/ (palmated) /'pælmeitid/
+*  tính từ
+- (thực vật học) hình chân vịt (lá)
+- (động vật học) có màng (chân chim)
+
+@palmer /'pɑ:mə/
+*  danh từ
+- người đi viếng đất thánh mang cành cọ về; thầy tu hành khất
+- sâu róm ((cũng) palmer worm)
+- ruồi giả (làm mồi câu)
+
+@palmetto /pæl'metou/
+*  danh từ,  số nhiều palmettos  /pæl'metou/
+- (thực vật học) loài cọ lùn
+
+@palmettos /pæl'metou/
+*  danh từ,  số nhiều palmettos  /pæl'metou/
+- (thực vật học) loài cọ lùn
+
+@palmful /'pɑ:mful/
+*  danh từ
+- lòng bàn tay (đầy), vốc (đầy)
+
+@palmiped /'pælmiped/
+*  tính từ
+- có màng ở chân (chim)
+*  danh từ
+- (động vật học) loại chim chân mảng
+
+@palmist /'pɑ:mist/
+*  danh từ
+- người xem tướng tay
+
+@palmistry /'pɑ:mistri/
+*  danh từ
+- thuật xem tướng tay
+
+@palmitic /pæl'mitik/
+*  tính từ
+- (hoá học) Panmitic
+=palmitic acid+ axit panmitic
+
+@palmy /'pɑ:mi/
+*  tính từ
+- (thuộc) cây cọ; giống cây cọ; nhiều cây cọ
+- chiến thắng; huy hoàng, quang vinh, rực rỡ
+=palmy days+ những ngày huy hoàng
+
+@palmyra /pæl'maiərə/
+*  danh từ
+- (thực vật học) cây thốt nốt (ở Ân-độ)
+
+@palp /pælp/ (palpus) /'pælpəs/
+*  danh từ
+- (động vật học) tua cảm, xúc tu
+
+@palpability /,pælpə'biliti/
+*  danh từ
+- tính chất sờ mó được
+- tính chất rõ ràng, tính chất chắc chắn (như sờ thấy được)
+
+@palpable /'pælpəbl/
+*  tính từ
+- sờ mó được
+- rõ ràng, chắc chắn (như sờ thấy được)
+
+@palpate /'pælpeit/
+*  ngoại động từ
+- sờ nắn (khi khám bệnh)
+
+@palpation /pæl'peiʃn/
+*  danh từ
+- sự sờ nắn (khi khám bệnh)
+
+@palpebral /'pælpibrəl/
+*  tính từ
+- (thuộc) mí mắt
+
+@palpi /'pælpəs/
+*  danh từ,  số nhiều palpi  /'pælpai/
+- (như) palp
+
+@palpitate /'pælpiteit/
+*  nội động từ
+- đập nhanh (tim mạch); hồi hộp
+- run lên
+=to palpitate with fear+ run s
+
+@palpitation /,pælpi'teiʃn/
+*  danh từ
+- sự đập nhanh (tim mạch); sự hồi hộp
+- trống ngực
+
+@palpus /'pælpəs/
+*  danh từ,  số nhiều palpi  /'pælpai/
+- (như) palp
+
+@palsgrave /'pɔ:lzgreiv/
+*  danh từ
+- (sử học) lãnh chúa
+
+@palstave /'pɔ:lsteiv/
+*  danh từ
+- (khảo cổ học) dao động, dao đá
+
+@palsy /'pɔ:lzi/
+*  danh từ
+- sự tê liệt ((nghĩa đen) & (nghĩa bóng))
+*  ngoại động từ
+- làm tê liệt
+
+@palter /'pɔ:ltə/
+*  nội động từ
+- nói quẩn nói quanh; quanh co không thực
+=to palter with someone+ nói quẩn nói quanh với ai; quanh co không thực với ai
+- cãi chày cãi cối; cò kè
+=to palter with someone about something+ cãi chày cãi cối với ai về cái gì; cò kè với ai về gì
+- coi thường, coi nhẹ, đùa cợt
+=to palter with a subject+ coi nhẹ một vấn đề
+
+@paltriness /'p:ltrinis/
+*  danh từ
+- tính tầm thường, tính nhỏ mọn; tính đáng khinh, tính ti tiện
+
+@paltry /'pɔ:ltri/
+*  tính từ
+- không đáng kể, tầm thương, nhỏ mọn; đáng khinh, ti tiện
+=a paltry sum+ món tiền nhỏ mọn
+=a paltry excuse+ lý do vớ vẩn
+
+@paludal /pə'lju:dl/
+*  tính từ
+- đầm lầy
+- (thuộc) bệnh sốt rét
+=paludal fever+ sốt rét
+
+@paludism /'pæljudizm/
+*  danh từ
+- (y học) bệnh sốt rét
+
+@paly /'peili/
+*  tính từ
+- (thơ ca) hơi tai tái, hơi xanh xao
+
+@pam /pæm/
+*  danh từ
+- (đánh bài) quân J nhép
+
+@pampa /'pæmpəz/
+*  danh từ,  số nhiều pampa  /'pæmpə/
+- đồng hoang (ở Nam mỹ)
+
+@pampas /'pæmpəz/
+*  danh từ,  số nhiều pampa  /'pæmpə/
+- đồng hoang (ở Nam mỹ)
+
+@pampas-grass /'pæmpəzgrɑ:s/
+*  danh từ
+- có bông bạc
+
+@pamper /'pæmpə/
+*  ngoại động từ
+- nuông chiều, làm hư
+!pampered mental
+- tôi tớ; kẻ bợ đ
+
+@pampero /pæm'peərou/
+*  danh từ,  số nhiều pamperos  /pæm'peərouz/
+- gió pampêrô (gió rét tây nam thổi từ dây Ăng-đơ đến Đại tây dương)
+
+@pamphlet /'pæmflit/
+*  danh từ
+- Pamfơlê, cuốn sách nhỏ (bàn về một vấn đề thời sự...)
+
+@pamphleteer /,pæmfli'tiə/
+*  danh từ
+- người viết pam-fơ-lê
+*  nội động từ
+- viết pam-fơ-lê
+
+@pan /pæn - pɑ:n/
+- pɑ:n/
+*  danh từ (Pan)
+- (thần thoại,thần học) thần đồng quê
+- ông Tạo
+- đạo nhiều thần
+*  danh từ
+- lá trầu không (để ăn trầu)
+- miếng trầu
+- xoong, chảo
+- đĩa cân
+- cái giần (để đãi vàng)
+- (kỹ thuật) nồi, bể (luyện kim...)
+- (địa lý,địa chất) đất trũng lòng chảo
+- (địa lý,địa chất) tầng đất cái ((cũng) hard pan)
+- ổ nạp thuốc súng (ở một số súng cổ)
+- sọ ((cũng) brain pan)
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) đầu; mặt
+*  ngoại động từ
+- (+ off,  out) đãi (vàng ở trong cát, bằng cái giần)
+- (thông tục) chỉ trích gay gắt, phê bình nghiêm khắc
+*  nội động từ (+ out)
+- đâi được vàng, có vàng (cát...)
+- (nghĩa bóng) kết quả
+=how did it pan out?+ việc ấy kết quả thế nào?
+=it panned out well+ cái đó kết quả khá
+
+@pan-americanism /'pænə'merikənizm/
+*  danh từ
+- chủ nghĩa liên M
+
+@pan-islamism /pæn'izləmizm/
+*  danh từ
+- chủ nghĩa liên hồi
+
+@pan-pipe /'pænpaip/
+*  danh từ
+- (âm nhạc) cái kèn
+
+@pan-slavism /'pæn'slævizm/
+*  danh từ
+- chủ nghĩa đại Xla-vơ
+
+@panacea /,pænə'siə/
+*  danh từ
+- thuốc bách bệnh
+
+@panache /pə'næʃ/
+*  danh từ
+- đuôi seo (chùm lông trên mũ)
+- (nghĩa bóng) sự phô trương, sự huênh hoang; điệu b
+
+@panada /pə'nɑ:də/
+*  danh từ
+- bánh mì nấu thành cháo đặc
+
+@panama /,pænə'mɑ:/
+*  danh từ
+- mũ panama ((cũng) panama hat)
+
+@panamanian /,pænə'meinjən/
+*  tính từ
+- (thuộc) Pa-na-ma
+*  danh từ
+- người Pa-na-ma
+
+@pancake /'pænkeik/
+*  danh từ
+- bánh kếp (giống như bánh đa)
+=flat as a pancake+ đét như bánh kếp, đét như cá mắm
+*  nội động từ
+- (hàng không),  (từ lóng) xuống thẳng (thân vẫn ngang)
+
+@panchromatic /'pænkrou'mætik/
+*  tính từ
+- (vật lý) toàn sắc
+
+@pancratic /pæn'krætik/
+*  tính từ
+- (thể dục,thể thao) (thuộc) môn vật tự do ((từ cổ,nghĩa cổ) Hy-lạp)
+
+@pancratist /'pænkrətist/
+*  danh từ
+- (thể dục,thể thao) đô vật môn tự do
+
+@pancratium /pæn'kreiʃiəm/
+*  danh từ
+- (thể dục,thể thao) môn đô vật tự do ((từ cổ,nghĩa cổ) Hy-lạp)
+
+@pancreas /'pæɳkriəs/
+*  danh từ
+- (giải phẫu) tuỵ, tuyến tuỵ
+
+@pancreatic /,pæɳkri'ætik/
+*  tính từ
+- (giải phẫu) (thuộc) tuỵ
+=pancreatic juice+ dịch tuỵ
+
+@panda /'pændə/
+*  danh từ
+- (động vật học) gấu trúc
+
+@pandean /pæn'di:ən/
+*  tính từ
+- (thuộc) thần đồng quê
+- pandean pipe (như) pan-pipe
+
+@pandect /'pændekt/
+*  danh từ,  (thường) số nhiều
+- (sử học) bộ dân luật La mã (do hoàng đế Duýt-xti-ni-an sai soạn hồi (thế kỷ) 6)
+- bộ luật
+
+@pandemic /pæn'demik/
+*  tính từ
+- (thuộc) dịch lớn; có tính chất dịch lớn (bệnh)
+*  danh từ
+- (y học) dịch lớn
+
+@pandemonium /,pændi'mounjəm/
+*  danh từ
+- địa ngục, xứ quỷ
+- nơi hỗn loạn; sự hỗn loạn tột đ
+
+@pander /'pændə/
+*  danh từ
+- ma cô, kẻ dắt gái (cho khách làng chơi); kẻ làm mai mối cho những mối tình bất chính
+- kẻ nối giáo cho giặc
+*  nội động từ (+ to)
+- thoả mân (dục vọng, ý đồ xấu)
+- xúi giục, xúi bẩy, nối giáo
+*  ngoại động từ
+- làm ma cô cho, làm kẻ dắt gái cho, làm mai mối lén lút cho
+
+@pandit /'pʌndit/ (pandit) /'pʌndit/
+*  danh từ
+- nhà học giả Ân-độ
+-(đùa cợt) nhà học giả
+- (từ Mỹ,nghĩa Mỹ) nhà học giả uyên thâm
+- (từ Mỹ,nghĩa Mỹ) nhà phê bình, nhà bình luận (đạo mạo và am hiểu)
+
+@pandora /pæn'dɔ:rə/ (pandore) /pæn'dɔ:/
+*  danh từ
+- (âm nhạc) đàn banđua
+
+@pandore /pæn'dɔ:rə/ (pandore) /pæn'dɔ:/
+*  danh từ
+- (âm nhạc) đàn banđua
+
+@pandowdy /pæn'daudi/
+*  danh từ
+- (từ Mỹ,nghĩa Mỹ) bánh putđing táo
+
+@pane /pein/
+*  danh từ
+- ô cửa kính
+- ô vuông (vải kẻ ô vuông)
+*  ngoại động từ,  (thường) động tính từ quá khứ
+- kẻ ô vuông (vải...)
+
+@panegerise /'pænidʤiraiz/ (panegerise) /'pænidʤiraiz/
+*  ngoại động từ
+- ca ngợi, tán tụng
+
+@panegyric /,pæni'dʤirik/
+*  danh từ
+- bài tán tụng
+=a panegyric upon someone's success+ bài tán tụng thắng lợi của ai
+- văn tán tụng
+*  tính từ+ (panegyrical) /,pæni'dʤirikəl/
+- ca ngợi, tán tụng
+
+@panegyrical /,pæni'dʤirik/
+*  danh từ
+- bài tán tụng
+=a panegyric upon someone's success+ bài tán tụng thắng lợi của ai
+- văn tán tụng
+*  tính từ+ (panegyrical) /,pæni'dʤirikəl/
+- ca ngợi, tán tụng
+
+@panegyrist /'pænidʤiraiz/
+*  danh từ
+- người ca ngợi, người tán tụng
+
+@panegyrize /'pænidʤiraiz/ (panegerise) /'pænidʤiraiz/
+*  ngoại động từ
+- ca ngợi, tán tụng
+
+@panel /'pænl/
+*  danh từ
+- cán ô (cửa, tường),  panô; ô vải khác màu (trên quần áo đàn bà); mảnh da (cừu, dê... để viết)
+- (pháp lý) danh sách hội thẩm; ban hội thẩm; (Ê-cốt) danh sách báo cáo; danh sách bác sĩ bảo hiểm (đăng ký nhận chữa bệnh nhân theo chế độ bảo hiểm ở Anh)
+- nhóm người tham gia hội thảo, nhóm người tham gia tiết mục "trả lời câu đố" ... (ở đài phát thanh, đài truyền hình); cuộc hội thảo... (ở đài phát thanh, đài truyền hình...)
+- Panô, bức tranh tấm, bức ảnh dài
+- đệm yên ngựa; yên ngựa (không có cốt sắt)
+- bảng,  panen
+=distribution panel+ bảng phân phối
+=control panel+ bảng điều khiển
+=signal panel+ bảng tín hiệu!
+*  ngoại động từ
+- đóng ván ô, đóng panô (cửa, tường)
+- may ô vải màu vào (quần áo)
+- đóng yên (ngựa)
+
+@panel doctor /'pænl'dɔktə/
+*  danh từ
+- bác sĩ hảo hiểm trong danh sách đăng ký nhận chữa bệnh nhân theo chế độ bảo hiểm ở Anh)
+
+@panellist /'pænəlist/
+*  danh từ
+- người trong nhóm tham gia cuộc hội thảo, người trong nhóm tham gia tiết mục "trả lời câu đố" ... (ở đài phát thanh, đài truyền hình)
+
+@panful /'pænful/
+*  danh từ
+- xoong (đầy), chảo (đầy)
+
+@pang /pæɳ/
+*  danh từ
+- sự đau nhói, sự đau đớn; sự giằn vật, sự day dứt (của lương tâm)
+=birth pangs+ cơn đau đẻ
+=the pangs of hunger+ sự giằn vặt của cơn đói
+
+@pangolin /pæɳ'goulin/
+*  danh từ
+- (động vật học) con tê tê
+
+@panhandle /'pæn,hændl/
+*  danh từ
+- cán xoong
+- (từ Mỹ,nghĩa Mỹ) vùng cán xoong (dải đất hẹp và dài thuộc một đơn vị hành chính nằm giữa hai đơn vị khác nhau)
+
+@panhandler /'pæn,hændlə/
+*  động từ
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) ăn mày, ăn xin; xin xỏ
+*  danh từ
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) kẻ ăn mày, kẻ ăn xin; kẻ xin x
+
+@panic /'pænik/
+*  danh từ
+- (thực vật học) cây tắc
+*  tính từ
+- sự hoảng sợ, sự hoang mang sợ hãi
+*  tính từ
+- hoảng sợ, hoang mang sợ hãi
+*  ngoại động từ
+- làm hoảng sợ, làm hoang mang sợ hãi
+
+@panic-monger /'pænik,mʌɳgə/
+*  danh từ
+- kẻ gieo rắc hoang mang sợ hãi
+
+@panic-stricken /'pænik,strikən/
+*  tính từ
+- hoảng sợ, hoang mang sợ hãi
+
+@panicky /'pænik/
+*  tính từ
+- (thông tục) hay hoảng sợ, yếu bóng vía, hay hoang mang sợ hãi
+
+@panicle /'pænikl/
+*  danh từ
+- (thực vật học) chuỳ (một kiểu cụm hoa)
+
+@paniculate /pə'nikjuleit/
+*  tính từ
+- (thực vật học) hình chuỳ; có chu
+
+@panification /,pænifi'keiʃn/
+*  danh từ
+- sự làm bánh mì
+
+@panjandrum /pən'dgændrəm/
+*  danh từ
+-(mỉa mai) quan lớn, vị tai to mặt lớn
+- công chức khệnh khạng
+
+@panlogism /'pænlədgizm/
+*  danh từ
+- (triết học) thuyết phiếm lôgic
+
+@panlogistic /,pænlou'dʤistik/
+*  tính từ
+- (triết học) phiếm lôgic
+
+@panmixia /pæn'miksiə/
+*  danh từ
+- (sinh vật học) sự giao phối bừa bãi
+
+@pannage /'pænidʤ/
+*  danh từ
+- quyền thả lợn vào rừng kiếm ăn
+- tiền thuế thả lợn vào rừng kiếm ăn
+- quả làm thức ăn cho lợn (quả sến, quả dẻ...)
+
+@panne /pæn/
+*  danh từ
+- vải pan (một loại vải mềm có tuyết dài)
+
+@pannier /'pæniə/
+*  danh từ
+- sọt, thúng, gi
+
+@pannikin /'pænikin/
+*  danh từ
+- chén nhỏ (bằng kim loại)
+- chén nhỏ (đầy) (nước, rượu...)
+
+@panoplied /'pænəplid/
+*  tính từ
+- mặc áo giáp đầy đ
+
+@panoply /'pænəpli/
+*  danh từ
+- bộ áo giáp
+- bộ đầu đủ (vật gì)
+
+@panopticon /pæn'ɔptikən/
+*  danh từ
+- nhà tù xây tròn (ở giữa có chòi gác)
+
+@panorama /,pænə'rɑ:mə/
+*  danh từ
+- bức tranh cuộn tròn dở lần lần (trước mặt người xem)
+- cảnh tầm rộng; (thường),  (nghĩa bóng) toàn cảnh; (điện ảnh) cảnh quay lia
+- (nghĩa bóng) sự hình dung lần lần (sự việc, hình ảnh) trong trí óc
+
+@panoramic /,pænə'ræmik/
+*  tính từ
+- có cảnh tầm rộng; có tính chất toàn cảnh
+
+@pansy /'pænzi/
+*  danh từ
+- (thực vật học) cây hoa bướm, cây hoa păng-xê; hoa bướm, hoa păng-xê
+- (thông tục) anh chàng ẻo là ẽo ợt ((cũng) pansy boy); người kê gian, người tình dục đồng giới
+
+@pant /pænt/
+*  danh từ
+- sự thở hổn hển; sự đập thình thình (ngực...)
+- hơi thở hổn hển
+*  ngoại động từ
+- nói hổn hển
+=to pant out a few worlds+ hổn hển nói ra vài tiếng
+*  nội động từ
+- thở hổn hển; nói hổn hển
+- (nghĩa bóng) mong muốn thiết tha, khao khát
+=to pant for (after) something+ khao khát cái gì
+
+@pantalets /,pæntə'lets/ (pantalettes) /,pæntə'lets/
+*  danh từ số nhiều
+- quần đàn bà
+- quần đùi (để) đi xe đạp
+
+@pantalettes /,pæntə'lets/ (pantalettes) /,pæntə'lets/
+*  danh từ số nhiều
+- quần đàn bà
+- quần đùi (để) đi xe đạp
+
+@pantaloon /,pæntə'lu:n/
+*  danh từ
+- vai hề trong kịch câm
+- (sử học), (số nhiều hoặc số ít) quần bó ống, quần chẽn
+- (số nhiều) (từ Mỹ,nghĩa Mỹ) quần
+
+@pantechnicon /pæn'teknikən/
+*  danh từ
+- kho hàng đồ g
+
+@pantheism /'pænθi:izm/
+*  danh từ
+- thuyết phiếm thần
+
+@pantheist /'pænθi:ist/
+*  danh từ
+- người theo thuyết phiếm thần
+
+@pantheistic /'pænθi:'istik/ (pantheistical) /'pænθi:'istik/
+*  tính từ
+- (thuộc) thuyết phiếm thần
+
+@pantheistical /'pænθi:'istik/ (pantheistical) /'pænθi:'istik/
+*  tính từ
+- (thuộc) thuyết phiếm thần
+
+@pantheon /pæn'θi:ən/
+*  danh từ
+- đền thờ bách thần
+- các vị thần (của một dân tộc)
+=the Egyptian pantheon+ các vị thần của Ai-cập
+- lăng danh nhân, đền thờ các danh nhân
+
+@panther /'pænθə/
+*  danh từ
+- (động vật học) con báo
+
+@pantheress /'pænθəris/
+*  danh từ
+- (động vật học) báo cái
+
+@panties /'pænti:z/
+*  danh từ số nhiều
+- (thông tục) quần trẻ con; xì líp (đàn bà)
+
+@pantile /'pæntail/
+*  danh từ
+- ngói cong, ngói bò
+
+@pantisocracy /,pænti'sɔkrəsi/
+*  danh từ
+- chế độ bình quyền
+
+@pantograph /'pæntəgrɑ:f/
+*  danh từ
+- máy vẽ truyền
+
+@pantographic /,pæntə'græfik/
+*  tính từ
+- vẽ truyền bằng máy
+
+@pantomime /'pæntəmaim/
+*  danh từ
+- kịch câm; diễn viên kịch câm
+- kịch pantomim (một loại kịch câm thần thoại Anh)
+*  động từ
+- ra hiệu kịch câm
+
+@pantomimic /,pæntə'mimik/
+*  tính từ
+- (thuộc) kịch câm; có tính chất kịch câm
+
+@pantopragmatic /,pæntəpræg'mætik/
+*  danh từ
+- người hay nhúng vào mọi việc
+*  tính từ
+- hay nhúng vào mọi việc
+
+@pantoscopic /,pæntə'skɔpik/
+*  tính từ
+- bao quát
+
+@pantry /'pæntri/
+*  danh từ
+- phòng để thức ăn, phòng để đồ dùng ăn uống; chạn bát đĩa, chạn thức ăn
+
+@pants /pænts/
+*  danh từ số nhiều
+- quần lót dài
+- (từ Mỹ,nghĩa Mỹ) quần dài
+
+@panzer /'pæntsə/
+*  tính từ
+- thiết giáp
+=panzer division+ sư đoàn thiết giáp
+=panzer troops+ quân thiết giáp
+
+@panzers /'pæntsəz/
+*  danh từ số nhiều
+- (thông tục) quân thiết giáp
+
+@pap /pæp/
+*  danh từ
+- thức ăn sền sệt (cháo đặc, bột quấy đặc...)
+- chất sền sệt
+*  danh từ
+- (từ cổ,nghĩa cổ) đầu vú (đàn bà, đàn ông)
+- (số nhiều) những quả đồi tròn nằm cạnh nhau
+
+@papa /pə'pɑ:/
+*  danh từ
+- uây (từ Mỹ,nghĩa Mỹ) b
+
+@papacy /'peipəsi/
+*  danh từ
+- chức giáo hoàng
+- chế độ giáo hoàng
+
+@papain /pə'peiin/
+*  danh từ
+- Papain
+
+@papal /'peipəl/
+*  tính từ
+- (thuộc) giáo hoàng
+
+@papalism /'peipəlizm/
+*  danh từ
+- chủ nghĩa giáo hoàng
+
+@papalist /'peipəlist/
+*  danh từ
+- người theo chủ nghĩa giáo hoàng
+
+@papaveraceous /pə,peivə'reiʃəs/
+*  tính từ
+- (thực vật học) (thuộc) họ thuốc phiện ((cũng) papaverous)
+
+@papaverous /pə'peivərəs/
+*  tính từ,  (thực vật học)
+- (như) papaveraceous
+- như cây thuốc phiện
+
+@papaw /pə'pɔ:/ (papaya) /pə'paiə/
+*  danh từ
+- cây đu đủ
+- quả đu đ
+
+@papaya /pə'pɔ:/ (papaya) /pə'paiə/
+*  danh từ
+- cây đu đủ
+- quả đu đ
+
+@paper /'peipə/
+*  danh từ
+- giấy
+=correspondence paper+ giấy viết thượng hạng; giấy viết hạng sang
+=ruled paper+ giấy kẻ
+- (số nhiều) giấy tờ, giấy má (giấy chứng minh, hồ sơ...)
+=to show one's papers+ trình giấy tờ
+- báo
+=daily paper+ báo hằng ngày
+=weekly paper+ báo hằng tuần
+=sporting paper+ báo thể dục thể thao
+- bạc giấy ((cũng) paper money); hối phiếu
+- gói giấy, túi giấy
+=a paper of needles+ gói kim
+- (từ lóng) giấy vào cửa không mất tiền, vé mời (rạp hát...)
+- đề bài thi
+- bài luận văn, bài thuyết trình
+!to commit to paper
+- viết, ghi vào
+!on paper
+- trên giấy tờ, trên lý thuyết
+=on paper it looks quite safe+ trên giấy tờ vấn đề có vẻ rất ổn
+!paper profits
+- lãi trên giấy tờ
+!to put pen to paper
+- bắt đầu viết
+*  ngoại động từ
+- dán giấy lên
+=to paper a room+ dán giấy một căn buồng
+- bọc giấy, gói bằng giấy
+- cung cấp giấy
+- (từ lóng) phát vé mời không để làm đầy (rạp hát...)
+
+@paper-back /'peipəbæk/
+*  danh từ
+- sách bìa thường
+- sách đọc giải trí, sách ly k
+
+@paper-bag cookery /'peipəbæg'kukəri/
+*  danh từ
+- cách nấu túi giấy (nấu thức ăn bằng túi giấy phết bơ bỏ lò)
+
+@paper-boy /'peipəbɔi/
+*  danh từ
+- em bé bán báo
+
+@paper-chase /'peipətʃeis/
+*  danh từ
+- (thể dục,thể thao) trò chạy việt dã đuổi theo người vứt giấy
+
+@paper-cutter /'peipə,kʌtə/
+*  danh từ
+- dao xén giấy; máy xén giấy
+
+@paper-fastener /'peipə,fɑ:snə/
+*  danh từ
+- cái kẹp giấy
+
+@paper-hanger /'peipə,hæɳə/
+*  danh từ
+- thợ dán giấy tường
+
+@paper-hangings /'peipə,hæɳiɳz/
+*  danh từ số nhiều
+- giấy dán tường
+
+@paper-knife /'peipənaif/
+*  danh từ
+- dao rọc giấy
+
+@paper-mill /'peipəmil/
+*  danh từ
+- nhà máy giấy
+
+@paper-stainer /'peipə,steinə/
+*  danh từ
+- người in màu lên giấy dán tường
+- người làm giấy dán tường
+
+@paper-weight /'peipəweit/
+*  danh từ
+- cái chặn giấy
+
+@papery /'peipəri/
+*  tính từ
+- như giấy; mỏng như giấy
+
+@papier mâché /'pæpjei'mɑ:ʃei/
+*  danh từ
+- giấy bồi
+
+@papilionaceous /pə,piliə'neiʃəs/
+*  tính từ (thực vật học)
+- (thuộc) họ cánh bướm, (thuộc) họ đậu
+- có tràng cánh bướm (hoa)
+
+@papilla /pə'pilə/
+*  danh từ,  số nhiều papillae  /pə'pili:/
+- (sinh vật học) nh
+
+@papillae /pə'pilə/
+*  danh từ,  số nhiều papillae  /pə'pili:/
+- (sinh vật học) nh
+
+@papillary /pə'piləri/
+*  tính từ
+- (sinh vật học) hình nh
+
+@papillate /'pæpilit/ (papillose) /'pæpilous/
+*  tính từ
+- (như) papillary
+- có nh
+
+@papillose /'pæpilit/ (papillose) /'pæpilous/
+*  tính từ
+- (như) papillary
+- có nh
+
+@papist /'peipist/
+*  danh từ
+- người theo chủ nghĩa giáo hoàng
+- (nghĩa xấu), (đùa cợt) người theo đạo Gia-tô
+
+@papistic /pə'pistik/ (papistical) /pə'pistikəl/
+*  tính từ
+- theo chủ nghĩa giáo hoàng
+
+@papistical /pə'pistik/ (papistical) /pə'pistikəl/
+*  tính từ
+- theo chủ nghĩa giáo hoàng
+
+@papistry /'peipistri/
+*  danh từ
+- chủ nghĩa giáo hoàng
+
+@papoose /pə'pu:s/
+*  danh từ
+- trẻ con người da đỏ
+
+@papoosh /bə'bu:ʃ/ (papoosh) /pə'pu:ʃ/
+*  danh từ
+- giày hạ, hài (A-ÃRập)
+
+@papper-grass /'pepəgrɑ:s/
+*  danh từ
+- (thực vật học) cải xoong cạn
+
+@pappose /'pæpous/
+*  danh từ
+- (thực vật học) mào lông
+
+@pappus /'pæpəs/
+*  danh từ
+- (thực vật học) mào lông
+
+@pappy /'pæpi/
+*  tính từ
+- sền sệt
+
+@paprika /'pæprikə/
+*  danh từ
+- ớt cựa gà
+
+@papuan /'pæpjuən/
+*  tính từ
+- (thuộc) người Pa-pu (thổ dân châu Đại dương)
+
+@papula /'pæpjulə/ (papule) /'pæpju:l/
+*  danh từ,  số nhiều papulae  /'pæpjuli:/
+- (sinh vật học) nốt nhú
+
+@papulae /'pæpjulə/ (papule) /'pæpju:l/
+*  danh từ,  số nhiều papulae  /'pæpjuli:/
+- (sinh vật học) nốt nhú
+
+@papular /'pæpjulə/
+*  tính từ
+- (sinh vật học) có nốt sần
+
+@papulose /'pæpjulous/ (papulous) /'pæpjuləs/
+*  tính từ
+- (sinh vật học) có nốt nhú
+
+@papulous /'pæpjulous/ (papulous) /'pæpjuləs/
+*  tính từ
+- (sinh vật học) có nốt nhú
+
+@papyri /pə'paiərai/
+*  danh từ,  số nhiều papyrus  /pə'paiɔrɔs/
+- cây cói giấy
+- giấy cói
+- (số nhiều) sách giấy cói
+
+@papyrus /pə'paiərai/
+*  danh từ,  số nhiều papyrus  /pə'paiɔrɔs/
+- cây cói giấy
+- giấy cói
+- (số nhiều) sách giấy cói
+
+@par /pɑ:/
+*  tính từ
+- (từ Mỹ,nghĩa Mỹ) trung bình; bình thường
+*  danh từ
+- sự ngang hàng
+=on a par with+ ngang hàng với
+- tỷ giá; giá trung bình, mức trung bình
+=par of exchange+ tỷ giá hối đoái
+=at par+ ngang giá
+=above par+ trên mức trung bình; trên mức quy định
+=below par+ dưới mức bình thường, dưới mức quy định
+*  danh từ
+- (thông tục),  (như) paragraph
+
+@par avion /,pɑ:rə'vjɔ:ɳ/
+*  phó từ
+- bằng máy bay (thư gửi đi)
+
+@par excellence /pɑ:r'eksəlỴ:ns/
+*  phó từ
+- đệ nhất, thượng hạng; đặc biệt
+
+@parable /'pærəbl/
+*  danh từ
+- truyện ngụ ngôn
+- (từ cổ,nghĩa cổ) lời nói bí ẩn
+- (từ cổ,nghĩa cổ) tục ngữ
+!to take up one's parable
+- (từ cổ,nghĩa cổ) bắt đầu nói chuyện, bắt đầu đàm luận
+
+@parabola /pə'ræbələ/
+*  danh từ
+- (toán học) Parabôn
+
+@parabolic /,pærə'bɔlik/
+*  tính từ
+- (toán học) parabolic ((từ hiếm,nghĩa hiếm) (cũng) parabolical)
+- (thuộc) truyện ngụ ngôn; diễn đạt bằng ngụ ngôn ((cũng) parabolical)
+
+@parabolical /,pærə'bɔlikəl/
+*  tính từ
+- (thuộc) truyện ngụ ngôn; diễn đạt bằng ngụ ngôn ((cũng) parabolic)
+- (từ hiếm,nghĩa hiếm) (như) parabolic
+
+@paraboloid /pə'ræbəlɔid/
+*  danh từ
+- (toán học) Paraboloit
+
+@parabomb /,pærə'bɔm/
+*  danh từ
+- bom dù nổ chậm
+
+@parachronism /pə'rækrənizm/
+*  danh từ
+- sự lùi niên đại
+
+@parachute /'pærəʃu:t/
+*  danh từ
+- cái dù (để nhảy)
+*  ngoại động từ
+- thả bằng dù
+*  nội động từ
+- nhảy dù
+
+@parachute flare /'pærəʃu:t'fleə/
+*  danh từ
+- pháo sáng đeo dù
+
+@parachute jump /'pærəʃu:t'dʤʌmp/
+*  danh từ
+- sự nhảy dù
+
+@parachute mine /'pærəʃu:t'main/
+*  danh từ
+- mìn thả bằng dù
+
+@parachute troops /'pærəʃu:t'tru:ps/
+*  danh từ
+- quân nhảy dù
+
+@parachute-jumper /'pærəʃu:tə/ (parachute-jumper) /'pærəʃu:t,dʤʌmpə/
+-jumper) /'pærəʃu:t,dʤʌmpə/
+*  danh từ
+- người nhảy dù
+
+@parachuter /'pærəʃu:tə/ (parachute-jumper) /'pærəʃu:t,dʤʌmpə/
+-jumper) /'pærəʃu:t,dʤʌmpə/
+*  danh từ
+- người nhảy dù
+
+@parachutist /'pærəʃu:tist/
+*  danh từ
+- người nhảy dù
+
+@paraclete /'pærəkli:t/
+*  danh từ
+- người bào chữa, người bênh vực, người an ủi
+
+@parade /pə'reid/
+*  danh từ
+- sự phô trương
+- cuộc diễu hành, cuộc duyệt binh
+=Mac Day parade+ cuộc diễu hành ngày 1 tháng 5
+- nơi duyệt binh; thao trường ((cũng) parade ground)
+- đường đi dạo mát; công viên
+!programme parade
+- chương trình các tiết mục (truyền thanh, truyền hình)
+*  ngoại động từ
+- tập họp (quân đội) để duyệt binh, cho diễu hành, cho diễu binh
+=to parade troops+ cho diễu binh
+- phô trương
+=to parade one's skill+ phô tài khoe khéo
+- diễu hành qua, tuần hành qua
+=to parade the streets+ diễu hành qua phố
+*  nội động từ
+- diễu hành, tuần hành
+
+@parade-ground /pə'reidgraund/
+*  danh từ
+- nơi duyệt binh; thao trường
+
+@paradigm /'pærədaim/
+*  danh từ
+- mẫu
+- (ngôn ngữ học) hệ biến hoá
+
+@paradisaic /,pærə'disiæk/ (paradisaic) /,pærədi'seik/ (paradisaical) /,pærədi'seikəl/ (paradisiacal) /,pærədi'saiəkəl/ (paradisial) /,pærə'disiəl/ (paradisic) /,pærə'dizik/ (paradisical) /,pærə'dizikəl/
+*  tính từ
+- như ở thiên đường, cực lạc
+
+@paradisaical /,pærə'disiæk/ (paradisaic) /,pærədi'seik/ (paradisaical) /,pærədi'seikəl/ (paradisiacal) /,pærədi'saiəkəl/ (paradisial) /,pærə'disiəl/ (paradisic) /,pærə'dizik/ (paradisical) /,pærə'dizikəl/
+*  tính từ
+- như ở thiên đường, cực lạc
+
+@paradise /'pærədaiz/
+*  danh từ
+- thiên đường, nơi cực lạc
+- lạc viên ((cũng) earthly paradise)
+- vườn thú
+- (từ lóng) tầng thượng, tầng trêm cùng (nhà hát)
+!fool's paradise
+- hạnh phúc bánh vẽ
+
+@paradisiac /,pærə'disiæk/ (paradisaic) /,pærədi'seik/ (paradisaical) /,pærədi'seikəl/ (paradisiacal) /,pærədi'saiəkəl/ (paradisial) /,pærə'disiəl/ (paradisic) /,pærə'dizik/ (paradisical) /,pærə'dizikəl/
+*  tính từ
+- như ở thiên đường, cực lạc
+
+@paradisiacal /,pærə'disiæk/ (paradisaic) /,pærədi'seik/ (paradisaical) /,pærədi'seikəl/ (paradisiacal) /,pærədi'saiəkəl/ (paradisial) /,pærə'disiəl/ (paradisic) /,pærə'dizik/ (paradisical) /,pærə'dizikəl/
+*  tính từ
+- như ở thiên đường, cực lạc
+
+@paradisial /,pærə'disiæk/ (paradisaic) /,pærədi'seik/ (paradisaical) /,pærədi'seikəl/ (paradisiacal) /,pærədi'saiəkəl/ (paradisial) /,pærə'disiəl/ (paradisic) /,pærə'dizik/ (paradisical) /,pærə'dizikəl/
+*  tính từ
+- như ở thiên đường, cực lạc
+
+@paradisic /,pærə'disiæk/ (paradisaic) /,pærədi'seik/ (paradisaical) /,pærədi'seikəl/ (paradisiacal) /,pærədi'saiəkəl/ (paradisial) /,pærə'disiəl/ (paradisic) /,pærə'dizik/ (paradisical) /,pærə'dizikəl/
+*  tính từ
+- như ở thiên đường, cực lạc
+
+@paradisical /,pærə'disiæk/ (paradisaic) /,pærədi'seik/ (paradisaical) /,pærədi'seikəl/ (paradisiacal) /,pærədi'saiəkəl/ (paradisial) /,pærə'disiəl/ (paradisic) /,pærə'dizik/ (paradisical) /,pærə'dizikəl/
+*  tính từ
+- như ở thiên đường, cực lạc
+
+@parados /'pærədɔks/
+*  danh từ
+- (quân sự) bờ lưng (bờ cao dọc phía sau hào)
+
+@paradox /'pærədɔks/
+*  danh từ
+- ý kiến ngược đời
+- (triết học) nghịch biện
+- (toán học) nghịch lý
+- ngược đời, vật ngược đời
+
+@paradoxical /,pærə'dɔksikəl/
+*  tính từ
+- ngược đời, nghịch lý
+
+@paraffin /'pærəfin/
+*  danh từ
+- (hoá học) Parafin
+*  ngoại động từ
+- đắp parafin; chữa bằng parafin
+
+@paraffin oil /'pærəfin'ɔil/
+*  danh từ
+- dầu parafin
+
+@paragon /'pærəgən/
+*  danh từ
+- mẫu mực; tuyệt phẩm
+=paragon of virture+ mẫu mực về đạo đức
+- viên kim cương tuyệt đẹp (hơn 100 cara)
+*  ngoại động từ
+- (thơ ca) (+ with) so sánh (với)
+
+@paragraph /'pærəgrɑ:f/
+*  danh từ
+- đoạn văn
+- dấu mở đầu một đoạn văn; dấu xuống dòng
+- mẫu tin (trên báo, thường không có đề)
+*  ngoại động từ
+- sắp xếp (một bài...) thành đoạn; chia thành đoạn
+- viết mẫu tin (về người, vật...)
+
+@paragrapher /'pærəgrɑ:fə/ (paragraphist) /'pærəgrəfist/
+*  danh từ
+- người chuyên viết mẫu tin (trên báo)
+
+@paragraphic /,pærə'græfik/ (paragraphical) /,pærə'græfikəl/
+*  tính từ
+- gồm có nhiều đoạn
+
+@paragraphist /'pærəgrɑ:fə/ (paragraphist) /'pærəgrəfist/
+*  danh từ
+- người chuyên viết mẫu tin (trên báo)
+
+@paraguay /'pærəgwai/
+*  danh từ
+- (thực vật học) chè matê
+
+@paraguayan /,pærə'gwaiən/
+*  tính từ
+- (thuộc) Pa-ra-guay
+*  danh từ
+- người Pa-ra-guay
+
+@parakeet /'pærəki:t/ (paroquet) /'pærəkit/
+*  danh từ
+- (động vật học) vẹt đuôi dài
+
+@parakite /'pærəkait/
+*  danh từ
+- (hàng không) diều dù (diều dùng làm dù)
+- diều không đuôi (để tiến hành những nghiên cứu khoa học không trung)
+
+@paraldehyde /pə'rældihaid/
+*  danh từ
+- (hoá học) Paranddehyt
+
+@parallactic /,pærə'læktik/
+*  tính từ
+- (thuộc) thị sai
+
+@parallax /'pærəlæks/
+*  danh từ
+- thị sai
+=annual parallax+ thị sai hằng năm
+=horizontal parallax+ thị sai chân trời
+=optical parallax+ thị sai
+=spectroscopic parallax+ thị sai quang phổ
+
+@parallel /'pærəlel/
+*  tính từ
+- song song
+=parallel to (with)+ song song với
+- tương đương, tương tự, giống với, ngang hàng
+=here is a parallel case+ đây là một trường hợp tương tự
+*  danh từ
+- đường song song
+- đường vĩ, vĩ tuyến ((cũng) parallel of latitude)
+=the 17th parallel+ vĩ tuyến 17
+- (quân sự) đường hào ngang (song song với trận tuyến)
+- người tương đương, vật tương đương
+=without [a] parallel+ không ai (không gì) sánh bằng
+- sự so sánh, sự tương đương
+=to draw a parallel between two things+ so sánh hai vật
+- (điện học) sự mắc song song
+- dấu song song
+*  ngoại động từ
+- đặt song song với; tìm tương đương với; so sánh
+=to parallel one thing with another+ so sánh vật này với vật kia
+- song song với; tương đương với; ngang với, giống với
+=the road parallels the river+ con đường chạy song song với con sông
+- (điện học) mắc song song
+
+@parallel bars /'pærəlel,bɑ:z/
+*  danh từ
+- (thể dục,thể thao) xà kép
+
+@parallelepiped /,pærəle'lepiped/
+*  danh từ
+- (toán học) hình hộp
+
+@parallelism /'pærəlelizm/
+*  danh từ
+- sự song song; tính song song
+- sự tương đương; tính tương đương
+- (văn học) cách đổi, lối song song
+- (ngôn ngữ học) quan hệ song song
+
+@parallelogram /,pærə'leləgræm/
+*  danh từ
+- (toán học) hình bình hành
+!parallelogram of forces
+- (vật lý) hình bình hành lực
+
+@paralogism /pə'rælədʤizm/
+*  danh từ
+- (triết học) ngộ biện
+
+@paralogize /pə'rælədʤaiz/
+*  nội động từ
+- (triết học) ngộ biện
+
+@paralysation /,pærəlai'zeiʃn/
+*  danh từ
+- sự liệt, sự tê liệt
+- (nghĩa bóng)
+- sự làm liệt, sự làm tê liệt
+
+@paralyse /'pærəlaiz/ (paralyze) /'pærəlaiz/
+*  ngoại động từ
+- (y học) làm liệt
+- (nghĩa bóng) làm tê liệt, làm đờ ra
+=to be paralysed with fear+ đờ người ra vì sợ
+
+@paralyses /pə'rælisi:z/
+*  danh từ,  số nhiều paralysis  /pə'rælisis/
+- (y học) chứng liệt
+- (nghĩa bóng) tình trạng tê liệt
+
+@paralysis /pə'rælisi:z/
+*  danh từ,  số nhiều paralysis  /pə'rælisis/
+- (y học) chứng liệt
+- (nghĩa bóng) tình trạng tê liệt
+
+@paralytic /,pærə'litik/
+*  tính từ
+- (y học) bị liệt
+- (nghĩa bóng) bị tê liệt
+- (từ lóng) say mèm, say tí bỉ
+*  danh từ
+- người bị liệt ((nghĩa đen) & (nghĩa bóng))
+
+@paralyze /'pærəlaiz/ (paralyze) /'pærəlaiz/
+*  ngoại động từ
+- (y học) làm liệt
+- (nghĩa bóng) làm tê liệt, làm đờ ra
+=to be paralysed with fear+ đờ người ra vì sợ
+
+@paramagnetic /,pærəmæg'netik/
+*  tính từ
+- (y học) thuận từ
+=paramagnetic body+ chất thuận từ
+
+@paramagnetism /,pærə'mægnitizm/
+*  danh từ
+- (vật lý) tính thuận từ
+
+@paramatta /,ærə'mætə/
+*  danh từ
+- vải len nhẹ (dệt bằng lông cừu mêrinô và bông hoặc lụa)
+
+@parameter /pə'ræmitə/
+*  danh từ
+- (toán học) thông số, tham số, tham biến
+
+@parametric /,pærə'metrik/
+*  tính từ
+- (toán học) (thuộc) thông số, (thuộc) tham số, (thuộc) tham biến
+=parametric equation+ phương trình tham số
+=parametric problem+ bài toán tham số
+
+@paramilitary /,pærə'militəri/
+*  tính từ
+- nửa quân sự
+
+@paramo /'pærəmou/
+*  danh từ
+- đồi trọc (ở Nam mỹ)
+
+@paramount /'pærəmaunt/
+*  tính từ
+- tối cao
+=paramount lady+ nữ chúa
+=paramount lord+ quân vương
+- tột bực, hết sức
+=of paramount importance+ hết sức quan trọng
+- (+ to) hơn, cao hơn
+*  danh từ
+- (từ Mỹ,nghĩa Mỹ) người nắm quyền tối cao
+
+@paramountcy /'pærəmauntsi/
+*  danh từ
+- tính chất tối cao, uy thế tối cao
+
+@paramour /'pærəmuə/
+*  danh từ
+- nhân tình, nhân ngâi (của đàn bà đã có chồng, đàn ông đã có vợ)
+
+@parang /'pɑ:ræɳ/
+*  danh từ
+- dao quắm (Mã-lai)
+
+@paranoea /,pærə'ni:ə/ (paranoia) /,pærə'nɔiə/
+*  danh từ
+- (y học) Paranoia, chứng hoang tưởng bộ phận
+
+@paranoia /,pærə'ni:ə/ (paranoia) /,pærə'nɔiə/
+*  danh từ
+- (y học) Paranoia, chứng hoang tưởng bộ phận
+
+@paranoiac /,pærə'nɔiək/
+*  tính từ
+- (y học) (thuộc) chứng paranoia, (thuộc) chứng hoang tưởng bộ phận
+*  danh từ
+- (y học) người bị paranoia, người mắc chứng hoang tưởng bộ phận
+
+@parapet /'pærəpit/
+*  danh từ
+- tường chân mái; tường góc lan can; tường góc lan can; tường phòng hộ (trên đường ô tô)
+- (quân sự) công sự mặt (ở phía trước hoà)
+
+@paraph /'pærəf/
+*  danh từ
+- nét ngoáy sau, chữ ký tắt (để phòng ngừa sự giả mạo)
+
+@paraphernalia /,pærəfə'neiljə/
+*  danh từ số nhiều
+- đồ tế nhuyễn của riêng tây; đồ dùng linh tinh của cá nhân; phụ tùng linh tinh
+
+@paraphrase /'pærəfreiz/
+*  danh từ
+- ngữ giải thích, chú giải dài dòng
+*  ngoại động từ
+- diễn tả bằng ngữ giải thích, chú giải dài dòng
+
+@paraphrastic /,pærə'fræstik/
+*  tính từ
+- diễn tả bằng ngữ giải thích, có tính chất chú giải dài dòng
+
+@paraphyses /pə'ræfisis/
+*  danh từ,  số nhiều paraphyses  /pə'ræfisi:z/
+- (thực vật học) tơ bên
+
+@paraphysis /pə'ræfisis/
+*  danh từ,  số nhiều paraphyses  /pə'ræfisi:z/
+- (thực vật học) tơ bên
+
+@paraplegia /,pærə'pli:dʤiə/
+*  danh từ
+- (y học) chứng liệt hai chi
+
+@parapodia /,pærə'poudi:əm/
+*  danh từ,  số nhiều parapodia  /,pærə'poudi:ə/
+- (động vật học) chi bên
+
+@parapodium /,pærə'poudi:əm/
+*  danh từ,  số nhiều parapodia  /,pærə'poudi:ə/
+- (động vật học) chi bên
+
+@paraselenae /,pærəsi'li:ni:/ (paraselenae) /,pærəsi'li:ni/
+*  danh từ số nhiều
+- (thiên văn học) trăng già, trăng ảo
+
+@parashoot /'pærəʃu:t/
+*  nội động từ
+- nhảy dù
+
+@parasite /'pærəsait/
+*  danh từ
+- kẻ ăn bám
+- (sinh vật học) vật ký sinh
+
+@parasitic /,pærə'sitik/ (parasitical) /,pærə'sitikəl/
+*  tính từ
+- ăn bám, ký sinh; do ký sinh
+
+@parasitical /,pærə'sitik/ (parasitical) /,pærə'sitikəl/
+*  tính từ
+- ăn bám, ký sinh; do ký sinh
+
+@parasiticide /,pærə'sitisaid/
+*  danh từ
+- chất diệt (vật) ký sinh
+
+@parasitism /'pærəsaitizm/
+*  danh từ
+- tính chất ăn bám; sự ký sinh
+
+@parasitize /'pærəsaitaiz/
+*  ngoại động từ
+- (sinh vật học) ký sinh trên
+
+@parasitologist /,pærəsai'tɔlədʤist/
+*  danh từ
+- nhà nghiên cứu vật ký sinh
+
+@parasitology /,pærəsai'tɔlədʤi/
+*  danh từ
+- khoa vật ký sinh
+
+@parasitosis /,pærəsai'tousis/
+*  danh từ
+- (y học) bệnh ký sinh
+
+@parasol /,pærə'sɔl/
+*  danh từ
+- cái dù (che nắng)
+
+@parataxis /,pærə'tæksis/
+*  danh từ
+- (ngôn ngữ học) phép dùng câu đẳng lập
+
+@parathyroid /,pærə'θairouid/
+*  danh từ
+- (giải phẫu) tuyến cận giáp
+
+@paratrooper /'pærə,tru:pə/
+*  danh từ
+- lính nhảy dù
+
+@paratroops /'pærətru:ps/
+*  danh từ số nhiều
+- quân nhảy dù
+
+@paratyphoid /'pærə'taifɔid/
+*  danh từ
+- (y học) bệnh phó thương hàn
+
+@paravane /'pærəvein/
+*  danh từ
+- máy cắt dây mìm ngầm (dưới biển)
+
+@parboil /'pɑ:bɔil/
+*  ngoại động từ
+- đun sôi nửa chừng
+- (nghĩa bóng) hun nóng (mặt trời...)
+
+@parbuckle /'pɑ:,bʌkl/
+*  danh từ
+- dây kéo thùng
+*  ngoại động từ
+- kéo (thùng...) bằng dây
+=to parbuckle up+ kéo lên
+=to parbuckle down+ kéo xuống
+
+@parcel /'pɑ:sl/
+*  danh từ
+- gói; bưu kiện ((cũng) postal parcel)
+- (thương nghiệp) chuyển hàng (số hàng trong một lần giao dịch)
+- mảnh đất, miếng đất
+- (từ cổ,nghĩa cổ) phần
+=part and parcel+ bộ phận khắng khít (của một vật)
+- (từ Mỹ,nghĩa Mỹ) lũ, bọn, bầy
+=a parcel of fools+ một lũ ngốc
+*  ngoại động từ
+- chia thành từng phần ((thường) to parcel out)
+- (hàng hải) che (đường xảm tàu) bằng dải vải bạt có nhựa đường; bọc (dây châo...) bằng dải vải bạt có nhựa đường
+*  phó từ
+- (từ cổ,nghĩa cổ) phần nào
+=parcel gilt+ mạ vàng một phần
+=a parcel gilt cup+ cái cốc mạ vàng bên trong
+=parcel blind+ nửa mù, mù dở
+
+@parcel post /'pɑ:sl'poust/
+*  danh từ
+- bộ phận bưu kiện (trong ngành bưu điện)
+
+@parcelling /'pɑ:sliɳ/
+*  danh từ
+- sự chia thành phần
+- (hàng hải) sự che (đường xảm tàu) bằng dải vải bạt có nhựa đường; sự bọc (dây châo) bằng dải vải bạt có nhựa đường
+- (hàng hải) dải vải bạt có nhựa đường
+
+@parcenary /'pɑ:sinəri/
+*  danh từ
+- (pháp lý) sự thừa kế chung
+
+@parcener /'pɑ:sinə/
+*  danh từ
+- (pháp lý) người cùng thừa kế
+
+@parch /pɑ:tʃ/
+*  ngoại động từ
+- rang
+=parched peas+ đậu rang
+- làm (đất, người) khô nẻ (mặt trời, cơn khát)
+=lips parched with thirst+ môi khô nẻ vì khát
+
+@parchment /'pɑ:tʃmənt/
+*  danh từ
+- giấy da
+- bản viết trên giấy da
+- vật tựa da khô
+
+@pard /pɑ:d/
+*  danh từ
+- (từ cổ,nghĩa cổ) con báo
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng),  (như) partner
+
+@pardon /'pɑ:dn/
+*  danh từ
+- sự tha thứ, sự tha lỗi
+=to ask for pardon+ xin tha thứ
+=I beg your pardon+ xin lỗi; xin nhắc lại
+- (pháp lý) sự ăn xài
+=general pardon+ đại ân xá
+*  ngoại động từ
+- tha thứ, tha lỗi, xá tội
+
+@pardonable /'pɑ:dnəbl/
+*  tính từ
+- tha thứ được
+
+@pardoner /'pɑ:dnə/
+*  danh từ
+- (sử học) người phát giấy xá tội
+
+@pare /peə/
+*  ngoại động từ
+- cắt, gọt, đẽo, xén; xén bớt chỗ nham nhở
+=to pare a fruit+ gọt vỏ quả
+- ((thường) + away,  down) (nghĩa bóng) giảm dần, bớt dần, làm nhỏ dần
+!to pare away (off)
+- cắt đi, xén đi, gọt đi, cạo đi
+!to pare to the quick
+- gọt (móng tay...) sắt quá đến tận chỗ thấy đau
+
+@paregoric /,pærə'gɔrik/
+*  tính từ
+- (dược học) Paregoric (loại thuốc phiện)
+*  danh từ
+- (dược học) thuốc Paregoric
+
+@parenchyma /pə'reɳkimə/
+*  danh từ số nhiều
+- nhu mô
+
+@parenchymal /pə'reɳkiməl/
+*  tính từ
+- (sinh vật học) (thuộc) nhu mô
+- gồm nhu mô
+
+@parenchymatous /,pæreɳ'kimətəs/
+*  tính từ
+- (sinh vật học) tựa nhu mô
+- gồm nhu mô
+
+@parent /'peərənt/
+*  danh từ
+- cha; mẹ
+- (số nhiều) cha mẹ; ông cha, tổ tiên
+=our first parents+ thuỷ tổ chúng ta (theo thần thoại phương tây là A-đam và E-vơ)
+- (nghĩa bóng) nguồn gốc
+=ignorance is the parent of many evils+ dốt nát là nguồn gốc của nhiều điều tai hại
+- (định ngữ) mẹ
+=parent bird+ chim mẹ
+=parent tree+ cây mẹ
+
+@parentage /'peərəntidʤ/
+*  danh từ
+- hàng cha mẹ; tư cách làm cha mẹ; quan hệ cha mẹ
+- dòng dõi
+=parentage is unknown+ không ai biết dòng dõi anh ta
+=of good parentage+ con dòng cháu giống
+
+@parental /pə'rentl/
+*  tính từ
+- (thuộc) cha mẹ
+
+@parentheses /pə'renθisis/
+*  danh từ,  số nhiều parentheses  /pə'renθisi:z/
+- ((thường)) dấu ngoặc đơn
+- từ trong dấu ngoặc, câu trong dấu ngoặc
+- (nghĩa bóng) sự việc xen vào giữa (hai sự việc khác nhau) khoảng cách; thời gian nghỉ tạm (giữa hai màn kịch...)
+
+@parenthesis /pə'renθisis/
+*  danh từ,  số nhiều parentheses  /pə'renθisi:z/
+- ((thường)) dấu ngoặc đơn
+- từ trong dấu ngoặc, câu trong dấu ngoặc
+- (nghĩa bóng) sự việc xen vào giữa (hai sự việc khác nhau) khoảng cách; thời gian nghỉ tạm (giữa hai màn kịch...)
+
+@parenthesize /pə'renθisaiz/
+*  ngoại động từ
+- đặt trong ngoặc đơn
+
+@parenthetic /,pærən'θetik/ (parenthetical) /,pærən'θetikəl/
+*  tính từ
+- đặt trong ngoặc đơn; chen vào giữa
+
+@parenthetical /,pærən'θetik/ (parenthetical) /,pærən'θetikəl/
+*  tính từ
+- đặt trong ngoặc đơn; chen vào giữa
+
+@parenthood /'peərənthud/
+*  danh từ
+- tư cách làm cha mẹ; hàng cha mẹ
+
+@parerga /pæ'rə:gɔn/
+*  danh từ,  số nhiều parerga  /pæ'rə:gə/
+- việc làm phụ, việc làm ngoài giờ
+
+@parergon /pæ'rə:gɔn/
+*  danh từ,  số nhiều parerga  /pæ'rə:gə/
+- việc làm phụ, việc làm ngoài giờ
+
+@parersis /'pærisis/
+*  danh từ
+- (y học) bệnh liệt nhẹ (không cử động được, nhưng vẫn còn cảm giác)
+
+@paretic /pə'retik/
+*  tính từ
+- (y học) liệt nhẹ
+
+@parget /'pɑ:dʤit/
+*  ngoại động từ
+- trát vữa (tường...)
+
+@parhelia /pɑ:'hi:ljən/
+*  danh từ,  số nhiều parhelia  /pɑ:hi:ljə/
+- (thiên văn học) mặt trời giả, mặt trời ảo
+
+@parhelion /pɑ:'hi:ljən/
+*  danh từ,  số nhiều parhelia  /pɑ:hi:ljə/
+- (thiên văn học) mặt trời giả, mặt trời ảo
+
+@pariah /'pæriə/
+*  danh từ
+- người hạ đẳng (ở Ân-độ)
+- người cùng khổ, người cùng đinh
+- (nghĩa bóng) người bị xã hội bỏ rơi, người cầu bơ cầu bất
+
+@pariah-dog /'pæriədɔg/
+*  danh từ
+- chó hoang
+
+@parian /'peəriən/
+*  danh từ
+- người đảo Pa-rô
+- đồ sứ Pa-rô
+
+@paries /'peərii:z/
+*  danh từ,  số nhiều parietes  /pə'raiiti?:z/
+- (sinh vật học) thành vách (của một khoang trong cơ thể)
+
+@parietal /pə'raiitl/
+*  tính từ
+- (giải phẫu) (thuộc) đỉnh
+=parietal bones+ xương đỉnh
+- (thực vật học) (thuộc) thành ở vách
+
+@parietes /'peərii:z/
+*  danh từ,  số nhiều parietes  /pə'raiiti?:z/
+- (sinh vật học) thành vách (của một khoang trong cơ thể)
+
+@paring /'peəriɳ/
+*  danh từ
+- việc gọt, việc cắt, việc xén, việc đẽo bớt
+- (số nhiều) vỏ, vụn xén ra, mấu gọt ra
+=potato parings+ vỏ khoai
+=nail parings+ mấu móng tay cắt ra
+
+@paris doll /'pærisdɔl/
+*  danh từ
+- người giả (để mặc quần áo mẫu),  manơcanh
+
+@parish /'pæriʃ/
+*  danh từ
+- xứ đạo, giáo khu; nhân dân trong giáo khu
+- xã ((cũng) civil parish); nhân dân trong xã
+!to go on the parish
+- nhận tiền cứu tế của xã
+
+@parish lantern /'pæriʃ'læntən/
+*  danh từ
+-(đùa cợt) mặt trăng
+
+@parish register /'pæriʃ'redʤistə/
+*  danh từ
+- sổ sinh tử giá thú của giáo khu
+
+@parishioner /'pæriʃənə/
+*  danh từ
+- người dân trong giáo khu; người dân trong xã
+
+@parisian /pə'rizjən/
+*  tính từ
+- (thuộc) Pa-ri
+*  danh từ
+- người Pa-ri
+
+@parity /'pæriti/
+*  danh từ
+- sự ngang hàng, sự ngang bậc
+- sự tương đương sự tương tự, sự giống nhau
+- (thương nghiệp) sự ngang giá
+
+@park /pɑ:k/
+*  danh từ
+- vườn hoa, công viên
+- bâi (bâi đất, thường có thú rừng; bãi cỏ quanh biệt thự ở nông thôn)
+- bâi (để xe, để pháo...)
+*  ngoại động từ
+- khoanh vùng thành công viên
+- (quân sự) bố trí (pháo...) vào bãi
+- đỗ (xe...) ở bãi
+
+@parka /'pɑ:kə/
+*  danh từ
+- áo paca (áo da có mũ trùm đầu của người Ets-ki-mô)
+
+@parkin /'pɑ:kin/
+*  danh từ
+- bánh yến mạch
+
+@parking /'pɑ:kiɳ/
+*  danh từ
+- sự đỗ xe
+=no parking here!+ cấm đỗ xe ở đây!
+
+@parkway /'pɑ:kwei/
+*  danh từ
+- (từ Mỹ,nghĩa Mỹ) đại lộ (đường rộng có cây hai bên)
+
+@parky /'pɑ:ki/
+*  tính từ
+- (từ lóng) giá lạnh (không khí, buổi sáng...)
+
+@parlance /'pɑ:ləns/
+*  danh từ
+- cách nói
+=in common parlance+ theo cách nói thông thường
+=in legal parlance+ theo cách nói pháp lý
+
+@parlay /'pɑ:lei/
+*  danh từ
+- (từ Mỹ,nghĩa Mỹ) sự đánh cuộc
+*  động từ
+- (từ Mỹ,nghĩa Mỹ) đánh cuộc
+
+@parley /'pɑ:li/
+*  danh từ
+- cuộc thương lượng, cuộc đàm phán
+=to sound a parley+ (quân sự) thổi kèn hiệu đề nghị thương lượng
+=to hold a parley with+ thương lượng với
+=to enter into a parley+ bước vào đàm phán
+*  nội động từ
+- thương lượng, đàm phán
+*  ngoại động từ
+- nói (thường là tiếng nước ngoài)
+
+@parleyvoo /,pɑ:li'vu:/
+*  danh từ
+-(đùa cợt) tiếng Pháp
+- người Pháp
+*  nội động từ
+-(đùa cợt) nói tiếng Pháp
+
+@parliament /'pɑ:ləmənt/
+*  danh từ
+- nghị viện; nghị trường
+- (the parliament) nghị viện Anh
+=to summon Parliament+ triệu tập nghị viện
+!member of Parliament
+- (viết tắt) nghị sĩ
+- bánh gừng giòn ((cũng) parliament cake)
+
+@parliament-cake /'pɑ:ləməntkeik/
+*  danh từ
+- bánh gừng giòn
+
+@parliamentarian /,pɑ:ləmen'teəriən/
+*  danh từ
+- nghị sĩ hùng biện
+- (sử học) người theo phái nghị trường (trong nội chiến Anh 1642 1649)
+*  tính từ
+- (như) parliamentary
+
+@parliamentarism /,pɑ:lə'mentərizm/
+*  danh từ
+- chế độ đại nghị
+
+@parliamentary /,pɑ:lə'mentəri/ (parliamentarian) /,pɑ:ləmen'teəriən/
+*  tính từ
+- (thuộc) nghị trường; của nghị viện
+=old parliamentary hand+ tay nghị sĩ già đời, nghị sĩ có nhiều kinh nghiệm nghị trường
+- (thuộc) nghị viện Anh; do nghị viện Anh ban bố
+- có thể dùng được ở nghị viện, được phép dùng trong nghị viện Anh (lời lẽ)
+- (thông tục) lịch sự
+!parliamentary train
+- (từ cổ,nghĩa cổ) xe lửa rẻ tiền (giá vé không quá một penni một dặm)
+
+@parlor /'pɑ:lə/ (parlour) /'pɑ:lə/
+*  danh từ
+- phòng khách (ở nhà riêng)
+- phòng khách riêng (ở khách sạn, quán trọ)
+- (từ Mỹ,nghĩa Mỹ) phòng, hiệu
+=a hairdresser's parlor+ phòng cắt tóc
+=a photographer's parlor+ hiệu chụp ảnh
+
+@parlor-boarder /'pɑ:lə,bɔ:də/ (parlour-boarder) /'pɑ:lə,bɔ:də/
+-boarder) /'pɑ:lə,bɔ:də/
+*  danh từ
+- học sinh lưu trú ở ngay gia đình ông hiệu trưởng
+
+@parlor-car /'pɑ:ləkɑ:/ (parlour-car) /'pɑ:ləkɑ:/
+-car) /'pɑ:ləkɑ:/
+*  danh từ
+- (từ Mỹ,nghĩa Mỹ) toa xe sang
+
+@parlor-maid /'pɑ:ləmeid/ (parlour-maid) /'pɑ:ləmeid/
+-maid) /'pɑ:ləmeid/
+*  danh từ
+- cô hầu bàn
+
+@parlour-boarder /'pɑ:lə,bɔ:də/ (parlour-boarder) /'pɑ:lə,bɔ:də/
+-boarder) /'pɑ:lə,bɔ:də/
+*  danh từ
+- học sinh lưu trú ở ngay gia đình ông hiệu trưởng
+
+@parlour-car /'pɑ:ləkɑ:/ (parlour-car) /'pɑ:ləkɑ:/
+-car) /'pɑ:ləkɑ:/
+*  danh từ
+- (từ Mỹ,nghĩa Mỹ) toa xe sang
+
+@parlour-maid /'pɑ:ləmeid/ (parlour-maid) /'pɑ:ləmeid/
+-maid) /'pɑ:ləmeid/
+*  danh từ
+- cô hầu bàn
+
+@parlous /'pɑ:ləs/
+*  tính từ
+- (từ cổ,nghĩa cổ), (đùa cợt) nguy hiểm, đáng ghê; hắc búa, khó chơi
+- hết sức khôn ngoan, hết sức láu
+*  phó từ
+- (từ cổ,nghĩa cổ), đùa hết sức, cực kỳ, vô cùng
+
+@parly /'pɑ:li/
+*  danh từ
+- (từ lóng),  (viết tắt) của parliamentary train ((xem) parliamentary)
+
+@parmassus /pɑ:'næsəs/
+*  danh từ
+- (thần thoại,thần học) thi sơn, thi đàn (núi ở Hy-lạp, thờ thần Thơ)
+
+@parmesan /,pɑ:'næsiən/
+*  danh từ
+- phó mát pacma ((cũng) parmesan cheese)
+
+@parnassian /pɑ:'næsiən/
+*  tính từ
+- (thơ ca) (thuộc) thi đàn
+*  danh từ
+- (thơ ca) hội viên thi đàn (một trường phái nhà thơ Pháp ở (thế kỷ) 19)
+
+@parochial /pə'roukjəl/
+*  tính từ
+- (thuộc) xã; (thuộc) giáo khu
+- (nghĩa bóng) có tính chất địa phương, hạn chế trong phạm vi địa phương nhỏ hẹp (công việc...)
+!parochia school
+- (từ Mỹ,nghĩa Mỹ) trường cấp 2 3 (của một tổ chức tôn giáo)
+
+@parochialism /pə'roukjəlizm/
+*  danh từ
+- chủ nghĩa địa phương, tính chất địa phương hẹp hòi
+
+@parochiality /,pærou'kjæliti/
+*  danh từ
+- tính chất của xã; tính chất của giáo khu
+- tính chất địa phương hẹp hòi
+
+@parodist /'pærədist/
+*  danh từ
+- người viết văn thơ nhại
+
+@parody /'pærədi/
+*  danh từ
+- văn nhại, thơ nhại
+- sự nhại
+*  ngoại động từ
+- nhại lại
+=to parody an author+ nhại lại một tác giả
+=to parody a poem+ nhại lại một bài thơ
+
+@parole /pə'roul/
+*  danh từ
+- lời hứa danh dự (của tù nhân, tù binh... để được tha)
+=to be on parole+ được tha vì đã hứa
+=to break one's parole+ nuốt lời hứa danh dự
+- (quân sự) khẩu lệnh
+*  danh từ
+- tha theo lời hứa danh dự
+- (từ Mỹ,nghĩa Mỹ) tha có điều kiện
+
+@parolee /,pærə'li:/
+*  danh từ
+- người được tha theo lời hứa danh dự
+
+@paronomasia /,pærənə'meiziə/
+*  danh từ
+- sự chơi chữ
+- câu chơi chữ
+
+@paronym /'pærənim/
+*  danh từ
+- (ngôn ngữ học) từ tương tự
+
+@paroquet /'pærəki:t/ (paroquet) /'pærəkit/
+*  danh từ
+- (động vật học) vẹt đuôi dài
+
+@parotid /pə'rɔtid/
+*  tính từ
+- (giải phẫu) ở mang tai
+=parotid gland+ tuyến mang tai
+*  danh từ
+- (giải phẫu) tuyến mang tai
+
+@parotitis /,pærə'taitis/
+*  danh từ
+- (y học) viêm tuyến mang tai; bệnh quai bị
+
+@paroxysm /'pærəksizm/
+*  danh từ
+- cực điểm, cơn kích phát (bệnh...)
+
+@paroxysmal /,pærək'sizməl/
+*  tính từ
+- cực điểm, kích phát
+
+@paroxytone /pə'rɔksitou/
+*  tính từ
+- (ngôn ngữ học) có trọng âm ở âm tiết áp cuối
+*  danh từ
+- (ngôn ngữ học) từ có trọng âm ở âm tiết áp cuối
+
+@parpen /'pɑ:pən/
+*  danh từ
+- (kiến trúc) phiến đá nằm suốt chiều dày của tường
+
+@parquet /'pɑ:kei/
+*  ngoại động từ
+- lát sàn gỗ (một gian phòng)
+
+@parr /pɑ:/
+*  danh từ
+- cá hồi con
+
+@parricidal /,pæri'saidl/ (patricidal) /,pætri'saidl/
+*  tính từ
+- (thuộc) tội giết cha; (thuộc) tội giết mẹ
+- (thuộc) tội phản quốc
+
+@parricide /'pærisaid/ (patricide) /'pætrisaid/
+*  danh từ
+- kẻ giết cha; kẻ giết mẹ; kẻ giết người thân thích
+- kẻ phản quốc
+- tội giết cha; tội giết mẹ; tội giết người thân thích
+- tội phản quốc
+
+@parrot /'pærət/
+*  danh từ
+- con vẹt ((nghĩa đen) & (nghĩa bóng))
+*  ngoại động từ
+- nhắc lại như vẹt, nói như vẹt
+- dạy (ai...) nhắc lại như vẹt; dạy (ai...) nói như vẹt
+
+@parrot-fish /'pærətfiʃ/
+*  danh từ
+- (động vật học) cá vẹt
+
+@parrotry /'pærətri/
+*  danh từ
+- sự nhắc lại như vẹt, sự nói như vẹt
+
+@parry /'pæri/
+*  danh từ
+- miếng đỡ, miếng gạt
+*  ngoại động từ
+- đỡ, gạt (cú đấm, cú đánh...)
+- (nghĩa bóng) tránh khéo, lẩn tránh, đánh trống lảng
+=to parry a question+ lẩn tránh một câu hỏi
+
+@parse /pɑ:z/
+*  ngoại động từ
+- phân tích ngữ pháp (từ, câu)
+
+@parsec /pɑ:'sek/
+*  danh từ
+- (thiên văn học) Pacsec (đơn vị đo khoảng cách tinh tú)
+
+@parsimonious /,pɑ:si'mounjəs/
+*  tính từ
+- dè sẻn
+
+@parsimoniousness /,pɑ:si'mounjəsnis/
+*  danh từ
+- tính tằn tiện, tính hà tiện, tính bủn xỉn
+
+@parsimony /'pɑ:siməni/
+*  danh từ
+- sự tằn tiện, tính hà tiện, tính bủn xỉn
+
+@parsing /'pɑ:ziɳ/
+*  danh từ
+- sự phân tích ngữ pháp (từ, câu)
+
+@parsley /'pɑ:sli/
+*  danh từ
+- (thực vật học) rau mùi tây
+
+@parsnip /'pɑ:snip/
+*  danh từ
+- (thực vật học) cây củ cần
+!the words butter no parsnips
+- (xem) word
+
+@parson /'pɑ:sn/
+*  danh từ
+- cha xứ (Tân giáo ở Anh)
+- mục sư
+- (thông tục) thầy tu
+
+@parsonage /'pɑ:snidʤ/
+*  danh từ
+- nhà của cha xứ; nhà của mục sư
+
+@parsonic /pɑ:'sɔnik/
+*  tính từ
+- (thuộc) cha xứ; (thuộc) mục sư
+
+@part /pɑ:t/
+*  danh từ
+- phần, bộ phận, tập (sách)
+=[a] great part of this story is true+ phần lớn chuyện đó là đúng
+=[a] part of them have arrived+ một số trong bọn họ đã đến
+=3 parts of sugar, 5 of flour+ 3 phần đường, 5 phần bột
+=spare parts of a machine+ phụ tùng của máy
+- bộ phận cơ thể
+=the [privy] parts+ chỗ kín (bộ phận sinh dục)
+- phần việc, nhiệm vụ
+=I have done my part+ tôi đã làm phần việc của tôi
+=it was not my part to interfere+ tôi không có nhiệm vụ can thiệp vào
+=to have neither part nor lot in+ không có dính dáng gì vào
+- vai, vai trò; lời nói của một vai kịch; bản chép lời của một vai kịch
+=her part was well+ vai chị ấy đóng giỏi
+=they don't know their parts yet+ họ không thuộc lời các vai của họ
+=to play an important part in the negotiations+ giữ một vai quan trọng trong cuộc đàm phán
+=to play a part+ (nghĩa bóng) đóng kịch, giả vờ
+- (số nhiều) nơi, vùng
+=I am a stranger in these parts+ tôi là một người lạ trong vùng này
+- phía, bè
+=to take someone's part; to take part with someone+ đứng về phía ai, về bè với ai, ủng hộ ai
+- (âm nhạc) bè
+- (từ cổ,nghĩa cổ) tài năng
+=a man of [good] part+ một người có tài
+!for my part
+- về phần tôi
+!for the most part
+- phần lớn, phần nhiều
+!in part
+- một phần, phần nào
+!on one's part; on the part of
+- về phía
+=there was no objection on his part+ anh ta không phản đối gì
+=he apologized on the part of his young brother+ anh ấy xin lỗi hộ em anh ấy
+!part and parcel
+- (xem) parcel
+!part of speech
+- (ngôn ngữ học) loại từ
+!to take someething in good part
+- không chấp nhất điều gì; không phật ý về việc gì
+!to take part in
+- tham gia vào
+*  ngoại động từ
+- chia thành từng phần, chia làm đôi
+- rẽ ra, tách ra, tách làm đôi
+=to part the crowd+ rẽ đám đông ra
+=to part one's hair+ rẽ đường ngôi (tóc)
+- (từ cổ,nghĩa cổ) phân phối, chia phần (cái gì)
+*  nội động từ
+- rẽ ra, tách ra, đứt
+=the crowd parted anf let him through+ đám đông rẽ ra cho anh ấy đi
+=the cord parted+ thừng đứt ra
+- chia tay, từ biệt, ra đi
+=they parted in joy+ họ hoan hỉ chia tay nhau
+=let us part friends+ chúng ta hãy vui vẻ chia tay nhau
+=to part from (with) somebody+ chia tay ai
+- chết
+- (+ with) bỏ, lìa bỏ
+=to part with one's property+ bỏ của cải
+!to part brass rags with somebody
+- (xem) brass
+!to part company with
+- cắt đắt quan hệ bầu bạn với
+*  phó từ
+- một phần
+=it is made part of iron and part of wood+ cái đó làm một phần bằng sắt một phần bằng gỗ
+
+@part-owner /'pɑ:t,ounə/
+*  danh từ
+- người cùng chung phần, người cùng cổ phần
+
+@part-song /'pɑ:tsɔɳ/
+*  danh từ
+- (âm nhạc) bài hát ba bè; bài hát nhiều bè
+
+@part-time /'pɑ:ttaim/
+*  tính từ
+- không trọn ngày công
+=part-time worker+ công nhân nửa thất nghiệp
+
+@part-timer /,pɑ:t'taimə/
+*  danh từ
+- (thông tục) người chỉ có công ăn việc làm không trọn ngày công, người nửa thất nghiệp
+
+@partake /pɑ:'teik/
+*  ngoại động từ partook  /pɑ:'tuk/,  partaken  /pɑ:'teikn/
+- tham dự, cùng có phần, cùng hưởng, cùng chia xẻ
+*  nội động từ
+- (+ in,  of,  with) cùng tham dự, cùng có phần, cùng hưởng, cùng chia sẻ
+=to partake in (of) something+ cùng có phần cái gì, cùng hưởng cái gì
+=to partake with somebody+ cùng tham dự với ai
+- (+ of) ăn uống (một phần cái gì); (thông tục) hết cả cái gì
+=he partook of our lowly fare+ anh ta cũng cùng ăn những thứ ăn nghèo nàn đạm bạc của chúng tôi
+- có phần nào
+=his manner partakes of insolence+ thái độ của hắn có phần nào láo xược
+
+@partaken /pɑ:'teik/
+*  ngoại động từ partook  /pɑ:'tuk/,  partaken  /pɑ:'teikn/
+- tham dự, cùng có phần, cùng hưởng, cùng chia xẻ
+*  nội động từ
+- (+ in,  of,  with) cùng tham dự, cùng có phần, cùng hưởng, cùng chia sẻ
+=to partake in (of) something+ cùng có phần cái gì, cùng hưởng cái gì
+=to partake with somebody+ cùng tham dự với ai
+- (+ of) ăn uống (một phần cái gì); (thông tục) hết cả cái gì
+=he partook of our lowly fare+ anh ta cũng cùng ăn những thứ ăn nghèo nàn đạm bạc của chúng tôi
+- có phần nào
+=his manner partakes of insolence+ thái độ của hắn có phần nào láo xược
+
+@partaker /pɑ:'teikə/
+*  danh từ
+- người tham dự, người cùng có phần, người cùng chia sẻ
+=a partaker in guilt+ kẻ đồng phạm
+
+@partan /'pɑ:tn/
+*  danh từ
+- (Ê-cốt) con cua
+
+@parterre /pɑ:'teə/
+*  danh từ
+- khu vực trước sân khấu
+- bồn hoa (khoảng đất trồng hoa trong vườn)
+
+@parthenogenesis /'pɑ:θinou'dʤenisis/
+*  danh từ
+- (sinh vật học) sự sinh sản đơn tính
+
+@parthenogenetic /'pa:θinoudʤi'netik/
+*  tính từ
+- (sinh vật học) sinh sản đơn tính
+
+@parthian /'pɑ:θjən/
+*  tính từ
+- (thuộc) nước Pa-thi xưa (ở Tây-A)
+!Parthian glance
+- cái nhìn cuối cùng lúc ra đi
+!Parthian shot (shaft, arrow)
+- phát súng (mũi tên) bắn khi rút lui (khi vờ rút lui); kế đà đao
+- (nghĩa bóng) lời cuối cùng nói lúc ra đi
+
+@parti pris /pɑ:'ti:'pri:/
+*  danh từ
+- thiên kiến; định kiến
+
+@partiable /'pɑ:tibl/
+*  tính từ
+- có thể chia được (của thừa kế...)
+
+@partial /'pɑ:ʃəl/
+*  tính từ
+- bộ phận; cục bộ
+=a partial success+ thắng lợi cục bộ
+- thiên vị; không công bằng
+- (+ to) mê thích
+=to be partial to sports+ mê thích thể thao
+
+@partiality /,pɑ:ʃi'æliti/
+*  danh từ
+- tính thiên vị, tính không công bằng
+- sự mê thích
+
+@participant /pɑ:'tisipənt/
+*  danh từ
+- người tham gia, người tham dự
+*  tính từ
+- tham gia, tham dự
+
+@participate /pɑ:'tisipeit/
+*  động từ
+- tham gia, tham dự; cùng góp phần
+=to participate in something+ cùng góp phần vào cái gì
+=to participate insomething+ cùng góp phần vào cái gì
+=to participate with somebody+ cùng tham gia với ai
+- (+ of) có phần nào, phần nào mang tính chất
+=his poems participate of the nature of satire+ thơ của anh ta phần nào mang tính chất châm biếm
+
+@participation /pɑ:,tisi'peiʃn/
+*  danh từ
+- sự tham gia, sự tham dự, sự góp phần vào
+
+@participator /pɑ:'tisipeitə/
+*  danh từ
+- người tham gia, người tham dự, người góp phần vào
+
+@participial /,pɑ:ti'sipiəl/
+*  tính từ
+- (ngôn ngữ học) (thuộc) động tính từ
+
+@participle /'pɑ:tsipl/
+*  danh từ
+- (ngôn ngữ học) động tính từ
+=past participle+ động tính từ quá khứ
+=present participle+ động tính từ hiện tại
+
+@particle /'pɑ:tikl/
+*  danh từ
+- chút, tí chút
+=he has not a particle of sense+ nó không có một tí ý thức nào cả
+- (ngôn ngữ học) tiểu từ không biến đổi; tiền tố, hậu tố
+- (vật lý) hạt
+
+@particoloured /'pɑ:ti,kʌləd/ (party-coloured) /'pɑ:ti,kʌləd/
+-coloured) /'pɑ:ti,kʌləd/
+*  tính từ
+- lẫn màu, nhiều màu
+
+@particular /pə'tikjulə/
+*  tính từ
+- đặc biệt, đặc thù; cá biệt, riêng biệt
+=for no particular reason+ không vì lý do gì đặc biệt
+=of no particular importance+ không có tầm quan trọng đặc biệt
+=a particular case+ một trường hợp cá biệt
+=in particular+ đặc biệt
+- tường tận, tỉ mỉ, chi tiết
+=a full and particular account+ bản tường thuật đầy đủ và tường tận
+- kỹ lưỡng, cặn kẽ, câu nệ đến từng chi tiết
+=to be particular in one's speech+ kỹ lưỡng trong cách nói năng
+- khó tính, khảnh, cảnh vẻ (trong cách ăn mặc...)
+=too particular about what (as to what) one wats+ quá khảnh ăn
+*  danh từ
+- chi tiết
+=to go (enter) into particulars+ đi sâu vào chi tiết
+- đặc biệt đặc thù
+=fog is a London particular+ sương mù là một đặc điểm của Luân-đôn
+- (số nhiều) bản tường thuật chi tiết
+
+@particularism /pə'tikjulərizm/
+*  danh từ
+- chủ nghĩa đặc thù
+- chủ nghĩa phân lập
+- sự trung thành tuyệt đối (đối với một đảng phái, môn phái)
+
+@particularity /pə,tikju'læriti/
+*  danh từ
+- tính cá biệt, tính riêng biệt
+- đặc tính, đặc điểm, nét đặc thù
+- tính kỹ lưỡng, tính cặn kẽ, tính câu nệ đến từng chi tiết
+- tính khảnh, tính cảnh vẻ; sự khó chịu (trong cách ăn mặc...)
+
+@particularize /pə'tikjuləraiz/
+*  động từ
+- đặc biệt hoá, đặc thù hoá
+- lần lượt nêu tên
+- tường thuật tỉ mỉ; đi sâu vào chi tiết
+
+@particularly /pə'tikjuləli/
+*  phó từ
+- đặc biệt, cá biệt, riêng biệt
+=particularly good+ đặc biệt tốt
+=generally and particularly+ nói chung và nói riêng
+- tỉ mỉ, chi tiết
+
+@parting /'pɑ:tiɳ/
+*  danh từ
+- sự chia ly, sự chia tay, sự từ biệt
+=on parting+ lúc chia tay
+- đường ngôi (của tóc)
+- chỗ rẽ, ngã ba
+=parting of the ways+ ngã ba đường ((nghĩa đen) & (nghĩa bóng))
+
+@partisan /,pɑ:ti'zæn/
+*  danh từ
+- người theo một đảng phái, đảng viên
+- người ủng hộ
+=partisan of peace+ người ủng hộ hoà bình
+- đội viên du kích
+- (sử học), quân đội viên đội biệt động
+- (định ngữ) có tính chất đảng phái
+=in a partisan spirit+ với óc đảng phái
+*  danh từ
+- (sử học) cây thương dài, trường thương
+
+@partisanship /,pɑ:ti'zænʃip/
+*  danh từ
+- lòng trung thành với đảng phái; óc đảng phái
+
+@partition /pɑ:'tiʃn/
+*  danh từ
+- sự chia ra
+- ngăn phần
+- liếp ngăn, bức vách ngăn
+- (chính trị) sự chia cắt đất nước
+- (pháp lý) sự chia tài sản
+*  ngoại động từ
+- chia ra, chia cắt, ngăn ra
+!to partiton off
+- ngăn (một căn phòng...) bằng bức vách
+
+@partitive /'pɑ:titiv/
+*  danh từ
+- (ngôn ngữ học) bộ phận
+=partitive adjective+ tính từ bộ phận
+
+@partlet /'pɑ:tli/
+*  danh từ
+- (từ cổ,nghĩa cổ) con gà mái
+- người đàn bà
+
+@partly /'pɑ:tli/
+*  phó từ
+- một phần, phần nào
+
+@partner /'pɑ:tnə/
+*  danh từ
+- người cùng chung phần; người cùng canh ty
+- hội viên (của một công ty, một minh ước quốc tế)
+- bạn cùng phe (trong một trò chơi)
+- bạn cùng nhảy (vũ quốc tế)
+- vợ; chồng
+- (số nhiều) khung lỗ (ở sàn tàu để cột buồm và trục lái... đi qua)
+!predominant partner
+- thành viên lớn nhất của nước Anh (tức Inh-len)
+!silent partner
+- hội viên hùn vốn (không có tiếng nói trong công việc quản trị công ty)
+!sleeping partner
+- hội viên hùn vốn kín (không tham gia công việc quản trị công ty và ít người biết đến) ((cũng) secret partner; dormant partner)
+*  ngoại động từ
+- chung phần với, công ty với (ai)
+- cho (ai) nhập hội; kết (ai với ai) thành một phe
+=to partner someone with another+ kết ai với ai thành một phe
+- là người cùng chung phần với (ai); là người cùng canh ty với (ai); là bạn cùng phe với (ai)
+
+@partnership /'pɑ:tnəʃip/
+*  danh từ
+- sự chung thân
+- hội, công ty
+=enter into partnership with+ cùng chung phần với; cùng nhập hội với
+=to take someone into partnership+ cho ai nhập hội, nhận ai vào công ty
+
+@partook /pɑ:'teik/
+*  ngoại động từ partook  /pɑ:'tuk/,  partaken  /pɑ:'teikn/
+- tham dự, cùng có phần, cùng hưởng, cùng chia xẻ
+*  nội động từ
+- (+ in,  of,  with) cùng tham dự, cùng có phần, cùng hưởng, cùng chia sẻ
+=to partake in (of) something+ cùng có phần cái gì, cùng hưởng cái gì
+=to partake with somebody+ cùng tham dự với ai
+- (+ of) ăn uống (một phần cái gì); (thông tục) hết cả cái gì
+=he partook of our lowly fare+ anh ta cũng cùng ăn những thứ ăn nghèo nàn đạm bạc của chúng tôi
+- có phần nào
+=his manner partakes of insolence+ thái độ của hắn có phần nào láo xược
+
+@partridge /'pɑ:tridʤ/
+*  danh từ
+- (động vật học) gà gô
+
+@partridge-wood /'pɑ:tridʤwud/
+*  danh từ
+- gỗ hồng sắc
+
+@parturient /pɑ:'tjuəriənt/
+*  tính từ
+- sắp sinh nở, sắp sinh đẻ
+- (nghĩa bóng) sắp sáng tạo ra, sắp sáng tác ra (trí óc)
+
+@parturifacient /pɑ:,tjuəri'feiʃənt/
+*  danh từ
+- (y học) thuốc làm đẻ dễ
+
+@parturition /,pɑ:tjuə'riʃn/
+*  danh từ
+- sự đẻ, sự sinh đẻ
+- (nghĩa bóng) sự sáng tạo, sự sáng tác
+
+@party /'pɑ:ti/
+*  danh từ
+- đảng
+!the Communist Party
+- đảng Cộng sản
+=a political party+ một chính đảng
+- sự đứng về phe (trong vấn đề chính trị); sự trung thành với phe đảng
+- (định ngữ) (thuộc) đảng, có tính chất đảng phái
+=party card+ thẻ đảng
+=party dues+ đảng phí
+=party member+ đảng viên
+=party organization+ tổ chức đảng
+=party local+ trụ sở đảng
+=party nucleus+ nòng cốt của đảng
+=party spirit+ tính đảng; óc đảng phái
+*  danh từ
+- tiệc, buổi liên hoan
+- những người cùng đi
+=the minister anf his party+ bộ trưởng và những người cùng đi
+- toán, đội, nhóm
+=landing party+ đội đổ bộ
+- (pháp lý) bên
+=the contracting parties+ các bên ký kết
+- người tham gia, người tham dự
+=to be a party to something+ thằng cha, lão, anh chàng, gã, con bé, mụ...
+=an old party with spectales+ lâo đeo kính
+=a coquettish party+ con bé làm đỏm
+
+@party girl /'pɑ:ti,gə:l/
+*  danh từ
+- cô gái đẹp chuyên tiếp khách thuê
+- (từ lóng) cô gái chỉ thích ăn chơi
+
+@party line /'pɑ:tilain/
+*  danh từ
+- đường lối của đảng
+- (từ Mỹ,nghĩa Mỹ),  (như) party_wire
+
+@party wall /'pɑ:ti'wɔ:l/
+*  danh từ
+- tường ngăn
+
+@party wire /'pɑ:ti,waiə/
+*  danh từ
+- (từ Mỹ,nghĩa Mỹ) đường dây điện thoại chung (của một số người) ((cũng) party_line)
+
+@party-coloured /'pɑ:ti,kʌləd/ (party-coloured) /'pɑ:ti,kʌləd/
+-coloured) /'pɑ:ti,kʌləd/
+*  tính từ
+- lẫn màu, nhiều màu
+
+@party-liner /'pɑ:ti,lainə/
+*  danh từ
+- người tán thành đường lối của đảng
+
+@parvenu /'pɑ:vənju:/
+*  danh từ
+- kẻ mới phất
+
+@parvis /'pɑ:vis/
+*  danh từ
+- sân trước nhà thờ
+
+@pas /pɑ:/
+*  danh từ
+- quyền đi trước, quyền ưu tiên
+=to give the pas+ nhường đi trước, nhường bước; nhường quyền ưu tiên
+=to take the pas+ được đi trước; được quyền ưu tiên
+- bước nhảy, bước khiêu vũ
+=pas seul+ bước vũ ba lê một người biểu diễn
+=pas de deux+ bước vũ ba lê hai người biểu diễn
+
+@paschal /'pɑ:skəl/
+*  tính từ
+- (tôn giáo) (thuộc) lễ Quá hải (của người Do thái)
+- (thuộc) lễ Phục sinh
+
+@pash /pæʃ/
+*  danh từ
+- (từ lóng),  (viết tắt) của passion
+- sự say mê
+=to have a pash for somebody (something)+ say mê ai (cái gì)
+
+@pasha /'pɑ:ʃə/ (pacha) /'pa:ʃə/
+*  danh từ
+- Pasa, tổng trấn (Thổ nhĩ kỳ)
+
+@pashalic /pɑ:'ʃɑ:lik/
+*  danh từ
+- địa hạt pasa
+
+@pashm /'pæʃm/
+*  danh từ
+- lớp lông đệm (của loài dê Tây tạng để làm khăn quàng)
+
+@pasque-flower /'pɑ:sk,flauə/
+*  danh từ
+- (thực vật học) cây bạch đầu ông
+
+@pasquinade /,pæskwi'neid/
+*  danh từ
+- bài phỉ báng, bài đả kích ((thường) dán nơi công cộng)
+
+@pass /pɑ:s/
+*  nội động từ
+- đi, đi lên; đi qua, đi ngang qua
+=to pass down the street+ đi xuống phố
+=to pass along a wall+ đi dọc theo bức tường
+=to pass across a road+ đi ngang qua đường
+=to pass over a bridge+ đi qua cầu
+=pass along!+ đi lên!, đi đi!
+- (nghĩa bóng) trải qua
+=to pass through many hardships+ trải qua nhiều khó khăn gian khổ
+- chuyển qua, truyền, trao, đưa
+=to pass from mouth to mouth+ truyền từ miệng người này sang miệng người khác
+- (+ into) chuyển qua, chuyển sang, biến thành, trở thành, đổi thành
+=when Spring passes into Summer+ câu đó đã trở thành tục ngữ
+- qua đi, biến đi, mất đi; chết
+=his fit of anger will soon+ cơn giận của hắn rồi sẽ qua đi ngay
+=to pass hence; to pass from among us+ đã chết, đã từ trần
+- trôi đi, trôi qua
+=time passes rapidly+ thời gian trôi nhanh
+- được thông qua, được chấp nhận
+=the bill is sure to pass+ bản dự luật chắc chắn sẽ được thông qua
+=these theories will not pass now+ những lý thuyết đó sẽ không được chấp nhận nữa
+- thi đỗ
+- xảy ra, được làm, được nói đến
+=I could not hear what was passing+ tôi không nghe thấy những gì người ta nói đến
+- bị bỏ qua, bị lờ đi; qua đi không ai hay biết
+=I can't let it pass+ tôi không thể nào để cho câu chuyện đó bị bỏ qua được
+- (+ over,  by) bỏ qua, lờ đi
+=to pass over someone's mistakes+ bỏ qua lỗi của ai
+- (đánh bài) bỏ lượt, bỏ bài
+- (pháp lý) được tuyên án
+=the verdict passed for the plaintiff+ bản án được tuyên bố cho bên nguyên thắng
+- (+ upon) xét xử, tuyên án
+- lưu hành, tiêu được (tiền)
+=this coin will not pass+ đồng tiền này không tiêu được
+- (thể dục,thể thao) đâm, tấn công (đấu kiếm)
+- (từ Mỹ,nghĩa Mỹ) đi ngoài, đi tiêu
+*  ngoại động từ
+- qua, đi qua, đi ngang qua, vượt qua
+=to pass the frontier+ vượt qua biên giới
+=to pass a mountain range+ vượt qua dãy núi
+- quá, vượt quá, hơn hẳn
+=he has passed fifty+ ông ta đã hơn (ngoài) năm mươi
+=to pass someone's comprehension+ vượt quá sự biểu biết của ai
+- thông qua, được đem qua thông qua
+=to pass a bill+ thông qua một bản dự luật
+=the bill must pass the parliament+ bản dự luật phải được đem thông qua ở nghị viện
+- qua được, đạt tiêu chuẩn qua (kỳ thi, cuộc thử thách...)
+=to pass the examination+ qua được kỳ thi, thi đỗ
+=to pass muster+ được cho là được, được công nhận là xứng đáng
+- duyệt
+=to pass troops+ duyệt binh
+- đưa qua, chuyển qua, truyền tay, trao
+=to pass one's hand over one's face+ đưa tay vuốt mặt
+- (thể dục,thể thao) chuyền (bóng...)
+- cho lưu hành, đem tiêu (tiền giả...)
+- phát biểu, nói ra, đưa ra (ý kiến...); tuyên (án...)
+=to pass remarks upon somebody+ phát biểu những ý kiến nhận xét về ai
+=to pass a sentence+ tuyên án
+- hứa (lời...)
+=to pass one's word+ hứa chắc, đoan chắc
+!to pass away
+- trôi qua, đi qua, đi mất
+- chết, qua đời
+!to pass by
+- đi qua, đi ngang qua
+- bỏ qua, lờ đi, nhắm mắt bỏ qua, làm ngơ
+!to pass for
+- được coi là; có tiếng là
+=to pass for a scholar+ được coi là một học giả
+!to pass in
+- chết ((cũng) to pass one's checks)
+!to pass off
+- mất đi, biến mất (cảm giác...)
+- diễn ra, được thực hiện, được hoàn thành
+=the whole thing passed off without a hitch+ mọi việc diễn ra không có gì trắc trở
+- đem tiêu trót lọt (tiền giả...); gian dối tống ấn (cho ai cái gì...)
+=he passed it off upon her for a Rubens+ hắn gian dối tống ấn cho bà ta một bức tranh mạo là của Ru-ben
+=to pass oneself off+ mạo nhận là
+=he passes himself off as a doctor+ nó mạo nhận là một bác sĩ
+- đánh lạc, sự chú ý, làm cho không chú ý (cái gì)
+!to pass on
+- đi tiếp
+!to pass out
+- (thực vật học) chết, qua đời
+- (thông tục) say không biết trời đất gì
+- mê đi, bất tỉnh
+!to pass over
+- băng qua
+- chết
+- làm lơ đi, bỏ qua
+=to pass it over in silence+ làm lơ đi
+!to pass round
+- chuyền tay, chuyền theo vòng
+- đi vòng quanh
+- cuộn tròn
+=to pass a rope round a cask+ cuộn cái dây thừng quanh thúng
+!to pass through
+- đi qua
+- trải qua, kinh qua
+!to pass up
+- (từ Mỹ,nghĩa Mỹ) từ chối, từ bỏ, khước từ
+!to pass water
+- đái
+*  danh từ
+- sự thi đỗ; sự trúng tuyển hạng thứ (ở trường đại học)
+- hoàn cảnh gay go, tình thế gay go
+=things have come to a pass+ sự việc đi đến chỗ gay go
+- giấy phép, giấy thông hành; giấy đi xe lửa không mất tiền; giấy vào cửa không mất tiền ((cũng) free pass); thẻ ra vào (triển lãm...); vé mời (xem hát...)
+- (thể dục,thể thao) sự chuyền bóng (bóng đá); cú đâm, cú tấn công (đấu kiếm)
+- trò gian dối, trò bài tây
+- sự đưa tay qua (làm thôi miên...)
+!to bring to pass
+- (xem) bring
+!to come to pass
+- xảy ra
+!to make a pass at somebody
+- (từ lóng) tán tỉnh gỡ gạc ai, gạ gẫm ai
+*  danh từ
+- đèo, hẽm núi
+- (quân sự) con đường độc đạo, vị trí cửa ngõ (để tiến vào một nước)
+- (hàng hải) eo biển tàu bè qua lại được
+- cửa thông cho cá vào đăng
+- (kỹ thuật) khuôn cán, rãnh cán
+!to sell the pass
+- (nghĩa bóng) phản bội một cuộc đấu tranh
+
+@passable /'pɑ:səbl/
+*  tính từ
+- có thể qua lại được
+=this stream is passable for boats+ dòng sông này thuyền bè có thể qua lại được
+- tàm tạm
+=a passable knoledge of French+ sự hiểu biết tàm tạm về tiếng Pháp
+- có thể thông qua được (đạo luật...)
+- có thể lưu hành, có thể đem tiêu (tiền...)
+
+@passably /'pɑ:səbli/
+*  phó từ
+- đạt yêu cầu, tàm tạm
+
+@passage /'pæsidʤ/
+*  danh từ
+- sự đi qua, sự trôi qua
+=the passage of time+ thời gian trôi qua
+- lối đi
+=to force a passage through the crowd+ lách lấy lối đi qua đám đông
+- hành lang
+- quyền đi qua (một nơi nào...)
+- (nghĩa bóng) sự chuyển qua
+=the passage from poverty to great wealth+ sự chuyển từ cảnh nghèo nàn sang cảnh hết sức giàu có
+- chuyến đi (tàu biển, máy bay)
+=a rough passage+ một chuyến đi khó khăn vì biển động
+=to book [one's] passage to+ ghi tên mua vé dành chỗ đi
+- đoạn (bài văn, sách...)
+=a famour passage+ một đoạn văn nổi tiếng
+=a difficult passage+ một đoạn khó khăn
+- sự thông qua (một dự luật...)
+- (số nhiều) quan hệ giữa hai người; sự chuyện trò trao đổi giữa hai người; chuyện trò tri kỷ giữa hai người
+=to have stormy passages with somebody+ trao đổi tranh luận sôi nổi với ai
+- (âm nhạc) nét lướt
+- (từ Mỹ,nghĩa Mỹ) sự đi ỉa
+!bird of passage
+- (xem) bird
+!passage of (at) arms
+- (thường) (nghĩa bóng) trận đánh; cuộc va chạm, cuộc cãi cọ
+*  nội động từ
+- đi né sang một bên (ngựa, người cưỡi ngựa)
+*  ngoại động từ
+- làm cho (ngựa) đi né sang một bên
+
+@passage boat /'pæsidʤbout/
+*  danh từ
+- phà, đò ngang
+
+@passage-way /'pæsidʤwei/
+*  danh từ
+- hành lang; đường phố nhỏ, ngõ
+
+@passant /'pæsənt/
+*  tính từ
+- trong tư thế đi với mắt nhìn về phía bên phải chân đi đằng trước giơ lên (sư tử trong huy chương)
+
+@passbook /'pɑ:sbuk/
+*  danh từ
+- số tiền gửi ngân hàng
+
+@passe-partout /,pɑ:spɑ:'tu:/
+*  danh từ
+- khoá vạn năng
+- khung ảnh lồng kính (có nẹp giấy nhựa)
+
+@passementerie /,pɑ:smɑ:ɳ'tri:/
+*  danh từ
+- đồ ren tua kim tuyến
+
+@passenger /'pæsindʤə/
+*  danh từ
+- hành khách (đi tàu xe...)
+- (thông tục) thành viên không có khả năng làm được trò trống gì; thành viên kém không đóng góp đóng góp được gì (cho tổ, đội...)
+- (định ngữ) (thuộc) hành khách; để chở hành khách
+=a passenger boat+ tàu thuỷ chở hành khách
+=a passenger train+ xe lửa chở hành khách
+
+@passer /'pɑ:sə/
+*  danh từ
+- (như) passer-by
+- người trúng tuyển hạng thứ (ở trường đại học)
+
+@passer-by /'pɑ:sə'bai/
+*  danh từ,  số nhiều passers-by  /'pɑ:səz'bai/
+- khách qua đường ((cũng) passer)
+
+@passerine /'pæsərain/
+*  tính từ
+- (động vật học) (thuộc) bộ chim sẻ
+- nhỏ như chim sẻ
+*  danh từ
+- (động vật học) chim thuộc bộ chim sẻ
+
+@passers-by /'pɑ:sə'bai/
+*  danh từ,  số nhiều passers-by  /'pɑ:səz'bai/
+- khách qua đường ((cũng) passer)
+
+@passé /pɑ:'sei/
+*  tính từ,  danh từ giống cái passée
+- tài hết sức tàn; quá thời, lỗi thời
+
+@passée /passée/
+*  tính từ
+- danh từ giống cái của passé
+=a passée belle+ cô nàng quá lứa hết duyên
+
+@passibility /,pæsi'biliti/
+*  danh từ
+- (tôn giáo) tính dễ cảm động, tính dễ xúc động
+
+@passible /'pæsibl/
+*  tính từ
+- (tôn giáo) dễ cảm động, dễ xúc động
+- chịu đựng được đau khổ
+
+@passim /'pæsim/
+*  phó từ
+- khắp nơi, đây đó (dùng để nói về một tác giả...)
+=this occurs in Milton passim+ điều đó thấy ở khắp trong tác phẩm của Min-tơn
+
+@passimeter /'pæsimitə/
+*  danh từ
+- cửa vào ga tự động (xe lửa dưới hầm)
+
+@passing /'pɑ:siɳ/
+*  danh từ
+- sự qua, sự trôi qua (thời gian...)
+*  tính từ
+- qua đi, trôi qua
+- thoáng qua, giây lát; ngẫu nhiên, tình cờ
+*  phó từ
+- (từ cổ,nghĩa cổ) hết sức, vô cùng
+=passing rich+ hết sức giàu
+
+@passing-bell /'pɑ:siɳbel/
+*  danh từ
+- hồi chuông cáo chung, hồi chuông báo tử
+
+@passing-note /'pɑ:siɳnout/
+*  danh từ
+- (âm nhạc) nốt lưới
+
+@passion /'pæʃn/
+*  danh từ
+- cảm xúc mạnh mẽ, tình cảm nồng nàn
+- sự giận dữ
+=to fly (fall, get) into a passion+ nổi giận, nổi tam bành
+- tình dục, tình yêu
+=sexual passion+ tình dục
+=tender passion+ tình yêu
+- sự say mê
+=to have a passion for something+ say mê cái gì
+- (tôn giáo) (the passion) những nỗi khổ hình của Chúa Giê-xu; bài ca thuật lại những nỗi khổ hình của Chúa Giê-xu
+*  nội động từ
+- (thơ ca) say mê, yêu tha thiết, yêu nồng nàn
+
+@passion-flower /'pæʃn,flauə/
+*  danh từ
+- hoa lạc tiên
+- (thực vật học) cây lạc tiên
+
+@passion-play /'pæʃnplei/
+*  danh từ
+- kịch huyền bí mô tả những khổ hình của Chúa
+
+@passional /'pæʃənl/
+*  tính từ
+- (thuộc) say mê; (thuộc) tình dục
+*  danh từ+ (passionary) /'pæʃnəri/
+- sách kể những nỗi chịu đựng thống khổ của những kẻ chết vì đạo
+
+@passionary /'pæʃənl/
+*  tính từ
+- (thuộc) say mê; (thuộc) tình dục
+*  danh từ+ (passionary) /'pæʃnəri/
+- sách kể những nỗi chịu đựng thống khổ của những kẻ chết vì đạo
+
+@passionate /'pæʃənit/
+*  tính từ
+- sôi nổi, say sưa, say đắm, nồng nàn, nồng nhiệt, thiết tha
+=a passionate speech+ một bài diễn văn đầy nhiệt tình
+=a passionate nature+ bản tính sôi nổi
+- dễ giận, dễ cáu
+
+@passionless /'pæʃnlis/
+*  tính từ
+- không sôi nổi, không say sưa, không nồng nàn, không nồng nhiệt, không thiết tha
+- không nổi giận, điềm tĩnh
+
+@passivation /,pæsi'veiʃn/
+*  danh từ
+- (kỹ thuật) sự thụ động hoá
+- sự oxy hoá chống gỉ
+- sự rửa bằng axit
+
+@passive /'pæsiv/
+*  tính từ
+- bị động, thụ động
+=to remain passive+ ở trong thế bị động
+- tiêu cực
+=passive resistance+ sự kháng cự tiêu cực
+- (ngôn ngữ học) bị động
+=passive voice+ dạng bị động
+- không phải trả lãi (nợ)
+=passive debt+ nợ không phải trả lãi
+*  danh từ
+- (ngôn ngữ học) dạng bị động
+
+@passiveness /pæ'siviti/ (passiveness) /'pæsivnis/
+*  danh từ
+- tính bị động, tính thụ động
+- tính tiêu cực
+
+@passivism /'pæsivizm/
+*  danh từ
+- thái độ tiêu cực
+- chủ nghĩa tiêu cực
+
+@passivity /pæ'siviti/ (passiveness) /'pæsivnis/
+*  danh từ
+- tính bị động, tính thụ động
+- tính tiêu cực
+
+@passkey /'pɑ:ski:/
+*  danh từ
+- chìa khoá vạn năng
+- chìa khoá mở then cửa
+
+@passkey man /'pɑ:ski:,mæn/
+*  danh từ
+- kẻ trộm dùng khoá vạn năng
+
+@passman /'pɑ:smæn/
+*  danh từ
+- học sinh tốt nghiệp hạng thứ (ở trường đại học)
+
+@passover /'pɑ:s,ouvə/
+*  danh từ
+- (Passover) lễ Quá hải (của người Do thái); con cừu dâng lễ Quá hải
+- (nghĩa bóng) Chúa Giê-xu
+
+@passport /'pɑ:spɔ:t/
+*  danh từ
+- hộ chiếu
+- (nghĩa bóng) cái đảm bảo để đạt được (cái gì)
+
+@password /'pɑ:swə:d/
+*  danh từ
+- khẩu lệnh
+
+@past /pɑ:st/
+*  tính từ
+- (thuộc) quá khứ, đã qua, (thuộc) dĩ vãng
+=for the past few days+ mấy ngày qua
+=his pain is past now+ cơn đau của anh ấy đã qua rồi
+- (ngôn ngữ học) quá khứ
+=past tense+ thói quá khứ
+=past participle+ động tính từ quá khứ
+*  danh từ
+- quá khứ, dĩ vãng; quá khứ không hay ho gì
+- (ngôn ngữ học) ((thường) the past) thời quá khứ
+*  phó từ
+- qua
+=to walk past+ đi qua
+=to run past+ chạy qua
+- quá
+=the train is past due+ xe lửa quá giờ rồi mà chưa đến
+*  giới từ
+- quá, vượt, quá, hơn
+=it is past six+ đã quá sáu giờ hơn
+=he is past fifty+ ông ta đã hơn (ngoài) năm mươi
+=past endurance+ vượt quá sự chịu đựng, không thể chịu đựng nổi
+- qua
+=to run past the house+ chạy qua nhà
+
+@past master /'pɑ:st,mɑ:stə/
+*  danh từ
+- người trước đây là thợ cả (phường hội)
+- chủ tịch danh dự (một công ty...)
+- người giỏi tột bậc; bậc thầy
+=to be past_master in (of) a subject+ là bậc thầy về môn gì
+
+@paste /peist/
+*  danh từ
+- bột nhồi, bột nhâo; hồ bột (để dán)
+- kẹo mềm
+- thuỷ tinh giả kim cương
+- (từ lóng) cú đấm
+*  ngoại động từ
+- dán (bằng hồ)
+=to paste up+ niêm yết; dán lên
+- (từ lóng) đấm, đánh
+
+@pasteboard /'peistbɔ:d/
+*  danh từ
+- bìa cứng; giấy bồi
+- (thông tục) quân bài; danh thiếp; vé xe lửa
+- (định ngữ) bằng bìa cứng, bằng giấy bồi; (nghĩa bóng) không bền, không chắc chắn, mỏng mảnh
+
+@pastel /pæs'tel/
+*  danh từ
+- (thực vật học) cây tùng lam
+- màu tùng lam
+- (nghệ thuật) màu phấn; bức tranh màu phấn
+
+@pastelist /pæs'telist/ (pastellist) /pæs'telist/
+*  danh từ
+- hoạ sĩ chuyên vẽ màu phấn
+
+@pastellist /pæs'telist/ (pastellist) /pæs'telist/
+*  danh từ
+- hoạ sĩ chuyên vẽ màu phấn
+
+@pastern /'pæstə:n/
+*  danh từ
+- cổ chân ngựa
+
+@pasteurism /'pæstərizm/
+*  danh từ
+- sự tiêm chủng phòng chữa bệnh dại (theo phương pháp Pa-xtơ)
+
+@pasteurization /,pæstərai'zeiʃn/
+*  danh từ
+- sự diệt khuẩn theo phương pháp Pa-xtơ
+
+@pasteurize /'pæstəraiz/
+*  ngoại động từ
+- diệt khuẩn theo phương pháp Pa-xtơ
+- tiêm chủng phòng chữa bệnh dại (theo phương pháp Pa-xtơ)
+
+@pasteurizer /'pæstəraizə/
+*  danh từ
+- lò hấp Pa-xtơ
+
+@pasticco /pɑ:s'tittʃou/ (pastiche) /pæs'ti:ʃ/
+*  danh từ
+- tác phẩm cóp nhặt, khúc (nhạc) cóp nhặt
+- tác phẩm mô phỏng (theo phương pháp của một tác giả quen thuộc)
+
+@pastiche /pɑ:s'tittʃou/ (pastiche) /pæs'ti:ʃ/
+*  danh từ
+- tác phẩm cóp nhặt, khúc (nhạc) cóp nhặt
+- tác phẩm mô phỏng (theo phương pháp của một tác giả quen thuộc)
+
+@pastil /'pæstil/ (pastille) /pæs'ti:l/
+*  danh từ
+- hương thỏi
+- kẹo viên thơm; thuốc viên thơm
+
+@pastille /'pæstil/ (pastille) /pæs'ti:l/
+*  danh từ
+- hương thỏi
+- kẹo viên thơm; thuốc viên thơm
+
+@pastime /'pɑ:staim/
+*  danh từ
+- trò tiêu khiển
+- sự giải trí
+
+@pastor /'pɑ:stə/
+*  danh từ
+- mục sư
+- (từ cổ,nghĩa cổ) người chăn súc vật, mục đồng
+- (động vật học) con sáo sậu
+
+@pastoral /'pɑ:stə/
+*  tính từ
+- (thuộc) người chăn súc vật, (thuộc) mục đồng
+- có tính chất đồng quê
+=pastoral scenery+ phong cảnh đồng quê
+=pastoral poems+ những bài thơ về đồng quê
+- (thuộc) đồng cỏ
+=pastoral land+ đất đồng cỏ
+- (thuộc) mục sư
+*  danh từ
+- bức hoạ đồng quê; bài thơ đồng quê; kịch đồng quê...
+- thư của mục sư gửi cho con chiên
+
+@pastorale /,pæstə'rɑ:li/ (pastorali) /,pæstə'rɑ:li:/
+*  danh từ
+- (âm nhạc) khúc đồng quê
+
+@pastorali /,pæstə'rɑ:li/ (pastorali) /,pæstə'rɑ:li:/
+*  danh từ
+- (âm nhạc) khúc đồng quê
+
+@pastorate /'pɑ:stərit/
+*  danh từ
+- chức mục sư
+- giới mục sư
+
+@pastorship /'pɑ:stəʃip/
+*  danh từ
+- chức mục sư
+
+@pastry /'peistri/
+*  danh từ
+- bột nhồi, bột nhão
+- bánh ngọt
+
+@pastry-cook /'peistrikuk/
+*  danh từ
+- thợ làm bánh ngọt
+
+@pasturage /'pɑ:stjuridʤ/
+*  danh từ
+- đồng cỏ thả súc vật
+- sự chăn thả
+
+@pasture /'pɑ:stʃə/
+*  danh từ
+- đồng cỏ, bãi cỏ
+- cỏ (cho súc vật gặm)
+*  ngoại động từ
+- chăn thả (súc vật)
+- ăn cỏ (ở đồng cỏ...)
+*  nội động từ
+- ăn cỏ, gặm cỏ
+
+@pasty /'pwsti/
+*  danh từ
+- chả nướng bọc bột
+*  tính từ
+- sền sệt, nhão (như bột nhão...)
+- xanh xao, nhợt nhạt ((cũng) pasty-faced)
+
+@pasty-faced /'pwsti,feist/
+*  tính từ
+- xanh xao, nhợt nhạt ((cũng) pasty)
+
+@pat /pæt/
+*  danh từ
+- cái vỗ nhẹ, cái vỗ về; tiếng vỗ nhẹ
+- khoanh bơ nhỏ
+*  ngoại động từ
+- vỗ nhẹ, vỗ về
+=to pat someone on the back+ vỗ nhẹ vào lưng ai
+- vỗ cho dẹt xuống
+*  nội động từ
+- (+ upon) vỗ nhẹ (vào)
+!to pat oneself on the back
+- (nghĩa bóng) tự mình khen mình
+*  phó từ
+- đúng lúc
+=the answer came pat+ câu trả lời đến đúng lúc
+- rất sẵn sàng
+!to stand pat
+- không đổi quân bài (đánh bài xì)
+- (nghĩa bóng) giữ vững lập trường; bám lấy quyết định đã có
+*  tính từ
+- đúng lúc
+- rất sẵn sàng
+
+@patard /pe'tɑ:d/
+*  danh từ
+- bộc phá
+- pháo (để đốt)
+!to be hoist with one's own petard
+- (xem) hoist
+
+@patch /pætʃ/
+*  danh từ
+- miếng vá
+- miếng băng dính, miếng thuốc cao (trên vết thương...)
+- miếng bông che mắt đau
+- nốt ruồi giả (để tô điểm trên mặt)
+- mảnh đất
+=a patch of potatoes+ một đám (mảnh) khoai
+- màng, vết, đốm lớn
+- mảnh thừa, mảnh vụn
+!to strike a bad patch
+- gặp vận bỉ, gặp lúc không may
+!not a patch on
+- (thông tục) không mùi gì khi đem so sánh với, không thấm gót khi đem so sánh với
+*  ngoại động từ
+- vá
+=to patch a tyre+ vá một cái lốp
+- dùng để vá, làm miếng vá (cho cái gì)
+=it will patch the hole well enough+ miếng đó đủ để vá cho cái lỗ thủng
+- ráp, nối (các mảnh, các mấu vào với nhau)
+- hiện ra từng mảng lốm đốm, loang lổ (trên vật gì)
+!to patch up
+- vá víu, vá qua loa
+- (nghĩa bóng) dàn xếp; dàn xếp qua loa, dàn xếp tạm thời (một vụ bất hoà...)
+
+@patchery /'pætʃəri/
+*  danh từ
+- sự vá (đồ rách)
+- đồ vật chấp vá; việc làm chấp vá
+
+@patchouli /'pætʃuli:/
+*  danh từ
+- (thực vật học) cây hoắc hương
+
+@patchwork /'pætʃwə:k/
+*  danh từ
+- miếng vải chấp mảnh (gồm nhiều mảnh vụn vá lại với nhau)
+- (nghĩa bóng) việc chắp vá, đồ chắp vá, tác phẩm chắp vá
+- (định ngữ) chắp vá
+
+@patchy /'pætʃi/
+*  tính từ
+- vá víu; chắp vá ((nghĩa đen) & (nghĩa bóng))
+=his knowledge is patchy+ kiến thức của hắn chắp vá thiếu hệ thống
+
+@pate /peit/
+*  danh từ
+- (thông tục) đầu; đầu óc
+
+@patella /pə'telə/
+*  danh từ,  số nhiều patellae  /pə'teli:/
+- (giải phẫu) xương bánh chè (ở đầu gối)
+- (từ cổ,nghĩa cổ) La-mã cái xoong nhỏ, cái chảo nhỏ
+
+@patellae /pə'telə/
+*  danh từ,  số nhiều patellae  /pə'teli:/
+- (giải phẫu) xương bánh chè (ở đầu gối)
+- (từ cổ,nghĩa cổ) La-mã cái xoong nhỏ, cái chảo nhỏ
+
+@patellar /pə'telə/
+*  tính từ
+- (thuộc) bánh chè
+=patellar reflex+ phản xạ bánh chè
+
+@paten /'pætən/
+*  danh từ
+- đĩa
+- (tôn giáo) đĩa đựng bánh thánh
+
+@patency /'peitənsi/
+*  danh từ
+- tình trạng mở (cửa...)
+- (nghĩa bóng) sự rõ ràng, sự hiển nhiên
+
+@patent /'peitənt/
+*  tính từ
+- có bằng sáng chế, có bằng công nhận đặc quyền chế tạo
+- (thông tục) tài tình, khéo léo, tinh xảo
+=a patent device+ một phương sách tài tình
+- mỏ (cửa...)
+- rõ ràng, hiển nhiên, rõ rành rành
+=a patent fact+ sự việc rõ rành rành
+*  danh từ
+- giấy môn bài, giấy đăng ký
+- bằng sáng chế
+- việc sáng chế (được công nhận bởi một bằng sáng chế; đặc quyền chế tạo
+- (nghĩa bóng) chứng chỉ (về tư cách đạo đức...)
+*  ngoại động từ
+- lấy bằng sáng chế về; được cấp bằng sáng chế về
+- (từ hiếm,nghĩa hiếm) cấp bằng sáng chế
+
+@patent leather /'peitənt'leðə/
+*  danh từ
+- da sơn
+
+@patent medicine /'peitənt'medsin/
+*  danh từ
+- biệt dược
+
+@patentee /,peitən'ti:/
+*  danh từ
+- người được cấp bằng sáng chế
+
+@patently /'peitəntli/
+*  phó từ
+- rõ ràng, hiển nhiên, rõ rành rành
+- mở
+
+@pater /'peitə/
+*  danh từ
+-(ngôn ngữ nhà trường),  (từ lóng) bố, ông bố
+
+@paterfamilias /'peitəfə'miliæs/ (patresfamilias) /'peitri:zfə'miliæs/
+*  danh từ
+-(đùa cợt) gia trưởng; cha
+
+@paternal /pə'tə:nl/
+*  tính từ
+- của cha; thuộc cha
+=paternal love+ tình cha con
+- có họ nội, về đằng nội
+=paternal grandmother+ bà nội
+
+@paternalism /pə'tə:nəlizm/
+*  danh từ
+- chủ nghĩa gia trưởng
+
+@paternity /pə'tə:niti/
+*  danh từ
+- tư cách làm cha, địa vị làm cha; quan hệ cha con
+- gốc bề đằng cha
+- (nghĩa bóng) nguồn; nguồn tác giả
+
+@paternoster /'pætə'nɔstə/
+*  danh từ
+- bài kinh tụng Chúa
+- hạt (ở chuỗi tràng hạt)
+!devil's paternoster
+- câu nguyền rủa lầm bầm trong miệng
+!no penny, no paternoster
+- hết tiền thì hết người hầu hạ
+
+@path /pɑ:θ, snh pɑ:ðz/
+*  danh từ
+- đường mòn, đường nhỏ
+=mountain path+ đường mòn trên núi
+- con đường, đường đi, đường lối
+=the path of a comes+ đường đi của sao chổi
+=on the path of honour+ trên con đường danh vọng
+
+@pathetic /pə'θetik/
+*  tính từ
+- cảm động, lâm ly, thống thiết
+
+@pathetics /pə'θetiks/
+*  danh từ,  số nhiều dùng như số ít
+- tính chất gợi cảm
+- thể văn thống thiết
+
+@pathfinder /'pɑ:θ,faində/
+*  danh từ
+- người thám hiểm
+- (quân sự) máy bay chỉ điểm (cho máy bay ném bom); người lái máy bay chỉ điểm
+- người chỉ điểm, tên gián điệp
+
+@pathless /'pɑ:θlis/
+*  tính từ
+- không có đường mòn; không có lối đi
+
+@pathogenesis /,pæθə'dʤenisis/
+*  danh từ
+- sự phát sinh bệnh
+- (y học) sinh bệnh học
+
+@pathogenous /pə'θɔdʤinəs/
+*  tính từ
+- gây bệnh
+
+@pathologic /,pæθə'lɔdʤik/ (pathological) /,pæθə'lɔdʤikəl/
+*  tính từ
+- (thuộc) bệnh học; (thuộc) bệnh lý
+
+@pathological /,pæθə'lɔdʤik/ (pathological) /,pæθə'lɔdʤikəl/
+*  tính từ
+- (thuộc) bệnh học; (thuộc) bệnh lý
+
+@pathologist /pə'θɔlədʤist/
+*  danh từ
+- nhà nghiên cứu bệnh học
+
+@pathology /pə'θɔlədʤi/
+*  danh từ
+- bệnh học; bệnh lý
+
+@pathos /'peiθɔs/
+*  danh từ
+- tính chất cảm động
+=all the pathos of the poem is in the last line+ tất cả tính chất cảm động của bài thơ nằm trong câu cuối
+- cảm xúc cao; cảm hứng chủ đạo
+- thể văn thống thiết
+
+@pathway /'pɑ:θwei/
+*  danh từ
+- đường mòn, đường nhỏ
+
+@patience /'peiʃəns/
+*  danh từ
+- tính kiên nhẫn, tính nhẫn nại; sự bền chí, sự nhẫn nại
+=the patience of job+ mức kiên nhẫn cuối cùng
+- sự chịu đựng
+=to be out of patience+ không kiên nhẫn được nữa, không chịu đựng được nữa
+- lối đánh bài paxiên (một người)
+
+@patient /'peiʃənt/
+*  tính từ
+- kiên nhẫn, nhẫn nại, bền chí
+!patient of
+- chịu đựng một cách kiên nhẫn
+- có thể nhận, phù hợp với
+=the facts are patient of two interpretation+ những sự việc đó có thể có hai cách giải thích
+*  danh từ
+- người bệnh
+
+@patina /'pætinə/
+*  danh từ
+- lớp gỉ đồng (ở ngoài những đồ đồng cũ)
+- nước bóng (trên mặt đồ gỗ cổ)
+
+@patinated /'pætineitid/
+*  tính từ
+- có gỉ (đồ đồng cũ)
+- có nước bóng (đồ gỗ cổ)
+
+@patio /'pætiou/
+*  danh từ,  số nhiều patios
+- sân trong (nhà người Tây ban nha)
+
+@patois /'pætwɑ:/
+*  danh từ
+- thổ ngữ địa phương
+
+@patresfamilias /'peitəfə'miliæs/ (patresfamilias) /'peitri:zfə'miliæs/
+*  danh từ
+-(đùa cợt) gia trưởng; cha
+
+@patriarch /'peitriɑ:k/
+*  danh từ
+- tộc trưởng; gia trưởng
+- ông lâo đáng kính; ông già nhiều con cháu
+- vị đại diện cao tuổi nhất (của một giới nào...)
+- người sáng lập (một môn phái...)
+- (tôn giáo) giáo trưởng
+
+@patriarchal /,peitri'ɑ:kəl/
+*  tính từ
+- (thuộc) tộc trưởng; (thuộc) gia trưởng
+- (tôn giáo) (thuộc) giáo trưởng
+- già cả; đáng kính
+
+@patriarchate /'peitriɑ:kit/
+*  danh từ
+- địa vị gia trưởng
+- chức giáo trưởng; nhiệm kỳ của giáo trưởng; khu thuộc quyền giáo trưởng
+
+@patriarchy /'peitriɑ:ki/
+*  danh từ
+- chế độ gia trưởng
+- chế độ quyền cha
+- địa vị gia trưởng
+
+@patrician /pə'triʃn/
+*  danh từ
+- quý tộc
+*  tính từ
+- (thuộc) quý tộc
+
+@patriciate /pə'triʃiit/
+*  danh từ,  (từ cổ,nghĩa cổ) La-mâ
+- quý tộc
+- giai cấp quý tộc; hàng quý tộc
+
+@patricidal /,pæri'saidl/ (patricidal) /,pætri'saidl/
+*  tính từ
+- (thuộc) tội giết cha; (thuộc) tội giết mẹ
+- (thuộc) tội phản quốc
+
+@patricide /'pærisaid/ (patricide) /'pætrisaid/
+*  danh từ
+- kẻ giết cha; kẻ giết mẹ; kẻ giết người thân thích
+- kẻ phản quốc
+- tội giết cha; tội giết mẹ; tội giết người thân thích
+- tội phản quốc
+
+@patrimonial /,pætri'mounjəl/
+*  tính từ
+- (thuộc) gia sản, (thuộc) di sản
+- (thuộc) tài sản của nhà thờ (đạo Thiên-chúa)
+
+@patrimony /'pætriməni/
+*  danh từ
+- gia sản, di sản
+- tài sản của nhà thờ (đạo Thiên chúa)
+
+@patriot /'peitriət/
+*  danh từ
+- người yêu nước
+
+@patriotic /,pætri'ɔtik/
+*  tính từ
+- yêu nước
+
+@patriotism /'pætriətizm/
+*  danh từ
+- lòng yêu nước
+
+@patristic /pə'tristik/
+*  tính từ
+- (thuộc) các cha giáo lý (đạo Thiên chúa)
+
+@patrol /pə'troul/
+*  danh từ
+- đội tuần tra; việc tuần tra
+=to go on patrol+ đi tuần tra
+- (quân sự) cuộc bay tác chiến thường xuyên
+*  động từ
+- đi tuần tra
+
+@patrol wagon /pə'troul'wægən/
+*  danh từ
+- xe nhà tù, xe chở tù nhân
+
+@patrol-boat /pə'troulbout/
+*  danh từ
+- tàu tuần tra
+
+@patrol-bomber /pə'troul,bɔmə/
+*  danh từ
+- (quân sự) máy bay oanh tạc tuần tra
+
+@patrolman /pə'troulmæn/
+*  danh từ
+- (từ Mỹ,nghĩa Mỹ) cảnh sát
+
+@patron /'peitrən/
+*  danh từ
+- người bảo trợ, người đỡ đầu; ông chủ, ông bầu
+- khách hàng quen (của một cửa hàng)
+- thần thành hoàng, thánh bảo hộ ((cũng) patron saint)
+- người được hưởng một chức có lộc
+
+@patronage /'peitrənidʤ/
+*  danh từ
+- sự bảo trợ, sự đỡ đầu
+- sự lui tới của khách hàng quen
+- quyền ban chức cho giáo sĩ; quyền bổ nhiệm (các chức vụ hành chính...)
+- vẻ kẻ cả, vẻ bề trên; vẻ hạ cố
+
+@patroness /'peitrənis/
+*  danh từ
+- bà bảo trợ, bà đỡ đầu; bà chủ, bà bầu
+- bà khách hàng quen (của một cửa hàng)
+- nữ thần bảo hộ
+
+@patronise /'pætrənaiz/ (patronize) /'pætrənaiz/
+*  ngoại động từ
+- bảo trợ, đỡ đầu
+- đối xử với thái độ kẻ cả, bề trên; hạ cố
+=patronizing airs+ vẻ kẻ cả bề trên
+- chiếu cố, lui tới (một cửa hàng) (khách hàng quen)
+
+@patronize /'pætrənaiz/ (patronize) /'pætrənaiz/
+*  ngoại động từ
+- bảo trợ, đỡ đầu
+- đối xử với thái độ kẻ cả, bề trên; hạ cố
+=patronizing airs+ vẻ kẻ cả bề trên
+- chiếu cố, lui tới (một cửa hàng) (khách hàng quen)
+
+@patronymic /,pætrə'nimik/
+*  tính từ
+- đặt theo tên cha (ông) (tên)
+*  danh từ
+- tên đặt theo tên cha (ông)
+
+@patten /'pætn/
+*  danh từ
+- giầy đi bùn; giày guốc
+
+@patter /'pætə/
+*  danh từ
+- tiếng lộp độp (mưa rơi), tiếng lộp cộp (vó ngựa...)
+*  nội động từ
+- rơi lộp độp (mưa...), chạy lộp cộp (vó ngựa...); kêu lộp cộp
+*  ngoại động từ
+- làm rơi lộp độp; làm kêu lộp cộp
+*  danh từ
+- tiếng lóng nhà nghề, tiếng lóng của một lớp người
+- câu nói giáo đầu liến thoắng (bắt vào bài hát)
+- lời (của một bài hát, của một vở kịch vui)
+- lời nói ba hoa rỗng tuếch
+*  ngoại động từ
+- nhắc lại một cách liến thoắng máy móc; lầm rầm (khấn, cầu kinh...)
+*  nội động từ
+- nói liến thoắng
+
+@pattern /'pætən/
+*  danh từ
+- kiểu mẫu, gương mẫu
+=a pattern of virtues+ một kiểu mẫu về đức hạnh
+- mẫu hàng
+=pattern card+ bia dán mẫu hàng
+- mẫu, mô hình, kiểu
+=a bicycle of an old pattern+ cái xe đạp kiểu cũ
+- mẫu vẽ (trên vải, hảm, rèm che cửa...)
+- (hàng không) đường hướng dẫn hạ cánh
+- (quân sự) sơ đồ ném bom, sơ đồ bắn phá
+*  ngoại động từ
+- (+ after,  uopn) lấy làm kiểu mẫu
+- trang trí bằng mẫu vẽ
+
+@pattern-bombing /'pætən'bɔmiɳ/
+*  danh từ
+- (quân sự) sự ném bom theo sơ đồ vạch sẵn; sự bắn phá theo sơ đồ vạch sẵn
+
+@pattern-maker /'pætən,meikə/
+*  danh từ
+- thợ làm mẫu; thợ làm mô hình
+
+@pattern-shop /'pætənʃɔp/
+*  danh từ
+- xưởng làm mẫu; xưởng làm mô hình
+
+@patty /'pæti/
+*  danh từ
+- cái chả nhỏ; chả bao bột nhỏ
+- kẹo viên dẹt
+
+@pattypan /'pætipæn/
+*  danh từ
+- chảo nướng chả
+
+@patulous /'pætjuləs/
+*  tính từ
+- toả rộng, xoè ra
+=patulous boughs+ những cành cây xoè ra
+
+@paucity /'pɔ:siti/
+*  danh từ
+- số lượng nhỏ
+- sự khan hiếm, sự thiếu thốn, sự ít ỏi
+
+@paul pry /'pɔ:l'prai/
+*  danh từ
+- người tò mò, người thóc mách
+
+@pauline /'pɔ:lain/
+*  tính từ
+- (tôn giáo) (thuộc) thánh Pôn
+
+@paunch /pɔ:ntʃ/
+*  danh từ
+- dạ cỏ (của động vật nhai lại)
+- dạ dày; bụng
+- (hàng hải) thảm lót (để lót những chỗ hay cọ trên tàu)
+*  ngoại động từ
+- mổ ruột (cầm thú), mổ bụng
+
+@pauper /'pɔ:pə/
+*  danh từ
+- người nghèo túng; người ăn xin
+- người nghèo được cứu tế
+=indoor pauper+ người nghèo được bệnh viện nhận chữa nội trú
+=outdoor pauper+ người nghèo được bệnh viện nhận chữa ngoại trú
+
+@pauperise /'pɔ:pəraiz/ (pauperise) /'pɔ:pəraiz/
+*  ngoại động từ
+- bần cùng hoá
+
+@pauperism /'pɔ:pərizm/
+*  danh từ
+- tình trạng bần cùng
+
+@pauperization /,pɔ:pərai'zeiʃn/
+*  danh từ
+- sự bần cùng hoá
+
+@pauperize /'pɔ:pəraiz/ (pauperise) /'pɔ:pəraiz/
+*  ngoại động từ
+- bần cùng hoá
+
+@pause /pɔ:z/
+*  danh từ
+- sự tạm nghỉ, sự tạm ngừng
+- sự ngập ngừng
+=to give pause to+ làm cho (ai) ngập ngừng
+- sự ngắt giọng (trong khi đang nói, đang đọc); chỗ ngắt giọng, chỗ ngắt
+=the after a short pause, he resumed his speech+ sau khi ngắt giọng một giây, ông ấy lại tiếp tục bài diễn văn của mình
+- (âm nhạc) dấu dãn nhịp
+*  nội động từ
+- tạm nghỉ, tạm ngừng
+- chờ đợi; ngập ngừng
+- (+ upon) ngừng lại
+=let us pause upon this phrase+ chúng ta hãy ngừng lại ở nhóm từ này
+
+@pavage /'peividʤ/
+*  danh từ
+- thuế lát đường phố
+- sự lát đường
+
+@pavan /'pævən/
+*  danh từ
+- điệu vũ pavan (gốc ở Tây ban nha)
+
+@pave /peiv/
+*  ngoại động từ
+- lát (đường, sàn...)
+!to pave the way for
+- (xem) way
+
+@pavement /'peivmənt/
+*  danh từ
+- mặt lát (đường, sàn...)
+- vỉa hè, hè đường
+
+@pavement-artist /'peivmənt,ɑ:tist/
+*  danh từ
+- hoạ sĩ vỉa hè
+
+@paver /'peivə/
+*  danh từ
+- thợ lát (đường, sàn...) ((từ hiếm,nghĩa hiếm) (cũng) paviour)
+
+@pavilion /pə'viljən/
+*  danh từ
+- lều vải, rạp
+- đinh, tạ (ở cạnh lâu đài, sân thể thao, nơi giải trí...)
+- (kiến trúc) phần nhà nhô ra
+*  ngoại động từ
+- che bằng lều; dựng lều, dựng rạp
+
+@paviour /'peivə/
+*  danh từ
+- thợ lát (đường, sàn...) ((từ hiếm,nghĩa hiếm) (cũng) paviour)
+
+@pavlovian /pæv'louvjən/
+*  danh từ
+- pavlovian reflex (sinh vật học) phản xạ có điều kiện
+
+@pavonine /'pævənain/
+*  tính từ
+- (thuộc) con công; giống con công
+
+@paw /pɔ:/
+*  danh từ
+- chân (có vuốt của mèo, hổ...)
+- (thông tục) bàn tay; nét chữ
+*  ngoại động từ
+- cào, tát (bằng chân có móng sắc)
+- gõ chân xuống (đất) (ngựa)
+- (thông tục) cầm lóng ngóng vụng về; mần mò, vầy vọc
+*  nội động từ
+- gõ chân xuống đất (ngựa)
+
+@pawkiness /'pɔ:kinis/
+*  danh từ (Ớ-cốt)
+- tính ranh ma, tính láu cá, tính giảo hoạt
+- tính dí dỏm phớt tỉnh
+
+@pawky /'pɔ:ki/
+*  tính từ (Ớ-cốt)
+- ranh ma, láu cá, giảo hoạt
+- dí dỏm phớt tỉnh
+
+@pawl /pɔ:l/
+*  danh từ
+- (kỹ thuật) cam, ngạc (để giữ bánh xe răng cưa không cho quay lại)
+- (hàng hải) chốt hãm tới
+*  ngoại động từ
+- tra gạc hãm, tra chốt hãm
+
+@pawn /pɔ:n/
+*  danh từ
+- con tốt (trong bộ cờ)
+- (nghĩa bóng) tốt đen, anh cầm cờ chạy hiệu
+*  danh từ
+- sự cầm đồ
+=to be in pawn+ bị đem cầm đi
+=to put something in pawn+ đem cầm vật gì
+=to take something out of pawn+ chuộc lại vật gì đã cầm
+- vật đem cầm
+*  ngoại động từ
+- cầm, đem cầm
+- (nghĩa bóng) đem đảm bảo
+=to pawn one's honour+ đem danh sự ra đảm bảo
+=to pawn one's life+ lấy tính mệnh ra đảm bảo
+=to pawn one's word+ hứa
+
+@pawnbroker /'pɔ:n,broukə/
+*  danh từ
+- chủ hiệu cầm đồ
+=at the pawnbroker's+ đang đem cầm, đang ở hiệu cầm đồ (đồ)
+
+@pawnbroking /'pɔn:n,broukiɳ/
+*  danh từ
+- nghề cầm đồ
+
+@pawnee /pɔ:'ni:/
+*  danh từ
+- người nhận vật cầm
+
+@pawnshop /'pɔ:nʃɔp/
+*  danh từ
+- hiệu cầm đồ
+
+@pawpaw /pə'pɔ:/ (papaya) /pə'paiə/
+*  danh từ
+- cây đu đủ
+- quả đu đủ
+
+@pax /pæks/
+*  danh từ
+- (tôn giáo) tượng thánh giá (để hôn khi làm lễ)
+- hoà bình
+=pax Americana+ hoà bình kiểu Mỹ
+*  danh từ
+- tiền lương
+=to draw one's pax+ lĩnh lương
+- sự trả tiền
+!in the pay of somebody
+- (thường),  (nghĩa xấu) ăn lương của ai; nhận tiền của ai
+=he is in the pax of the enemy+ nó nhận tiền của địch
+
+@pay /pei/
+*  ngoại động từ paid  /peid/
+- trả (tiền lương...); nộp, thanh toán
+=to high wages+ trả lương cao
+=to pay somebody+ trả tiền ai
+=to pay a sum+ trả một số tiền
+=to pay one's debt+ trả nợ, thanh toán nợ
+=to pay taxes+ nộp thuế
+- (nghĩa bóng) trả công, thưởng, đền đáp lại
+- dành cho; đến (thăm...); ngỏ (lời khen...)
+=to pay a visit+ đến thăm
+=to pay one's respects to someone+ đến chào ai
+=to pay someone a compliment+ ngỏ lời khen ngợi, ca tụng ai
+=to pay attention to+ chú ý tới
+- cho (lãi...), mang (lợi...)
+=it pays six per cent+ món đó cho sáu phần trăm lãi
+*  nội động từ
+- trả tiền
+- (+ for) (nghĩa bóng) phải trả giá đắt, phải chịu hậu quả
+=he shall pay for it+ hắn sẽ phải trả giá đắt về việc đó
+- có lợi; mang lợi, sinh lợi
+=this concern does not pay+ công việc kinh doanh chẳng lợi lộc gì
+!to pay away
+- trả hết, thanh toán, trang trải
+- (hàng hải) thả (dây chuyền...)
+!to pay back
+- trả lại, hoàn lại
+!to pay down
+- trả tiền mặt
+!to pay in
+- nộp tiền
+!to pay off
+- thanh toán, trang trải
+- trả hết lương rồi cho thôi việc
+- giáng trả, trả đũa, trả thù
+- cho kết quả, mang lại kết quả
+- (hàng hải) đi né về phía dưới gió (tàu, thuyền)
+!to pay out
+- (như) to pay away
+- trả thù, trừng phạt (ai)
+!to pay up
+- trả hết, thanh toán, trang trải, xuỳ tiền ra
+!to pay someone in his own coin
+- (xem) coin
+!to pay through the nose
+- (xem) nose
+!he who pays the piper calls the tume
+- ai trả tiền thì người ấy có quyền
+!to pay one's way
+- không mang công việc mắc nợ
+!to pay for one's whistle
+- phải trả giá đắt về cái tính ngông cuồng của mình
+*  ngoại động từ
+- sơn, quét hắc ín
+
+@pay load /'peiloud/
+*  danh từ
+- trọng tải (máy bay, tàu...)
+- lượng chất nổ (đầu tên lửa)
+
+@pay phone /'peifoun/
+*  danh từ
+- (từ Mỹ,nghĩa Mỹ) điện thoại tự động
+
+@pay-bill /'peiʃi:t/ (pay-bill) /'peibil/ (pay-list) /'peilist/
+-bill) /'peibil/ (pay-list) /'peilist/
+*  danh từ
+- bảng lương
+
+@pay-box /'peibɔks/
+*  danh từ
+- nơi trả tiền, ghi sê
+
+@pay-day /'peidei/
+*  danh từ
+- ngày trả tiền, ngày phát lương
+- ngày thanh toán (ở thị trường chứng khoán)
+
+@pay-desk /'pei,ɔfis/ (pay-desk) /'peidesk/
+-desk) /'peidesk/
+*  danh từ
+- nơi trả tiền, nơi trả lương
+
+@pay-envelope /'pei,enviloup/
+*  danh từ
+- phong bì tiền lương
+
+@pay-list /'peiʃi:t/ (pay-bill) /'peibil/ (pay-list) /'peilist/
+-bill) /'peibil/ (pay-list) /'peilist/
+*  danh từ
+- bảng lương
+
+@pay-off /'peiɔf/
+*  danh từ
+- (từ Mỹ,nghĩa Mỹ) sự trả lương, sự trả tiền
+- kỳ trả lương, kỳ trả tiền
+- sự thưởng phạt
+- phần, tỷ lệ phần trăm
+
+@pay-office /'pei,ɔfis/ (pay-desk) /'peidesk/
+-desk) /'peidesk/
+*  danh từ
+- nơi trả tiền, nơi trả lương
+
+@pay-out /'peiaut/
+*  danh từ
+- sự trả tiền, sự trả lương
+
+@pay-roll /'peiroul/
+*  danh từ
+- (như) pay-sheet
+- số tiền trả cho những người trong bảng lương
+
+@pay-sheet /'peiʃi:t/ (pay-bill) /'peibil/ (pay-list) /'peilist/
+-bill) /'peibil/ (pay-list) /'peilist/
+*  danh từ
+- bảng lương
+
+@payable /'peiəbl/
+*  tính từ
+- có thể trả, phải trả
+=payable to bearer+ trả cho người cầm giấy
+- có lợi
+
+@payee /pei'i:/
+*  danh từ
+- người được trả tiền
+
+@payer /'peiə/
+*  danh từ
+- người trả tiền
+
+@paying capacity /'petiɳkə'pæsiti/
+*  danh từ
+- khả năng thanh toán
+
+@paymaster /'pei,mɑ:stə/
+*  danh từ
+- người phát lương
+
+@payment /'peimənt/
+*  danh từ
+- sự trả tiền, sự nộp tiền; số tiền trả
+=payment received+ đã nhận đủ số tiền
+- (nghĩa bóng) việc trả công, việc thưởng phạt
+
+@paynim /'peinim/
+*  danh từ
+- (từ cổ,nghĩa cổ) người dị giáo, người tà giáo
+
+@paysage /peii'zɑ:ʤ/
+*  danh từ
+- phong cảnh
+- bức hoạ phong cảnh
+
+@pâté /peii'zɑ:ʤ/
+*  danh từ
+- phong cảnh
+- bức hoạ phong cảnh
+
+@pea /pi:/
+*  danh từ
+- (thực vật học) đậu Hà-lan; đậu
+=green peas+ đậu Hà-lan còn non
+=split peas+ đậu hạt (đã bỏ vỏ quả đi)
+!as like as two peas
+- (xem) like
+
+@pea coal /'pi:koul/
+*  danh từ
+- than hột
+
+@pea green /'pi:'gri:n/
+*  danh từ
+- màu lục hạt đậu
+
+@pea soup /'pi:'su:p/
+*  danh từ
+- xúp đậu
+- (thông tục) sương mù dày đặc vàng khè ((cũng) pea-souper)
+
+@pea-chick /'pi:tʃik/
+*  danh từ
+- (động vật học) con công con
+
+@pea-coat /'pi:,dɔækit/ (pea-coat) /'pi:kout/
+-coat) /'pi:kout/
+*  danh từ
+- (hàng hải) áo va rơi
+
+@pea-jacket /'pi:,dɔækit/ (pea-coat) /'pi:kout/
+-coat) /'pi:kout/
+*  danh từ
+- (hàng hải) áo va rơi
+
+@pea-souper /'pi:,su:pə/
+*  danh từ
+- (thông tục) sương mù dày đặc vàng khè ((cũng) pea-soup)
+- (Ca-na-đa) (từ lóng) người Ca-na-đa dòng dõi Pháp
+
+@pea-soupy /'pi:'su:pi/
+*  tính từ
+- dày đặc và vàng khè (sương mù)
+
+@peace /pi:s/
+*  danh từ
+- hoà bình, thái bình, sự hoà thuận
+=at peace with+ trong tình trạng hoà bình; hoà thuận với
+=peace with honour+ hoà bình trong danh dự
+=to make peace+ dàn hoà
+=to make one's peace with somebody+ làm lành với ai
+=to make someone's peace with another+ giải hoà ai với ai
+- ((thường) Peace) hoà ước
+- sự yên ổn, sự trật tự an ninh
+=the [king's] peace+ sự yên bình, sự an cư lạc nghiệp
+=to keep the peace+ giữ trật tự an ninh
+=to break the peace+ việc phá rối trật tự
+- sự yên lặng, sự yên tĩnh; sự an tâm
+=peace of mind+ sự yên tĩnh trong tâm hồn
+=to hold one's peace+ lặng yên không nói
+
+@peace-offering /'pi:s,ɔfəriɳ/
+*  danh từ
+- đồ lễ để cầu hoà, đồ lễ để chuộc tội
+- (tôn giáo) đồ lễ tạ ơn Chúa
+
+@peace-officer /'pi:s,ɔfisə/
+*  danh từ
+- nhân viên trật tự trị an, công an, cảnh sát
+
+@peace-pipe /'pi:spaip/
+*  danh từ
+- ống điếu hoà bình (của người da đỏ Mỹ)
+
+@peace-time /'pi:staim/
+*  danh từ
+- thời bình
+
+@peaceable /'pi:səbl/
+*  tính từ
+- yêu hoà bình
+- thích yên tĩnh
+- yên ổn; thái bình
+
+@peaceful /'pi:sful/
+*  tính từ
+- hoà bình, thái bình
+=peaceful coexistence+ sự chung sống hoà bình
+- yên ổn, thanh bình
+- yên lặng
+
+@peacemaker /'pi:s,meikə/
+*  danh từ
+- người hoà giải
+-(đùa cợt) súng lục
+-(đùa cợt) tàu chiến
+
+@peach /pi:tʃ/
+*  danh từ
+- quả đào
+- (thực vật học) cây đào ((cũng) peach tree)
+- (từ lóng) tuyệt phẩm; cô gái rất có duyên
+*  nội động từ
+- (từ lóng) mách lẻo, tâu, hót
+
+@peach-blossom /pi:tʃ'blɔsəm/
+*  danh từ
+- hoa đào
+
+@peach-blow /pi:tʃblou/
+*  danh từ
+- màu hoa đào
+- men (màu) hoa đào (đồ sứ)
+
+@peach-brandy /pi:tʃ,brændi/
+*  danh từ
+- rượu đào
+
+@peach-colour /pi:tʃ,kʌlə/
+*  danh từ
+- màu hoa đào
+
+@peach-coloured /pi:tʃ,kʌləd/
+*  tính từ
+- có màu hoa đào
+
+@peach-tree /'pi:tʃtri:/
+*  danh từ
+- (thực vật học) cây đào
+
+@peachy /'pi:tʃi/
+*  tính từ
+- mơn mởn đào tơ
+
+@peacock /'pi:kɔk/
+*  danh từ
+- (động vật học) con công (trống)
+=pround as a peacock+ vênh vang như con công
+*  nội động từ
+- vênh vang; đi vênh vang; làm bộ làm tịch, khoe mẽ
+*  ngoại động từ
+- to peacock oneself upon vênh vang; làm bộ làm tịch về, khoe mẽ (cái gì)
+
+@peacock blue /'pi:kɔk'blu:/
+*  danh từ
+- màu biếc cánh trả
+
+@peacockery /'pi:,kɔkəri/
+*  danh từ
+- thái độ vênh vang, thái độ làm bộ làm tịch, thái độ khoe mẽ
+
+@peafowl /'pi:faul/
+*  danh từ
+- (động vật học) con công (trống hoặc mái)
+
+@peahen /'pi:'hen/
+*  danh từ
+- (động vật học) con công (mái)
+
+@peak /pi:k/
+*  danh từ
+- lưỡi trai (của mũ)
+- đỉnh, chỏm chóp (núi); đầu nhọn (của râu, ngạnh)
+- đỉnh cao nhất, tột đỉnh, cao điểm
+=the peak of the load+ trọng tải cao nhất; cao điểm (cung cấp điện, luồng giao thông...)
+=resonance peak+ (vật lý) đỉnh cộng hưởng
+- (hàng hải) mỏm (tàu)
+*  ngoại động từ
+- (hàng hải) dựng thẳng (trục buồm); dựng đứng (mái chèo)
+- dựng ngược (đuôi) (cá voi)
+- (từ Mỹ,nghĩa Mỹ) làm cho đạt tới đỉnh cao nhất
+*  nội động từ
+- dựng ngược đuôi lao thẳng đứng xuống (cá voi)
+- (từ Mỹ,nghĩa Mỹ) đạt tới đỉnh cao nhất
+*  nội động từ
+- héo hom, ốm o gầy mòn, xanh xao, tiều tuỵ
+=to peak and pine+ héo hon chết mòn
+
+@peaked /pi:kt/ (peaky) /'pi:ki/
+*  tính từ
+- có lưỡi trai (mũ)
+- có đỉnh, có chóp nhọn
+- héo hon ốm yếu, hom hem, xanh xao, tiều tuỵ
+
+@peaky /pi:kt/ (peaky) /'pi:ki/
+*  tính từ
+- có lưỡi trai (mũ)
+- có đỉnh, có chóp nhọn
+- héo hon ốm yếu, hom hem, xanh xao, tiều tuỵ
+
+@peal /pi:l/
+*  danh từ ((cũng) peel)
+- (động vật học) cá đù
+- (Ai-len) cá hồi con
+*  danh từ
+- chùm chuông
+- hồi chuông
+- hồi tràng (sấm, cười...)
+=a peal of thunder+ tràng sấm rền
+*  nội động từ
+- rung, ngân, vang
+*  ngoại động từ
+- rung, đánh từng hồi
+=to peal bells+ rung chuông, đánh từng hồi chuông
+
+@peanut /'pi:nʌt/
+*  danh từ
+- cây lạc, củ lạc
+- (từ Mỹ,nghĩa Mỹ) người tầm thường nhỏ nhen; người bé xíu, anh chàng nhãi nhép
+*  tính từ
+- (từ Mỹ,nghĩa Mỹ) tầm thường, nhỏ nhen; nhãi nhép
+=peanut politician+ nhà chính trị nhãi nhép
+
+@pear /peə/
+*  danh từ
+- quả lê
+- (thực vật học) cây lê
+
+@pear-shaped /'peəʃeipt/
+*  tính từ
+- hình quả lê
+
+@pear-tree /'peətri:/
+*  danh từ
+- (thực vật học) cây lê
+
+@pearl /pə:l/
+*  danh từ
+- đường viền quanh dải đăng ten (ở áo gối...)
+*  danh từ
+- hạt trai, ngọc trai
+=imitation+ pearl hạt trai giả
+- ngọc quý, viên ngọc ((nghĩa bóng))
+- hạt long lanh (như giọt sương, giọt lệ...)
+- viên nhỏ, hạt nhỏ
+- (ngành in) chữ cỡ 5
+!to cast pearls before swine
+- đem đàn gảy tai trâu; đem hồng ngâm cho chuột vọc; đem hạt ngọc cho ngâu vầy
+*  ngoại động từ
+- rắc thành những giọt long lanh như hạt trai
+- rê, xay, nghiền (lúa mạch...) thành những hạt nhỏ
+- làm cho có màu hạt trai; làm cho long lanh như hạt trai
+*  nội động từ
+- đọng lại thành giọt long lanh như hạt trai (sương...)
+- mò ngọc trai
+
+@pearl-ash /'pɔtæʃ/ (pearl-ash) /'pə:læʃ/
+-ash) /'pə:læʃ/
+*  danh từ
+- (hoá học) Kali cacbonat, bồ tạt ((từ cổ,nghĩa cổ) (cũng) potass)
+=caustic potash+ Kali hyđroxyt
+
+@pearl-barley /'pə:l'bɑ:li/
+*  danh từ
+- lúa mạch xay (thành những hạt nhỏ)
+
+@pearl-button /'pə:l'bʌtn/
+*  danh từ
+- khuy trai
+
+@pearl-diver /'pə:l,daivə/ (pearler) /pearler/ (pearl-fisher) /pearl-fisher/
+-fisher) /pearl-fisher/
+*  danh từ
+- người mò ngọc trai
+
+@pearl-fisher /'pə:l,daivə/ (pearler) /pearler/ (pearl-fisher) /pearl-fisher/
+-fisher) /pearl-fisher/
+*  danh từ
+- người mò ngọc trai
+
+@pearl-fishery /'pə:l,fiʃəri/
+*  danh từ
+- nghề mò ngọc trai
+- nơi mò ngọc trai
+
+@pearl-oyster /'pə:l,ɔistə/
+*  danh từ
+- (động vật học) trai ngọc
+
+@pearl-powder /'pə:l,paudə/ (pearl-white) /'pə:lwait/
+-white) /'pə:lwait/
+*  danh từ
+- thuốc làm trắng da (một loại mỹ phẩm)
+
+@pearl-shell /'pə:lʃel/
+*  danh từ
+- vỏ ốc xà cừ; xà cừ
+
+@pearl-white /'pə:l,paudə/ (pearl-white) /'pə:lwait/
+-white) /'pə:lwait/
+*  danh từ
+- thuốc làm trắng da (một loại mỹ phẩm)
+
+@pearler /'pə:l,daivə/ (pearler) /pearler/ (pearl-fisher) /pearl-fisher/
+-fisher) /pearl-fisher/
+*  danh từ
+- người mò ngọc trai
+
+@pearlies /'pə:liz/
+*  danh từ số nhiều
+- áo có khuy xà cừ (của người bán cá, hoa quả rong)
+
+@pearly /'pə:li/
+*  tính từ
+- long lanh như hạt ngọc trai
+- có đính ngọc trai
+
+@peasant /'pezənt/
+*  danh từ
+- nông dân
+
+@peasantry /'pezəntri/
+*  danh từ
+- giai cấp nông dân
+
+@pease /pi:z/
+*  danh từ
+- đậu Hà-lan; đậu
+
+@peashooter /'pi:,ʃu:tə/
+*  danh từ
+- ống xì thổi hột đậu (đồ chơi trẻ con)
+
+@peat /pi:t/
+*  danh từ
+- than bùn
+- cục than bùn, tảng than bùn
+- (định ngữ) (thuộc) than bùn
+*  tính từ
+- (từ cổ,nghĩa cổ) cô gái, người đẹp
+
+@peatbog /'pi:tbɔg/ (peatmoss) /'pi:t'mɔs/
+*  danh từ
+- bãi than bùn
+
+@peatery /'pi:təri/
+*  danh từ
+- bãi than bùn
+- sự khai thác than bùn
+
+@peatman /'pi:tmæn/
+*  danh từ
+- người lấy than bùn
+- người bán than bùn
+
+@peatmoss /'pi:tbɔg/ (peatmoss) /'pi:t'mɔs/
+*  danh từ
+- bãi than bùn
+
+@peatreek /'pi:tri:k/
+*  danh từ
+- khói than bùn
+- rượu uýtky (Ê-cốt) (cất trên lửa than bùn)
+
+@peatry /'pi:ti/
+*  tính từ
+- có than bùn
+- như than bùn
+
+@pebble /'pebl/
+*  danh từ
+- đá cuội, sỏi
+- thạch anh (để làm thấu kính...); thấu kính bằng thạch anh
+- mã não trong
+
+@pebblestone /'peblstoun/
+*  danh từ
+- đá cuội, đá sỏi
+
+@pebbly /'pebli/
+*  tính từ
+- có đá cuội, có đá sỏi; phủ đá cuội, phủ đá sỏi
+
+@pecan /pi'kæn/
+*  danh từ
+- (thực vật học) cây hồ đào pêcan (vùng Mi-si-si-pi)
+- quả hồ đào pêcan châu Mỹ
+
+@peccability /'pekə'biliti/
+*  danh từ
+- tính có thể mắc lỗi lầm; tính có thể phạm thiếu sót
+
+@peccable /'pekəbl/
+*  tính từ
+- dễ lỗi lầm; dễ thiếu sót
+- có thể mắc lỗi lầm; có thể phạm thiếu sót
+
+@peccadillo /,pekə'dilou/
+*  danh từ,  peccadillos  /,pekə'dilouz/,  peccadilloes  /,pekə'dilouz/
+- lỗi nhỏ, lầm lỗi không đáng kể
+
+@peccancy /'pekənsi/
+*  danh từ
+- lỗi lầm, tội lỗi
+- tính có thể mắc lỗi lầm
+
+@peccant /'pekənt/
+*  tính từ
+- có lỗi lầm, có tội lỗi
+- (y học) gây bệnh; có hại
+
+@peccary /'pekəri/
+*  danh từ
+- (động vật học) lợn lòi pêcari
+
+@peck /pek/
+*  danh từ
+- thùng, đấu to (đơn vị đo lường khoảng 9 lít)
+- (nghĩa bóng) nhiều, vô khối
+=a peck of troubles+ vô khối điều phiền hà
+*  danh từ
+- cú mổ, vết mổ (của mỏ chim)
+- cái hôn vội
+- (từ lóng) thức ăn, thức nhậu, thức đớp
+*  ngoại động từ
+- mổ, khoét, nhặt (bằng mỏ)
+- đục, khoét (tường... bằng vật nhọn)
+- hôn vội (vào má...)
+- (thông tục) ăn nhấm nháp
+*  nội động từ
+- (+ at) mổ vào
+- (nghĩa bóng) chê bai, bẻ bai, bắt bẻ
+*  ngoại động từ
+- (từ lóng) ném (đá)
+*  nội động từ
+- (+ at) ném đá vào (ai...)
+
+@pecker /'pekə/
+*  danh từ
+- chim gõ, chim hay mổ ((thường) trong từ ghép)
+- cái cuốc nhỏ
+- (từ lóng) sự vui vẻ; sự hăng hái
+=to keep one's pecker up+ vẫn vui vẻ, vẫn hăng hái
+!to put up somebody's pecker
+- làm ai tức giận, làm ai phát cáu
+
+@peckish /'pekiʃ/
+*  tính từ
+- (thông tục) đói bụng, kiến bò bụng
+
+@pecksniff /'peksnif/
+*  danh từ
+- sự nói giả nhân giả nghĩa
+
+@pecten /'pettən/
+*  danh từ,  số nhiều pectines  /'pektini:z/
+- (động vật học) tấm lược
+
+@pectic /'pektik/
+*  tính từ
+- (hoá học) Pectic
+=pectic acid+ axit pectic
+
+@pectin /'pektin/
+*  danh từ
+- (hoá học) Pectin
+
+@pectinate /'pektinit/ (pectinated) /'pektineitid/
+*  tính từ
+- (động vật học) hình lược
+- có tấm lược
+
+@pectinated /'pektinit/ (pectinated) /'pektineitid/
+*  tính từ
+- (động vật học) hình lược
+- có tấm lược
+
+@pectines /'pettən/
+*  danh từ,  số nhiều pectines  /'pektini:z/
+- (động vật học) tấm lược
+
+@pectoral /'pektərəl/
+*  danh từ
+- tấm che ngực (để trang sức, thường của các thầy tu Do-thái)
+- (động vật học) vây ngực; cơ ngực
+*  tính từ
+- (thuộc) ngực, ở ngực
+- để chữa bệnh đau ngực
+- đeo ở ngực, mặc ở ngực
+
+@pectose /'pektous/
+*  danh từ
+- (hoá học) Pectoza
+
+@peculate /'pekjuleit/
+*  động từ
+- thụt két, biển thủ, tham ô
+
+@peculation /,pekju'leiʃn/
+*  danh từ
+- sự thụt két, sự biển thủ, sự tham ô
+
+@peculator /'pekjuleitə/
+*  danh từ
+- kẻ thụt két, kẻ biển thủ, kẻ tham ô
+
+@peculiar /pi'kju:ljə/
+*  tính từ
+- riêng, riêng biệt; đặc biệt
+- kỳ dị, khác thường
+*  danh từ
+- tài sản riêng; đặc quyền riêng
+- (tôn giáo) giáo khu độc lập
+
+@peculiarity /pi,kju:li'æriti/
+*  danh từ
+- tính chất riêng, tính riêng biệt, tính đặc biệt
+- tính kỳ dị, tính khác thường
+- cái kỳ dị, cái khác thường; cái riêng biệt
+
+@pecuniary /pi'kju:njəri/
+*  tính từ
+- (thuộc) tiền tài
+=pecuniary aid+ sự giúp đỡ về tiền tài
+=pecuniary difficulties+ khó khăn về tiền
+- (pháp lý) phải nộp tiền (phạt)
+=pecuniary penaltry+ sự phạt tiền
+
+@pedagogic /,pedə'gɔdik/ (pedagogical) /,pedə'gɔdikəl/
+*  tính từ
+- sư phạm
+
+@pedagogical /,pedə'gɔdik/ (pedagogical) /,pedə'gɔdikəl/
+*  tính từ
+- sư phạm
+
+@pedagogics /,pedə'gɔdʤiks/ (pedagogy) / 'pedəgɔgi/
+*  danh từ,  số nhiều dùng như số ít
+- khoa sư phạm, giáo dục học
+
+@pedagogue /'pedəgɔg/
+*  danh từ
+- nhà sư phạm
+- (thường),  (nghĩa xấu) nhà mô phạm
+
+@pedagogy /,pedə'gɔdʤiks/ (pedagogy) / 'pedəgɔgi/
+*  danh từ,  số nhiều dùng như số ít
+- khoa sư phạm, giáo dục học
+
+@pedal /'pedl/
+*  danh từ
+- bàn đạp (xe đạp, đàn pianô)
+- (âm nhạc) âm nền
+*  động từ
+- đạp bàn đạp
+- đạp xe đạp; đạp (xe đạp)
+*  tính từ
+- (động vật học) (thuộc) chân
+
+@pedant /'dedənt/
+*  danh từ
+- người thông thái rởm
+- người ra vẻ mô phạm
+
+@pedantic /pi'dæntik/
+*  tính từ
+- thông thái rởm
+- làm ra vẻ mô phạm
+
+@pedantize /'pedəntaiz/
+*  ngoại động từ
+- làm thành thông thái rởm
+- làm thành vẻ mô phạm
+*  nội động từ
+- ra vẻ thông thái rởm
+- ra vẻ mô phạm
+
+@pedantry /'pedəntri/
+*  danh từ
+- vẻ thông thái rởm
+- vẻ mô phạm
+
+@pedate /'pedit/
+*  tính từ
+- (động vật học) có chân
+- (thực vật học) chia hình chân vịt (lá)
+
+@peddle /'pedl/
+*  động từ
+- bán rong, báo rao
+- bán lẻ nhỏ giọt
+- lần mần, bận tâm về những cái lặt vặt
+- (nghĩa bóng) kháo chuyện, ngồi lê đôi mách
+
+@peddler /'pedlə/ (peddler) /'pedlə/
+*  danh từ
+- người bán rong
+- (nghĩa bóng) người hay kháo chuyện, người hay ngồi lê đôi mách
+!pedlar's French
+- tiếng lóng kẻ cắp
+
+@peddling /'pedliɳ/
+*  danh từ
+- nghề bán rong, nghề bán rao
+*  tính từ
+- nhỏ nhặt, lặt vặt
+
+@pederasty /'pi:dəræsti/ (pederasty) /'pædəræsti/
+*  danh từ
+- thói đồng dâm nam
+
+@pedestal /'pedistl/
+*  danh từ
+- bệ, đôn
+*  ngoại động từ
+- đặt lên bệ, đặt lên đôn
+
+@pedestrian /pi'destriən/
+*  tính từ
+- bằng chân, bộ
+- (thuộc) đi bộ
+- nôm na, tẻ ngắt, chán ngắt, không lý thú gì
+*  danh từ
+- người đi bộ, khách bộ hành
+- (thể dục,thể thao) vận động viên (môn) đi bộ
+
+@pedestrician
+
+@pediatrics /,pi:di'ætriks/ (pediatrics) /,pi:di'ætriks/
+*  danh từ,  số nhiều (dùng như số ít)
+- (y học) khoa trẻ em
+
+@pediatrist /,pi:diə'triʃn/ (paediatrist) /,pi:di'ætrist/ (pedestrician) /pi'destriən/
+*  danh từ
+- bác sĩ khoa trẻ em
+
+@pedicab /'pedikæb/
+*  danh từ
+- xe xích lô
+
+@pedicel /'pedisəl/ (pedicle) /'pedikl/
+*  danh từ
+- (thực vật học) cuống nhỏ
+
+@pedicellate /'pedisəleit/ (pediculate) /pi'dikjulit/
+*  tính từ
+- (thực vật học) có cuống nhỏ, có cuống
+
+@pedicle /'pedisəl/ (pedicle) /'pedikl/
+*  danh từ
+- (thực vật học) cuống nhỏ
+
+@pedicular /pi'dikjulə/ (pediculous) /pi'dikjuləs/
+*  tính từ
+- có nhiều chấy rận
+- do chấy rận
+
+@pediculate /'pedisəleit/ (pediculate) /pi'dikjulit/
+*  tính từ
+- (thực vật học) có cuống nhỏ, có cuống
+
+@pediculicide /pi'dikjulisaid/
+*  tính từ
+- diệt chấy rận
+*  danh từ
+- thuốc diệt chấy rận
+
+@pediculosis /pi,dikju'lousis/
+*  danh từ
+- (y học) bệnh chấy rận
+
+@pediculous /pi'dikjulə/ (pediculous) /pi'dikjuləs/
+*  tính từ
+- có nhiều chấy rận
+- do chấy rận
+
+@pedicure /'pedikjuə/
+*  danh từ
+- (như) chiropody
+- (như) chiropodist
+
+@pedigree /'pedigri:/
+*  danh từ
+- phả hệ
+- nòi, dòng dõi, huyết thống
+- (ngôn ngữ học) gốc (của từ), từ nguyên
+- (định ngữ) nòi
+=a pedigree horse+ ngựa nòi
+
+@pedigreed /'pedigri:d/
+*  tính từ
+- nòi, thuộc nòi tốt
+
+@pediment /'pedimənt/
+*  danh từ
+- (kiến trúc) trán tường
+
+@pedlar /'pedlə/ (peddler) /'pedlə/
+*  danh từ
+- người bán rong
+- (nghĩa bóng) người hay kháo chuyện, người hay ngồi lê đôi mách
+!pedlar's French
+- tiếng lóng kẻ cắp
+
+@pedlary /'pedləri/
+*  danh từ
+- nghề bán rong
+- hàng bán rong
+
+@pedologist /pi'dɔlədʤist/
+*  danh từ
+- nhà thổ nhưỡng học
+
+@pedology /pi'dɔlədʤi/
+*  danh từ
+- (như) paedology
+- thổ nhưỡng học
+
+@pedometer /pi'dɔmitə/
+*  danh từ
+- cái đo bước
+
+@peduncle /pi'dʌɳkl/
+*  danh từ
+- (thực vật học) cuống (hoa, quả)
+
+@peduncular /pi'dʌɳkjulə/ (pedunculate) /pi'dʌɳkjulit/
+*  tính từ
+- (thực vật học) có cuống
+
+@pedunculate /pi'dʌɳkjulə/ (pedunculate) /pi'dʌɳkjulit/
+*  tính từ
+- (thực vật học) có cuống
+
+@pee /pi:/
+*  danh từ
+- (thông tục) sự đi đái, sự đi giải, sự đi tiểu
+*  nội động từ
+- (thông tục) đi đái, đi giải, đi tiểu
+
+@peek /pi:k/
+*  nội động từ
+- hé nhìn, lé nhìn
+
+@peek-a-boo /'pi:kə'bu:/
+*  danh từ
+- (từ Mỹ,nghĩa Mỹ) trò chơi ú tim oà
+
+@peel /pi:l/
+*  danh từ
+- (sử học) tháp vuông (ở Ê-cốt)
+- xẻng (để xúc bánh vào lò)
+*  danh từ ((cũng) peal)
+- cá đù
+- (Ai-len) cá hồi con
+*  danh từ
+- vỏ (quả)
+=candied peel+ mứt vỏ quả chanh
+*  ngoại động từ
+- bóc vỏ, gọt vỏ; lột (da...)
+- (từ cổ,nghĩa cổ) cướp bóc
+*  nội động từ
+- tróc vỏ, tróc từng mảng
+- (từ lóng) cởi quần áo ngoài (để tập thể dục...)
+
+@peeler /'pi:lə/
+*  danh từ
+- người bóc vỏ, người lột da
+- dụng cụ bóc vỏ, dụng cụ lột da
+*  danh từ
+- (từ lóng) cảnh sát, cớm
+
+@peeling /'pi:liɳ/
+*  danh từ
+- vỏ bóc ra, vỏ gọt ra
+=potato peelings+ vỏ khoai gọt ra
+
+@peen /pi:n/
+*  danh từ
+- đầu mũi búa
+
+@peep /pi:p/
+*  danh từ
+- tiếng kêu chít chít, tiếng kêu chim chiếp (chuột, chim...)
+*  nội động từ
+- kêu chít chít, kêu chim chiếp (chuột, chim...)
+*  danh từ
+- cái nhìn hé (qua khe cửa...)
+- cái nhìn trộm
+- sự hé rạng, sự hé ra, sự ló ra, sự hé lộ ra
+=at the peep of day+ lúc bình minh hé rạng
+*  nội động từ
+- (+ at,  into...) hé nhìn (qua khe cửa...)
+- (+ at) nhìn trộm, hé nhìn
+- ((thường) + out) hé rạng, ló ra (bình minh); hé nở (hoa)
+- (nghĩa bóng) vô tình hé lộ ra (đức tính...)
+
+@peep-hole /'pi:phoul/
+*  danh từ
+- lỗ nhỏ ở cửa (để nhìn qua)
+
+@peep-show /'pi:pʃou/
+*  danh từ
+- trò xem ảnh qua lỗ nhòm (có kính phóng to)
+
+@peep-sight /'pi:psait/
+*  danh từ
+- khe ngắm (của một vài loại súng)
+
+@peeper /'pi:pə/
+*  danh từ
+- người nhìn hé (qua khe cửa...)
+- người nhìn trộm, người tò mò
+- (từ lóng) con mắt
+
+@peeping tom /'pi:piɳ'tɔm/
+*  danh từ
+- anh chàng tò mò tọc mạch (thích nhìn qua lỗ khoá)
+
+@peepul /'pi:pəl/ (peepul) /'pi:pəl/
+*  danh từ
+- (thực vật học) cây đa
+
+@peer /piə/
+*  danh từ
+- người cùng địa vị xã hội, người ngang hàng, người tương đương
+=you will not easily his peers+ anh khó mà tìm được người như anh ấy
+- khanh tướng (Anh), người quý tộc; huân tước
+- thượng nghị sĩ (Anh)
+=House of Peers+ thượng nghị viện Anh
+*  ngoại động từ
+- bằng (ai), ngang hàng với (ai)
+- phong chức khanh tướng cho (ai)
+*  nội động từ
+- (+ with) ngang hàng (với ai)
+*  nội động từ
+- ((thường) + at,  into,  through...) nhìn chăm chú, nhìn kỹ, nhòm, ngó
+- hé ra, nhú ra, ló ra (mặt trời, hoa...)
+
+@peerage /'piəridʤ/
+*  danh từ
+- các khanh tướng
+- hàng quý tộc, hàng khanh tướng
+=to be raised to the peerage+ được phong khanh tướng
+- danh sách các khanh tướng
+
+@peeress /'piəris/
+*  danh từ
+- vợ khanh tướng
+- nữ khanh tướng
+- người đàn bà quý tộc
+
+@peerless /'piəlis/
+*  tính từ
+- có một không hai, vô song
+=peerless courage+ lòng can đảm vô song
+=peerless beauty+ sắc đẹp có một không hai, sắc đẹp tuyệt trần
+
+@peerlessness /'piəlisnis/
+*  danh từ
+- tính có một không hai, tính vô song
+
+@peeved /pi:vd/
+*  tính từ
+- (từ lóng) cáu kỉnh, phát cáu, càu nhàu, dằn dỗi
+
+@peevish /'pi:viʃ/
+*  tính từ
+- cáu kỉnh, hay cáu, hay càu nhàu, hay dằn dỗi
+=a peevish disposition+ tính cáu kỉnh
+
+@peevishness /'pi:viʃnis/
+*  danh từ
+- tính cáu kỉnh tính hay cáu, tính hay càu nhàu, tính hay dằn dỗi
+
+@peewit /'pi:wit/ (peewit) /'pi:wit/
+*  danh từ
+- (động vật học) chim te te
+- tiếng hót của chim te te
+- (động vật học) mòng biển đầu đen ((cũng) pewit gull)
+
+@peg /peg/
+*  danh từ
+- cái chốt, cái ngạc
+- cái móc, cái mắc (áo, mũ)
+- cái cọc (căng dây lều)
+- miếng gỗ chèn (lỗ thùng...)
+- núm vặn, dây đàn
+- cái kẹp phơi quần áo ((cũng) clothes peg)
+- rượu cônhắc pha xô-đa
+- (nghĩa bóng) cớ, lý do, cơ hội; đề tài
+=a peg to hang on+ cớ để vin vào, cơ hội để bám vào; đề tài để xoáy vào
+!a square peg in a round hole
+!a round peg in a square hole
+- (xem) hole
+!to put someone on the peg
+- (quân sự),  (từ lóng) đưa ai ra ban chỉ huy vì một lỗi gì
+!to take someone down a peg or two
+- làm nhục ai; làm cho ai hết vênh váo, làm cho ai co vòi lại
+*  ngoại động từ
+- đóng chốt, đóng cọc (để giữ chặt)
+- (+ down) ghìm chặt, hạn chế, câu thúc, kiềm chế
+=to peg someone down to rules+ câu thúc ai theo đúng luật lệ, ghìm ai theo đúng luật lệ
+=to peg someone down to his work+ ghim chặt ai vào công việc
+- ghìm không cho lên xuống (giá hối đoái)
+- ổn định (giá cả...)
+- (từ lóng) ném (đá...)
+- ghi (điểm số) bằng chốt (chơi kipbi)
+- (từ Mỹ,nghĩa Mỹ) vạch mặt chỉ tên là
+=to peg somebody as a scoundred+ vạch mặt chỉ tên ai là một thằng vô lại
+*  nội động từ (+ at)
+- cầm chốt đánh vào, cầm cọc đánh vào; cầm chốt nhắm vào, cầm cọc nhắm vào; đâm thủng bằng chốt, đam thủng bằng cọc
+- ném đá vào
+!to peg away at
+- kiên trì làm, bền bỉ làm (việc gì)
+!to peg out
+- đánh dấu ranh giới bằng cọc
+- chạm bóng vào cọc kết thúc cuộc đấu (critkê)
+- (từ lóng) chết ngoẻo, phăng teo; sạt nghiệp
+
+@peg-top /'pegtɔp/
+*  danh từ
+- con quay
+!peg-top trousers
+- quần bóp ống (quần thể thao rộng ở mông, ống càng xuống càng bóp hẹp lại)
+
+@pegasus /'pegəsəs/
+*  danh từ
+- ngựa pêgat, thi mã
+- thi hứng
+
+@pegmatite /'pegmətait/
+*  danh từ
+- (khoáng chất) Pecmatit
+
+@peignoir /'peinwɑ:/
+*  danh từ
+- áo choàng tắm của đàn bà
+
+@pejorative /'pi:dʤərətiv/
+*  tính từ
+- có nghĩa xấu (từ)
+*  danh từ
+- từ có nghĩa xấu
+
+@pekan /'pekən/
+*  danh từ
+- (sinh vật học) chồn mactet (Bắc-Mỹ)
+
+@peke /pi:k/
+*  danh từ
+- chó Bắc kinh
+
+@pekin /pi:'kin/
+*  danh từ
+- lụa Bắc kinh
+- người dân thường (đối lại với quân đội)
+
+@pekinese /,pi:ki'ni:z/ (Pekingese) /pi:kiɳ'i:z/
+*  tính từ
+- (thuộc) Bắc kinh
+*  danh từ
+- người Bắc kinh
+- chó Bắc kinh
+
+@peking duck /pi:'kiɳ,dʌk/
+*  danh từ
+- vịt Bắc kinh
+
+@pekingese /,pi:ki'ni:z/ (Pekingese) /pi:kiɳ'i:z/
+*  tính từ
+- (thuộc) Bắc kinh
+*  danh từ
+- người Bắc kinh
+- chó Bắc kinh
+
+@pekingman /'pi:kiɳmən/
+*  danh từ
+- người Bắc kinh (hoá thạch)
+
+@pekoe /'pi:kou/
+*  danh từ
+- chè bạch tuyết (Trung quốc)
+
+@pelage /'pelidʤ/
+*  danh từ
+- bộ da lông, bộ lông thú
+
+@pelagian /pi'leidʤiən/
+*  tính từ
+- ở biển khơi
+*  danh từ
+- động vật biển khơi; thực vật biển khơi
+
+@pelagic /pe'lædʤik/
+*  tính từ
+- ở biển khơi; làm ngoài biển khơi
+=pelagic fish+ cá ở biển khơi
+=pelagic whaling+ việc đánh cá voi ở ngoài biển khơi
+
+@pelargonium /,pelə'gounjəm/
+*  danh từ
+- (thực vật học) cây quỳ thiên trúc
+
+@pelerine /'peləri:n/
+*  danh từ
+- áo choàng (đàn bà)
+
+@pelf /pelf/
+*  danh từ
+- luội(đùa cợt) tiền, của
+
+@pelican /'pelikən/
+*  danh từ
+- (động vật học) con bồ nông
+
+@pelisse /pe'li:s/
+*  danh từ
+- áo choàng bằng lông (của đàn bà)
+- áo có viền lông (của sĩ quan kỵ binh)
+
+@pell-mell /'pel'mel/
+*  tính từ & phó từ
+- hỗn loạn, tán loạn; hỗn độn, lộn xộn, ngổn ngang bừa bãi
+*  danh từ
+- cảnh hỗn loạn, tình trạng hỗn loạn; cảnh hỗn độn, cảnh lộn xộn, tình trạng hỗn độn, tình trạng lộn xộn, tình trạng ngổn ngang bừa bãi
+
+@pellagra /pi'lægrə/
+*  danh từ
+- (y học) bệnh penlagrơ
+
+@pellet /'pelit/
+*  danh từ
+- viên vê nhỏ (bằng giấy, ruột bánh mì, đất...)
+- đạn bắn chim, đạn súng hơi
+- viên thuốc tròn
+- cục tròn nổi (ở đồng tiền...)
+*  ngoại động từ
+- bắn bằng viên (giấy, ruột bánh mì, đất...) vê tròn; bắn đạn nhỏ
+
+@pellicle /'pelikl/
+*  danh từ
+- lớp da mỏng, mảng da mỏng
+- phim (ảnh)
+
+@pellicular /pi'likjulə/
+*  tính từ
+- (thuộc) lớp da mỏng, (thuộc) màng mỏng; có da mỏng, có màng mỏng
+- (thuộc) phim (ảnh); có phim
+
+@pellitory /'peliteri/
+*  danh từ
+- (thực vật học) cây chữ ma
+
+@pellucid /pe'lju:sid/
+*  tính từ
+- trong, trong suốt, trong veo
+=a pellucid stream+ một dòng nước trong veo
+- trong sáng, rõ ràng
+=pellucid style+ văn rõ ràng
+- sáng suốt
+=pellucid spirit+ tinh thần sáng suốt
+
+@pellucidity /,pelju:'siditi/
+*  danh từ
+- tính trong, tính trong suốt
+- tính trong sáng, tính rõ ràng (văn)
+- tính sáng suốt (trí óc)
+
+@pelmanism /'pelmənizm/
+*  danh từ
+- phương pháp Penman (nhằm huấn luyện trí nhớ)
+
+@pelt /pelt/
+*  danh từ
+- tấm da con lông
+- tấm da sống
+*  danh từ
+- sự ném loạn xạ, sự bắn loạn xạ
+- sự trút xuống, sự đập xuống, sự đập mạnh (mưa)
+!as full pelt
+- vắt chân lên cổ mà chạy; chạy hết tốc lực
+*  ngoại động từ
+- ném loạn xạ vào, ném túi bụi vào, ném như mưa vào; bắn loạn xạ vào, bắn như mưa vào
+=to pelt someone with stones+ ném đá như mưa vào ai
+*  nội động từ
+- (+ at) bắn loạn xạ vào
+=to pelt at someone+ bắn loạn xạ vào ai
+- trút xuống, đập mạnh (mưa)
+=rain is pelting down+ mưa trút xuống như thác
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) vắt chân lên cổ mà chạy; chạy hết tốc lực; vội vã hối hả
+
+@pelta /'peltə/
+*  danh từ,  số nhiều peltae  /'pelti:/
+- cái mộc nhỏ, cái khiên nhỏ
+- (thực vật học) khiên
+
+@peltae /'peltə/
+*  danh từ,  số nhiều peltae  /'pelti:/
+- cái mộc nhỏ, cái khiên nhỏ
+- (thực vật học) khiên
+
+@peltate /'pelti:/
+*  tính từ
+- (thực vật học) hình khiên
+
+@pelting /'peltiɳ/
+*  tính từ
+- trút xuống, đập mạnh rào rào (mưa)
+=pelting rain+ mưa như trút
+
+@peltry /'peltri/
+*  danh từ
+- các loại da còn lông
+- các loại da còn sống
+
+@pelves /'pelvis/
+*  danh từ,  số nhiều pelves  /'pelvi:z/
+- (giải phẫu) chậu, khung chậu
+
+@pelvic /'pelvik/
+*  tính từ
+- (giải phẫu) (thuộc) chậu, (thuộc) khung chậu
+
+@pelvis /'pelvis/
+*  danh từ,  số nhiều pelves  /'pelvi:z/
+- (giải phẫu) chậu, khung chậu
+
+@pembroke /'pembruk/ (pembroke_table) /'pembruk'teibl/
+*  danh từ
+- bàn gấp
+
+@pembroke table /'pembruk/ (pembroke_table) /'pembruk'teibl/
+*  danh từ
+- bàn gấp
+
+@pemmican /'pemikən/
+*  danh từ
+- ruốc
+- (nghĩa bóng) chuyện súc tích
+
+@pemphigus /'pemfigəs/
+*  danh từ
+- (y học) bệnh pemfigut
+
+@pen /pen/
+*  danh từ
+- bút lông chim (ngỗng)
+- bút, ngòi bút
+- (nghĩa bóng) nghề cầm bút, nghề viết văn; bút pháp, văn phong
+=to live by one's pen+ sống bằng nghề cầm bút, sống bằng nghề viết văn
+- nhà văn, tác giả
+=the best pens of the day+ những nhà văn ưu tú nhất hiện nay
+*  ngoại động từ
+- viết, sáng tác
+*  danh từ
+- chỗ quây, bâi rào kín (để nhốt trâu, bò, cừu, gà, vịt...)
+- trại đồn điền (ở quần đảo Ăng-ti)
+- (từ Mỹ,nghĩa Mỹ),  (viết tắt) của penitentiary
+!a submarine pen
+- (hàng hải) bến tàu ngầm ((thường) có mái che)
+*  ngoại động từ
+- ((thường) + up,  in) nhốt lại; nhốt (trâu, bò, cừu, gà, vịt) vào chỗ quây
+*  danh từ
+- con thiên nga cái
+
+@pen and ink /'penənd'iɳk/
+*  danh từ
+- các thứ để viết, bút nghiên
+- công việc viết văn, công việc sáng tác văn học
+
+@pen friend /'penfrend/
+*  danh từ
+- bạn trao đổi thư từ
+
+@pen-and-ink /'penənd'iɳk/
+*  tính từ
+- vẽ bằng bút mực, viết bằng bút mực
+=a pen-and-ink drawing+ bức tranh vẽ bằng bút mực
+
+@pen-driver /'pen,draivə/
+*  danh từ
+- duộm khầm thư ký văn phòng
+- nhà văn tồi
+
+@pen-feather /'pen,feðə/
+*  danh từ
+- lông cứng (ngỗng... để làm ngòi bút)
+
+@pen-name /'penneim/
+*  danh từ
+- bút danh, tên hiệu
+
+@penal /'pi:nl/
+*  tính từ
+- (thuộc) hình phạt; (thuộc) hình sự
+=penal laws+ luật hình
+- có thể bị hình phạt
+=penal offence+ tội hình sự, tội có thể bị hình phạt
+- coi như hình phạt, dùng làm nơi hình phạt
+=penal servitude for life+ tội khổ sai chung thân
+
+@penalise /'pi:nəlaiz/ (penalize) /'pi:nəlaiz/
+*  ngoại động từ
+- trừng trị, trừng phạt
+=to penalise an offence+ trừng trị một tội
+=to penalise someone+ trừng phạt ai
+- (thể dục,thể thao) phạt (cầu thủ đá trái phép...)
+
+@penalize /'pi:nəlaiz/ (penalize) /'pi:nəlaiz/
+*  ngoại động từ
+- trừng trị, trừng phạt
+=to penalise an offence+ trừng trị một tội
+=to penalise someone+ trừng phạt ai
+- (thể dục,thể thao) phạt (cầu thủ đá trái phép...)
+
+@penalty /'penlti/
+*  danh từ
+- hình phạt, tiền phạt
+=dealth penalty+ án tử hình
+- (thể dục,thể thao) quả phạt đền (bóng đá)
+- (định ngữ),  (thể dục,thể thao) phạt đền
+=penalty kick+ cú đá phạt đền
+=penalty area+ vòng cấm địa, vòng phạt đền
+!to pay the penalty of
+- gánh lấy hậu quả tai hại của, chịu mọi thiệt thòi về
+
+@penance /'penəns/
+*  danh từ
+- sự ăn năn, sự hối lỗi
+=to do penance for one's sins+ ăn năn hối lỗi
+- sự tự hành xác để hối lỗi
+*  ngoại động từ
+- làm cho (ai) phải ăn năn
+- buộc (ai) phải tự hành xác để hối lỗi
+
+@penates /pe'neiti:z/
+*  danh từ số nhiều
+- các gia thần (thần thoại La mã); Táo quân và Thổ công
+
+@pence /'peni/
+*  danh từ,  số nhiều pence chỉ giá trị,  pennies chỉ số đồng tiền
+- đồng xu penni (1 qoành 2 silinh)
+=it costs ten pence+ cái đó giá 10 xu
+=he gave me my change in pennies+ anh ấy trả lại tiền tôi bằng xu lẻ
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) đồng xu (1 qoành 00 đô la)
+- (nghĩa bóng) số tiền
+=a pretty penny+ một số tiền kha khá
+!in for a penny, in for a pound
+- việc đã làm thì phải làm đến nơi đến chốn
+!a penny for your thoughts?
+- anh đang nghĩ gì mà mê mải thế?
+!a penny blood (dreadful)
+- tiểu thuyết rùng rợn
+!a penny plain and twopence coloured
+- một áo trắng đụp hai màu (chế những người ăn mặc loè loẹt...)
+!a penny saved is penny gainef
+- tiết kiệm đồng nào hay đồng ấy
+!to look twice at every penny
+- chú ý từng xu
+!take care of the pence and the pounds will take care of themselves
+- nhịn trầu mua trâu
+!to turn an honest penny
+- làm ăn lương thiện
+
+@penchant /'pỴ:ɳʃỴ:ɳ/
+*  danh từ
+- thiên hướng
+
+@pencil /'pensl/
+*  danh từ
+- bút chì
+- vật hình bút chì
+- (vật lý); (toán học) hình chùm nhọn, chùm
+=pencil of planes+ chùm mặt phẳng
+=pencil of straight lines+ chùm đường thẳng
+- (nghĩa bóng) lối vẽ, nét bút (của một hoạ sĩ)
+- (từ cổ,nghĩa cổ) bút vẽ
+*  ngoại động từ
+- viết bằng bút chì, vẽ bằng bút chì, kẻ bằng bút chì, tô bằng bút chì, ghi bằng bút chì
+- ghi (tên ngựa đua) vào sổ đánh cá
+- (thường),  dạng bị động đánh bóng nhẹ bằng những đường vòng tròn đồng tâm hoặc song song)
+
+@pencil sharpener /'pensl,ʃɑ:pənə/
+*  danh từ
+- cái gọt bút chì
+
+@pencil-box /'penslbɔks/
+*  danh từ
+- hộp đựng bút chì
+
+@pencil-case /'penslkeis/
+*  danh từ
+- cán cầm bút chì, bút chì máy
+
+@penciler /'penslə/ (penciller) /'penslə/
+*  danh từ
+- (từ lóng) tay đánh cá ngựa chuyên nghiệp (chuyên nhận tiền của người khác để đánh thuê)
+- người giúp việc cho tay đánh cá ngựa chuyên nghiệp
+
+@penciller /'penslə/ (penciller) /'penslə/
+*  danh từ
+- (từ lóng) tay đánh cá ngựa chuyên nghiệp (chuyên nhận tiền của người khác để đánh thuê)
+- người giúp việc cho tay đánh cá ngựa chuyên nghiệp
+
+@pendant /'pendənt/
+*  danh từ
+- tua tòn ten (của dây chuyền, vòng, xuyến, đèn treo)
+- hoa tai
+- (hàng hải) dây móc thòng lọng (treo trên cột buồm) ((cũng) pennant)
+- (hàng hải) có đuôi nheo
+- vật giống, vật đối xứng
+=to be a pendant to...+ là vật đối xứng của...
+
+@pendency /'pendənsi/
+*  danh từ
+- tình trạng chưa quyết định, tình trạng chưa giải quyết, tình trạng còn để treo đó; (pháp lý) tình trạng chưa xử
+
+@pendent /'pendənsi/
+*  tính từ
+- lòng thòng; lủng lẳng
+- chưa quyết định, chưa giải quyết, còn để treo đó; (pháp lý) chưa xử
+- (ngôn ngữ học) không hoàn chỉnh
+
+@pending /'pendiɳ/
+*  tính từ
+- chưa quyết định, chưa giải quyết, còn để treo đó; (pháp lý) chưa xử
+=pending questions+ những vấn đề còn tồn tại chưa giải quyết
+=a pending case+ một vụ kiện chưa xử
+*  danh từ
+- trong lúc, trong quá trình, trong khoảng thời gian
+=pending the negotiations+ trong lúc đang thương lượng
+- cho đến lúc, trong khi chờ đợi
+=pending the completion of the agreement+ cho đến lúc ký kết bản hiệp định
+=pending my return+ trong khi chờ đợi tôi trở về
+
+@pendulate /'pendjuleit/
+*  nội động từ
+- đu đưa lúc lắc
+- do dự, lưỡng lự, không nhất quyết; dao động
+
+@pendulous /'pendjuləs/
+*  tính từ
+- lòng thòng, lủng lẳng (tổ chim, chùm hoa)
+- đu đưa lúc lắc
+
+@pendulum /'pendjuləm/
+*  danh từ
+- quả lắc, con lắc
+- vật đu đưa lúc lắc
+- người hay do dự dao động
+
+@peneal /'painiəl/
+*  tính từ
+- (giải phẫu) hình nón thông
+=peneal gland+ tuyến tùng
+
+@peneapple /'pain,æpl/
+*  danh từ
+- quả dứa
+- (quân sự),  (từ lóng) lựa đạn
+
+@penelope /pi'neləpi/
+*  danh từ
+- người vợ chung thuỷ
+
+@peneplain /'pi:niplein/
+*  danh từ
+- (địa lý,địa chất) bán bình nguyên
+
+@penes /'pi:nis/
+*  danh từ,  số nhiều penes  /'pi:ni:z/
+- (giải phẫu) dương vật
+
+@penetrability /,penitrə'biliti/
+*  danh từ
+- tính có thể thâm nhập được, tính có thể thấm qua
+- tính có thể xuyên qua
+- tính có thể hiểu thấu được
+
+@penetrable /'penitrəbl/
+*  tính từ
+- có thể vào được, có thể thâm nhập được, có thể thấm qua
+- có thể xuyên qua
+- có thể hiểu thấu được
+
+@penetralia /'peni'treiljə/
+*  danh từ số nhiều
+- thâm cung; chính điện (trong giáo đường)
+
+@penetrate /'penitreit/
+*  ngoại động từ
+- thâm nhập, lọt vào; nhìn xuyên qua
+- đâm thủng, xuyên qua; nhìn xuyên qua (màn đêm...)
+- làm thấm nhuần
+=to penetrate someone with an idea+ làm cho ai thấm nhuần một tư tưởng
+- (nghĩa bóng) nhìn thấu, thấu suốt, hiểu thấu
+=to penetrate someone's mind+ nhìn thấu được ý nghĩ của ai
+=to penetrate the truth+ hiểu thấu sự thật
+*  nội động từ
+- (+ into) thâm nhập, lọt vào
+- (+ to,  through) xuyên đến, xuyên qua
+- thấu vào, thấm vào
+
+@penetrating /'penitreitiɳ/
+*  tính từ
+- buốt thấu xương; thấm thía (gió rét...)
+- sắc sảo, thấu suốt, sâu sắc (cái nhìn...)
+- the thé (tiếng)
+
+@penetration /,peni'treiʃn/
+*  danh từ
+- sự thâm nhập, sự lọt vào, sự thấm qua
+- sự xuyên qua, sự xuyên vào
+- (quân sự) tầm xuyên qua (của đạn)
+- sự sắc sảo, sự thấu suốt, sự sâu sắc
+
+@penetrative /'penitrətiv/
+*  tính từ
+- thấm vào, thấm thía
+- sắc sảo, thấu suốt, sâu sắc
+- the thé (tiếng kêu...)
+
+@penguin /'peɳgwin/
+*  danh từ
+- (động vật học) chim cụt
+- chim lặn anca
+
+@penholder /'pen,houldə/
+*  danh từ
+- quản bút
+
+@penial /'pi:njəl/
+*  tính từ
+- (giải phẫu) (thuộc) dương vật
+
+@penicillin /,peni'silin/
+*  danh từ
+- Pênixilin
+
+@peninsula /pi'ninsjulə/
+*  danh từ
+- bán đảo
+
+@peninsular /pi'ninsjulə/
+*  tính từ
+- (thuộc) bán đảo; giống như một bán đảo; ở bán đảo
+*  danh từ
+- người ở bán đảo
+
+@peninsulate /pi'ninsjuleit/
+*  ngoại động từ
+- biến (một vùng đất đai) thành bán đảo
+
+@penis /'pi:nis/
+*  danh từ,  số nhiều penes  /'pi:ni:z/
+- (giải phẫu) dương vật
+
+@penitence /'penitəns/
+*  danh từ
+- sự ăn năn, sự hối lỗi; sự sám hối
+
+@penitent /'penitənt/
+*  tính từ
+- ăn năn, hối lỗi; sám hối
+*  danh từ
+- người ăn năn, người hối lỗi; người biết sám hối
+
+@penitential /,peni'tenʃəri/
+*  tính từ
+- ăn năn, hối lỗi; để sám hối
+=the penitential psalms+ kinh sám hối
+
+@penitentiary /,peni'tenʃəri/
+*  danh từ
+- trại cải tạo, trại cải tạo gái điếm
+- (từ Mỹ,nghĩa Mỹ) nhà lao
+*  tính từ
+- để cải tạo; (thuộc) cải tạo
+- khổ hạnh để sám hối
+
+@penknife /'pennaif/
+*  danh từ
+- dao nhíp
+
+@penman /'penmən/
+*  danh từ
+- người viết
+=a good penman+ người viết đẹp
+=a bad penman+ người viết xấu
+- nhà văn, tác giả
+
+@penmanship /'penmənʃip/
+*  danh từ
+- thuật viết, cách viết, lối viết
+- phong cách viết văn, văn phong
+
+@penn'orth /'penəθ/
+*  danh từ
+- (thông tục) (như) pennyworth
+
+@pennant /'penənt/
+*  danh từ
+- (hàng hải) dây móc thòng lọng (treo trên móc cột buồm) ((cũng) pendant)
+- (như) pennon
+
+@pennies /'peni/
+*  danh từ,  số nhiều pence chỉ giá trị,  pennies chỉ số đồng tiền
+- đồng xu penni (1 qoành 2 silinh)
+=it costs ten pence+ cái đó giá 10 xu
+=he gave me my change in pennies+ anh ấy trả lại tiền tôi bằng xu lẻ
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) đồng xu (1 qoành 00 đô la)
+- (nghĩa bóng) số tiền
+=a pretty penny+ một số tiền kha khá
+!in for a penny, in for a pound
+- việc đã làm thì phải làm đến nơi đến chốn
+!a penny for your thoughts?
+- anh đang nghĩ gì mà mê mải thế?
+!a penny blood (dreadful)
+- tiểu thuyết rùng rợn
+!a penny plain and twopence coloured
+- một áo trắng đụp hai màu (chế những người ăn mặc loè loẹt...)
+!a penny saved is penny gainef
+- tiết kiệm đồng nào hay đồng ấy
+!to look twice at every penny
+- chú ý từng xu
+!take care of the pence and the pounds will take care of themselves
+- nhịn trầu mua trâu
+!to turn an honest penny
+- làm ăn lương thiện
+
+@penniform /'penifɔ:m/
+*  tính từ
+- hình lông chim
+=a penniform leaf+ lá hình lông chim
+
+@penniless /'penilis/
+*  tính từ
+- không tiền, không một đồng xu dính túi, nghèo xơ xác
+
+@pennon /'penən/
+*  danh từ ((cũng) pennant)
+- cờ hiệu, cờ đoàn, cờ đội (hình đuôi nheo)
+- cờ đuôi nheo (trên tàu)
+- cờ trang trí
+
+@penny /'peni/
+*  danh từ,  số nhiều pence chỉ giá trị,  pennies chỉ số đồng tiền
+- đồng xu penni (1 qoành 2 silinh)
+=it costs ten pence+ cái đó giá 10 xu
+=he gave me my change in pennies+ anh ấy trả lại tiền tôi bằng xu lẻ
+- (từ Mỹ,nghĩa Mỹ),  (thông tục) đồng xu (1 qoành 00 đô la)
+- (nghĩa bóng) số tiền
+=a pretty penny+ một số tiền kha khá
+!in for a penny, in for a pound
+- việc đã làm thì phải làm đến nơi đến chốn
+!a penny for your thoughts?
+- anh đang nghĩ gì mà mê mải thế?
+!a penny blood (dreadful)
+- tiểu thuyết rùng rợn
+!a penny plain and twopence coloured
+- một áo trắng đụp hai màu (chế những người ăn mặc loè loẹt...)
+!a penny saved is penny gainef
+- tiết kiệm đồng nào hay đồng ấy
+!to look twice at every penny
+- chú ý từng xu
+!take care of the pence and the pounds will take care of themselves
+- nhịn trầu mua trâu
+!to turn an honest penny
+- làm ăn lương thiện
+
+@penny post /'peni'poust/
+*  danh từ
+- cước chở thư một xu (không kể xa gần)
+
+@penny wise /'peniwaiz/
+*  tính từ
+- khôn từng xu, đắn đo từng xu; khôn việc nhỏ
+=penny_wise and pound foolish+ khôn từng xu ngu bạc vạn; từng xu đắn đo việc to hoang phí
+
+@penny-a-line /'peniə'lain/
+*  tính từ
+- rẻ tiền, xoàng (tiểu thuyết)
+=a penny-a-line novel+ tiểu thuyết rẻ tiền, tiểu thuyết ba xu
+
+@penny-a-liner /'peniə'lainə/
+*  danh từ
+- văn sĩ rẻ tiền, văn sĩ ba xu
+
+@penny-in-the-slot /'peniinðə'slɔt/
+*  danh từ
+- máy bán hàng tự động ((cũng) penny-in-the-slot machine)
+
+@pennyroyal /'peni'rɔiəl/
+*  danh từ
+- (thực vật học) bạc hà hăng
+- (từ Mỹ,nghĩa Mỹ) cây hêđôm
+
+@pennyweight /'peniweit/
+*  danh từ
+- ((viết tắt) dwt) Penni (đơn vị trọng lượng giá 1 gam rưỡi)
+
+@pennywort /'peniwə:t/
+*  danh từ
+- (thực vật học) rau má mơ
+
+@pennyworth /'penəθ/
+*  danh từ ((thông tục) (như) penn'orth)
+- một xu (số lượng đáng giá một xu)
+=a pennyworth of bread+ (một) xu bánh mì, mẩu bánh mì đáng giá một xu
+- món (mua được)
+=a good pennyworth+ món hời, món bở, món đáng đồng tiền
+=a bad pennyworth+ món bở, món mua phí toi tiền
+!not a pennyworth
+- không một chút nào, không một tí nào
+
+@penology /pi:'nɔlədʤi/
+*  danh từ
+- khoa hình phạt
+
+@pensile /'pensil/
+*  danh từ
+- treo lủng lẳng, lòng thòng (tổ chim...)
+- xây tổ treo lủng lẳng (chim...)
+
+@pension /'penʃn/
+*  danh từ
+- lương hưu
+=to retire on a pension+ về hưu
+- tiền trợ cấp
+=old-age pension+ tiền trợ cấp dưỡng lão
+- nhà trọ cơm tháng
+=to live en pension at+ ăn ở trọ tại
+*  ngoại động từ
+- trả lương hưu
+- trợ cấp cho
+=to pension someone off+ sa thải ai có phát tiền trợ cấp; cho ai về hưu, cho ai về vườn
+
+@pensionable /'penʃənəbl/
+*  tính từ
+- được quyền hưởng lương hưu; có chế độ lương hưu
+- được quyền hưởng trợ cấp; có chế độ trợ cấp
+
+@pensionary /'penʃənəri/
+*  tính từ
+- (thuộc) lương hưu; được hưởng lương hưu
+- (thuộc) tiền trợ cấp; được hưởng trợ cấp
+*  danh từ
+- người hưởng lương hưu
+- người được hưởng trợ cấp
+- người làm thuê; tay sai
+
+@pensioner /'penʃənəri/
+*  danh từ
+- người được hưởng lương hưu
+- người được hưởng trợ cấp
+
+@pensive /'pensiv/
+*  tính từ
+- trầm ngâm, suy nghĩ
+- buồn
+
+@pensiveness /'pensivnis/
+*  danh từ
+- vẻ trầm ngâm, vẻ suy nghĩ
+- vẻ buồn
+
+@penstock /'penstɔk/
+*  danh từ
+- cửa cống
+- (kỹ thuật) đường ống chịu áp; ống dẫn nước có áp
+
+@pent /pent/
+*  tính từ
+- bị nhốt; bị giam chặt
+- bị nén xuống (tình cảm...)
+
+@pentachord /'pentəkɔ:?d/
+*  danh từ
+- (âm nhạc) đàn năm dây
+- chuỗi năm âm
+
+@pentad /'pentæd/
+*  danh từ
+- số năm
+- nhóm năm
+- thời gian năm ngày
+- (hoá học) nguyên tố hoá trị năm; gốc hoá trị năm
+
+@pentadactyl /,pentə'dæktil/
+*  danh từ
+- (động vật học) có chân năm ngón
+*  tính từ
+- (động vật học) động vật chân năm ngón
+
+@pentagon /'pentəgən/
+*  danh từ
+- hình năm cạnh
+- (từ Mỹ,nghĩa Mỹ) (the pentagon) lầu năm góc (Bộ quốc phòng Mỹ)
+
+@pentagonal /pen'tægənl/
+*  tính từ
+- có năm cạnh
+
+@pentagram /'pentəgræm/
+*  danh từ
+- sao năm cánh
+
+@pentagynous /pen'tædʤinəs/
+*  tính từ
+- (thực vật học) có năm nhuỵ (hoa)
+
+@pentahedral /,pentə'hi:drəl/
+*  tính từ
+- (toán học) có năm mặt
+
+@pentahedron /,pentə'hi:drən/
+*  danh từ
+- (toán học) khối năm mặt
+
+@pentahydrate /,pentə'haidreit/
+*  danh từ
+- (hoá học) Pentahuđrat
+
+@pentamerous /pn'tæmərəs/
+*  tính từ
+- có năm phần; chia làm năm
+- (thực vật học) mẫu năm (hoa)
+
+@pentameter /pen'tæmitə/
+*  danh từ
+- thơ năm âm tiết
+
+@pentandrous /pen'tændrəs/
+*  tính từ
+- (thực vật học) có năm nhị (hoa)
+
+@pentane /'pentein/
+*  danh từ
+- (hoá học) Pentan
+
+@pentangular /pen'tængju:lə/
+*  tính từ
+- năm góc, năm cạnh
+
+@pentapetalous /,pentə'petələs/
+*  tính từ
+- (thực vật học) có năm cánh (hoa)
+
+@pentasyllable /,pentə'siləbl/
+*  danh từ
+- từ năm âm tiết
+
+@pentateuch /'pentətju:k/
+*  danh từ
+- (tôn giáo) năm quyển đầu của kinh Cựu ước
+
+@pentathlon /pen'tæθlən/
+*  danh từ
+- (thể dục,thể thao) cuộc thi năm môn phối hợp
+
+@pentatomic /,pentə'tɔmik/
+*  tính từ
+- (hoá học) có năm nguyên tử
+
+@pentavalence /pen'tævələns/
+*  danh từ
+- (hoá học) hoá trị năm
+
+@pentavalent /pen'tævələnt/
+*  tính từ
+- (hoá học) hoá trị năm
+
+@pentecost /'pentikɔst/
+*  danh từ
+- (tôn giáo) lễ gặt (của người Do thái, 50 ngày sau ngày lễ Phục sinh)
+- lễ Hạ trần (của đạo Thiên chúa cũng 50 ngày sau ngày lễ Phục sinh)
+
+@penthouse /'penthaus/
+*  danh từ
+- lều một mái
+- nhà kho
+- mái nhà, chái
+- (từ Mỹ,nghĩa Mỹ) dãy phòng ở trên mái bằng
+
+@pentode /'pentoud/
+*  danh từ
+- (vật lý) Pentôt, ống năm cực
+
+@pentomic /pen'tɔmik/
+*  tính từ
+- (quân sự) tổ chức thành năm đơn vị hợp với chiến tranh nguyên tử (sư đoàn)
+
+@pentose /'pentous/
+*  danh từ
+- (hoá học) Pentoza
+
+@penult /pi'nʌlt/ (penultimate) /pi'nʌltimit/
+*  tính từ
+- (ngôn ngữ học) áp chót, giáp cuối
+*  danh từ
+- (ngôn ngữ học) âm áp chót, âm giáp cuối
+
+@penultimate /pi'nʌlt/ (penultimate) /pi'nʌltimit/
+*  tính từ
+- (ngôn ngữ học) áp chót, giáp cuối
+*  danh từ
+- (ngôn ngữ học) âm áp chót, âm giáp cuối
+
+@penumbra /pi'nʌmbrə/
+*  danh từ
+- vùng nửa tối
+
+@penurious /pi'njuəriəs/
+*  tính từ
+- thiếu thốn, túng thiếu
+- keo kiết, keo cú, bủn xỉn
+
+@penuriousness /pi'njuəriəsnis/
+*  danh từ
+- sự thiếu thốn, sự túng thiếu
+- sự keo kiết, sự keo cú, sự bủn xỉn
+
+@penury /'penjuri/
+*  danh từ
+- cảnh thiếu thốn, cảnh túng thiếu; cảnh cơ hàn
+- tình trạng khan hiếm
+
+@penwiper /'pen,waipə/
+*  danh từ
+- giẻ lau bút
+
+@peon /'pi:ən/
+*  danh từ
+- người liên lạc, cần vụ, người phục vụ (ở Ân-độ)
+- công nhân công nhật (ở châu Mỹ La-tinh)
+
+@peonage /'pi:ənidʤ/
+*  danh từ
+- việc mướn người liên lạc, việc mướn người phục vụ
+- việc mướn công nhân công nhật
+- việc làm của người liên lạc, việc làm của người phục vụ
+- việc làm của công nhân công nhật
+
+@peony /'piəni/ (paeony) /'piəni/
+*  danh từ
+- (thực vật học) cây mẫu đơn
+- hoa mẫu đơn
+
+@people /'pi:pl/
+*  danh từ
+- dân tộc
+=the peoples of Asia+ các dân tộc châu A
+- (dùng như số nhiều) nhân dân, dân chúng, quần chúng
+=the world people+ nhân dân thế giới
+=the common people+ lớp người bình dân
+=the people at large+ nhân dân nói chung
+- (dùng như số nhiều) người
+=there are many people there+ có nhiều người ở đó
+- (dùng như số nhiều) người ta, thiên hạ
+=people don't like to be kept waiting+ người ta không thích bị bắt phải chờ đợi
+=what will people say?+ người ta (thiên hạ) sẽ nói gì?
+- (dùng như số nhiều) gia đình, bà con, họ hàng
+=my people live in the country+ gia đình tôi ở nông thôn
+- những người tuỳ tùng, những người theo hầu, những người làm
+*  ngoại động từ
+- di dân
+=to people a country+ di dân đến một nước
+- ((thường) động tính từ quá khứ) ở, cư trú (người vật)
+=a thickly peopled country+ một nước đông dân
+
+@pep /pep/
+*  danh từ
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) tinh thần hăng hái, tinh thần dũng cảm, dũng khí
+!pep pill
+- thuốc kích thích làm cho hăng lên
+!pep talk
+- lời động viên, lời cổ vũ làm cho hăng hái lên
+*  ngoại động từ
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) làm cho hăng hái, cổ vũ, động viên
+
+@peperino /,pepə'ri:nou/
+*  danh từ
+- (khoáng chất) Peperino
+
+@pepper /'pepə'ri:nou/
+*  danh từ
+- hạt tiêu, hồ tiêu
+=white pepper+ hạt tiêu trắng
+=black pepper+ hạt tiêu đen
+=cayenne pepper+ ớt cayen
+- (nghĩa bóng) điều chua cay
+*  ngoại động từ
+- rắc tiêu vào, cho tiêu vào
+- rải lên, rắc lên, ném lên
+=to pepper something with sand+ rải cát lên vật gì
+- bắn như mưa vào
+=to peppern something with missiles+ bắn tên lửa như mưa vào cái gì
+- (nghĩa bóng) hỏi dồn
+=to pepper someone with questions+ hỏi dồn ai
+- trừng phạt nghiêm khắc
+
+@pepper-and-salt /'pepərənd'sɔ:lt/
+*  tính từ
+- có
+- hoa râm (tóc)
+*  danh từ
+- hàng len chấm đen trắng
+
+@pepper-caster /'pepə,kɑ:stə/ (pepper-caster) /'pepə,kɑ:stə/ (pepper-castor) /'pepə,kɑ:stə/
+-caster) /'pepə,kɑ:stə/ (pepper-castor) /'pepə,kɑ:stə/
+*  danh từ
+- lọ hạt tiêu ((cũng) pepper-pot)
+
+@pepper-castor /'pepə,kɑ:stə/ (pepper-caster) /'pepə,kɑ:stə/ (pepper-castor) /'pepə,kɑ:stə/
+-caster) /'pepə,kɑ:stə/ (pepper-castor) /'pepə,kɑ:stə/
+*  danh từ
+- lọ hạt tiêu ((cũng) pepper-pot)
+
+@pepper-pot /'pepəpɔt/
+*  danh từ
+- (như) pepperbox
+- món thịt nấu ớt (ở quần đảo Ăng-ti)
+- (từ lóng) người nóng tính, người nóng nảy
+
+@pepperbox /'pepə,kɑ:stə/ (pepper-caster) /'pepə,kɑ:stə/ (pepper-castor) /'pepə,kɑ:stə/
+-caster) /'pepə,kɑ:stə/ (pepper-castor) /'pepə,kɑ:stə/
+*  danh từ
+- lọ hạt tiêu ((cũng) pepper-pot)
+
+@peppercorn /'pepəkɔ:n/
+*  danh từ
+- hội viên
+!peppercorn rent
+- tổ danh nghĩa
+
+@peppermint /'pepəmint/
+*  danh từ
+- (thực vật học) cây bạc hà cay
+- dầu bạc hà cay
+- kẹo bạc hà
+
+@peppery /'pepəri/
+*  danh từ
+- (thuộc) hồ tiêu; như hồ tiêu
+- có nhiều tiêu; cay
+- nóng nảy, nóng tính
+=a peppery temper+ tính nóng nảy
+- châm biếm, chua cay
+=peppery speech+ lời nói châm biếm chua cay
+
+@peppy /'pepi/
+*  tính từ
+- (từ Mỹ,nghĩa Mỹ),  (từ lóng) đầy nghị lực, đầy dũng khí, hăng hái
+
+@pepsin /'pepsin/
+*  danh từ
+- (sinh vật học) Pepxin
+
+@peptic /'peptik/
+*  tính từ
+- (thuộc) tiêu hoá
+=peptic glands+ tuyến tiêu hoá
+- (thuộc) pepxin
+
+@peptics /'peptiks/
+*  danh từ số nhiều
+-(đùa cợt) cơ quan tiêu hoá
+
+@peptone /'peptoun/
+*  danh từ
+- Peptone
+
+@peptonize /'pe'tənaiz/
+*  động từ
+- Peptone hoá
+
+@per /pə:/
+*  danh từ
+- mỗi
+=per annum+ mỗi năm
+=per diem (day)+ mỗi ngày
+=per mensem (month)+ mỗi tháng
+=per caput (capita)+ mỗi đầu người
+=a shilling per man+ mỗi người một silinh
+- bởi, bằng, qua
+=per steamer+ bằng tàu thuỷ
+=per rail+ bằng xe lửa
+=per post+ qua bưu điện
+- do (ai làm, gửi...), theo
+=per Mr. Smith+ do ông Xmít gửi
+=per procurationem+ ((viết tắt) per proc; per pro; p.p) theo quyền được uỷ nhiệm; thừa lệnh
+=per se+ do bản thân nó, tự bản thân nó
+=settlement per contra+ sự giải quyết trái ngược lại
+=as per usual+ theo thường lệ, như thói quen
+
+@per cent /pə'sent/
+*  danh từ
+- phần trăm
+=three per_cent+ ba phần trăm
+
+@peradventure /pərəd'ventʃə/
+*  phó từ
+- (từ cổ,nghĩa cổ), (đùa cợt) có lẽ
+=peradventure he is mistaken+ có lẽ anh ta đã lầm
+!if peradventure
+- nếu có sao, nếu ngẫu nhiên, nếu tình cờ
+!lest peradventure
+- e rằng có sao, e rằng ngẫu nhiên, e rằng tình cờ
+*  danh từ
+- sự may rủi, sự không chắc chắn, sự không định ước trước được; sự hoài nghi; sự ức đoán
+=beyond (without) all peradventure+ không còn hoài nghi gì nữa
+
+@perambulate /pə'ræmbjuleit/
+*  ngoại động từ
+- đi dạo trong (vườn...), đi khắp (thành phố, nẻo đường...)
+- đi thanh tra (một vùng...)
+- đi vòng (một địa điểm) để qui định ranh giới
+*  nội động từ
+- đi dạo
+
+@perambulation /pə,ræmbju'leiʃn/
+*  danh từ
+- sự đi dạo
+- sự đi thanh tra (một vùng...)
+- sự đi vòng để qui định ranh giới
+
+@perambulator /'præmbjuleitə/
+*  danh từ
+- xe đẩy trẻ con
+
+@perborate /pə:'bɔ:reit/
+*  danh từ
+- (hoá học) Peborat
+
+@percale /pə:'keil/
+*  danh từ
+- vải peccan (một thứ vải mịn)
+
+@perceive /pə'si:v/
+*  ngoại động từ
+- hiểu, nhận thức, lĩnh hội
+=to perceive the point of an argument+ hiểu được điểm chính của một lý lẽ
+- thấy, trông thấy; nghe thấy, cảm thấy, ngửi thấy
+
+@percentage /pə'sentidʤ/
+*  danh từ
+- tỷ lệ phần trăm
+- tỷ lệ; phần
+=onlt a small percentage of his books are worth reading+ chỉ một tỉ lệ nhỏ (phần nhỏ) sách của anh ta là đáng đọc
+
+@percept /'pə:sept/
+*  danh từ
+- (triết học) đối tượng tri giác
+- kết quả của tri giác
+
+@perceptibility /pə,septə'biliti/
+*  danh từ
+- tính có thể nhận thức thấy, tính có thể cảm giác thấy
+
+@perceptible /pə'septəbl/
+*  tính từ
+- có thể nhận thức thấy, có thể cảm giác thấy
+
+@perception /pə'sepʃn/
+*  danh từ
+- sự nhận thức
+- (triết học) tri giác
+- (pháp lý) sự thu (thuế...)
+
+@perceptional /pə'sepʃənl/
+*  tính từ
+- (thuộc) nhận thức
+- (thuộc) tri giác
+
+@perceptive /pə'septiv/
+*  tính từ
+- nhận thức được, cảm thụ được
+- (thuộc) cảm giác; tác động đến cảm giác
+
+@perceptivity /,pə:səp'tiviti/
+*  danh từ
+- khả năng nhận thức, khả năng cảm thụ
+
+@perch /pə:tʃ/
+*  danh từ
+- (động vật học) cá pecca
+*  danh từ
+- sào để chim đậu, cành để chim đậu
+=bird taken its perch+ con chim đậu xuống
+- trục chuyển động giữa (xe bốn bánh)
+- con sào (đơn vị chiều dài bằng khoảng 5 mét)
+- (nghĩa bóng) địa vị cao, địa vị vững chắc
+!come off your perch
+- (xem) come
+!to hop the perch
+- chết
+!to knock someone off his perch
+- tiêu diệt ai, đánh gục ai
+*  ngoại động từ,  (thường) động tính từ quá khứ
+- xây dựng ở trên cao, đặt ở trên cao
+=a town perched on a hill+ một thành phố ở trên một ngọn đồi
+*  nội động từ
+- (+ upon) đậu trên (cành) (chim...); ngồi trên, ở trên (chỗ cao) (người)
+
+@perchance /pə'tʃɑ:ns/
+*  phó từ
+- (từ cổ,nghĩa cổ) có lẽ, có thể
+- tình cờ, ngẫu nhiên, may ra
+
+@perchloric /pə:'klɔ:rik/
+*  tính từ
+- (hoá học) Pecloric
+=perchloric acid+ axit pecloric
+
+@percipience /pə:'sipiəns/
+*  danh từ
+- sự nhận thức, sự cảm giác
+
+@percipient /pə:'sipiənt/
+*  tính từ
+- nhận thức được, cảm giác được, cảm thụ được
+*  danh từ
+- người nhận thức được, người cảm giác được, người cảm thụ được (chủ yếu là những điều ngoài tầm nhận thức của cảm giác bình thường)
+
+@percolate /'pə:kəleit/
+*  ngoại động từ
+- lọc, chiết ngâm, pha phin (cà phê...)
+*  nội động từ
+- lọc qua, thấm qua
+
+@percolation /,pə:kə'leiʃn/
+*  danh từ
+- sự lọc qua, sự thấm qua; sự chiết ngâm
+
+@percolator /'pə:kəleitə/
+*  danh từ
+- bình lọc, bình pha cà phê; máy chiết ngâm
+
+@percuss /pə:'kʌs/
+*  ngoại động từ
+- (y học) gõ vào (ngực, đầu gối để chẩn đoán bệnh)
+
+@percussion /pə:'kʌʃn/
+*  danh từ
+- sự đánh (trống, kẻng); sự gõ (mõ); sự chạm vào (của cò súng)
+- (y học) sự gõ (để chẩn đoán bệnh)
+
+@percussion cap /pə:'kʌʃnkæp/
+*  danh từ
+- kíp nổ, ngòi nổ
+
+@percussion instrument /pə:'kʌʃn'instrumənt/
+*  danh từ
+- (âm nhạc) nhạc khí gõ (trống, thanh la...)
+
+@percussive /pə:'kʌsiv/
+*  tính từ
+- đánh gõ; để đánh gõ
+
+@percutaneous /,pə:kju:'teinjəs/
+*  tính từ
+- (y học) dưới da (tiêm)
+
+@perdition /pə:'diʃn/
+*  danh từ
+- sự diệt vong, cái chết vĩnh viễn
+- kiếp trầm luân, kiếp đoạ đày (xuống địa ngục)
+
+@perdu /pə:'dju:/ (perdue) /pə:'dju:/
+*  tính từ
+- (quân sự) nấp kín đáo
+=to lie perdu+ nấp kín đáo
+
+@perdue /pə:'dju:/ (perdue) /pə:'dju:/
+*  tính từ
+- (quân sự) nấp kín đáo
+=to lie perdu+ nấp kín đáo
+
+@perdurability /pə,djuərə'biliti/
+*  danh từ
+- tính vĩnh viễn, tính vĩnh cửu; tính lâu đài
+- sự tồn tại mãi mãi
+
+@perdurable /pə'djuərəbl/
+*  tính từ
+- vĩnh viễn, vĩnh cửu; tồn tại mâi mâi; lâu đài
+
+@peregrin /'perigin/ (peregrine) /'perigin/
+*  tính từ
+- (từ cổ,nghĩa cổ) ngoại lai, nhập cảng
+
+@peregrinate /'perigrineit/
+*  nội động từ
+-(đùa cợt) đi du lịch, làm một cuộc hành trình
+
+@peregrination /,perigri'neiʃn/
+*  danh từ
+- cuộc du lịch, cuộc hành trình
+
+@peregrine /'perigin/ (peregrine) /'perigin/
+*  tính từ
+- (từ cổ,nghĩa cổ) ngoại lai, nhập cảng
+
+@peremptoriness /pə'remptərinis/
+*  danh từ
+- tính cưỡng bách
+- tính quả quyết, tính nhất quyết, tính kiên quyết, tính dứt khoát
+- tính tối cần thiết, tính thiết yếu
+- tính giáo điều; tính độc đoán, tính độc tài, tính võ đoán
+
+@peremptory /pə'remptəri/
+*  tính từ
+- cưỡng bách
+=peremptory writ+ trát đòi cưỡng bách
+- quả quyết, nhất quyết, kiên quyết, dứt khoát
+=peremptory command+ mệnh lệnh kiên quyết, mệnh lệnh dứt khoát
+=peremptory statement+ lời tuyên bố quả quyết
+- tối cần, thiết yếu
+=peremptory necessity+ điều tối cần thiết
+- giáo điều; độc đoán, độc tài, võ đoán (người)
+
+@perennial /pə'renjəl/
+*  tính từ
+- có quanh năm, kéo dài quanh năm; chảy quanh năm (dòng suối)
+- lưu niên, sống lâu năm
+=a perennial plant+ cây lâu năm
+- tồn tại mãi mãi, vĩnh viễn, bất diệt
+*  danh từ
+- (thực vật học) cây lưu niên, cây lâu năm
+
+@perenniality /pə,reni'æliti/
+*  danh từ
+- tinh lâu dài, tinh vĩnh viễn, tinh bất diệt
+- sự tồn tại mãi mãi
+
+@perfect /'pə:fikt/
+*  tính từ
+- hoàn hảo, hoàn toàn
+=a perfect stranger+ người hoàn toàn xa lạ
+=a perfect likeness+ sự giống hoàn toàn, sự giống hệt
+=perfect nonsense+ điều hoàn toàn vô lý
+=a perfect work of art+ một tác phẩm nghệ thuật hoàn hảo
+- thành thạo
+=to be perfect in one's service+ thành thạo trong công việc
+- (ngôn ngữ học) hoàn thành
+=the perfect tense+ thời hoàn thành
+- (thực vật học) đủ (hoa)
+- (âm nhạc) đúng (quãng)
+=perfect fifth+ quâng năm đúng
+*  danh từ
+- (ngôn ngữ học) thời hoàn thành
+*  ngoại động từ
+- hoàn thành, làm hoàn hảo, làm hoàn toàn
+- rèn luyện cho thành thạo, trau dồi cho thật giỏi
+=to perfect oneself in a foreign language+ tự trau dồi cho thật giỏi về một ngoại ngữ
+
+@perfectibility /pə,fekti'biliti/
+*  danh từ
+- tính có thể hoàn thành, tính có thể hoàn thiện, tính có thể làm hoàn hảo, tính có thể làm hoàn toàn
+
+@perfectible /pə'fektəbl/
+*  tính từ
+- có thể hoàn thành, có thể hoàn thiện, có thể làm hoàn hảo, có thể làm hoàn toàn
+
+@perfection /pə'fekʃn/
+*  danh từ
+- sự hoàn thành, sự hoàn hảo, sự hoàn toàn; tột đỉnh; sự tuyệt mỹ, sự tuyệt hảo
+=to sing to perfection+ hát hay tuyệt
+=to succeed to perfection+ thành công mỹ mãn
+- sự rèn luyện cho thành thạo, sự trau dồi cho thành thạo
+- người hoàn toàn, người hoàn hảo, vật hoàn hảo
+- (số nhiều) tài năng hoàn hảo, đức tính hoàn toàn
+
+@perfectionism /pə'fekʃənizm/
+*  danh từ
+- thuyết hoàn hảo
+- chủ nghĩa cầu toàn
+
+@perfectionist /pə'fekʃənist/
+*  danh từ
+- người theo thuyết hoàn hảo
+- người cầu toàn
+
+@perfective /pə'fektiv/
+*  tính từ
+- để làm cho hoàn hảo; đưa đến chỗ hoàn hảo
+- (ngôn ngữ học) hoàn thành
+
+@perfectly /'pə:fiktli/
+*  phó từ
+- hoàn toàn, hoàn hảo
+
+@perfervid /pə:'fə:vid/
+*  tính từ
+- rất nồng nhiệt, rất nhiệt thành, rất hăng say
+- rất nóng, rất gắt
+
+@perfidious /pə:'fidiəs/
+*  tính từ
+- phản bội, bội bạc; xảo trá
+
+@perfidiousness /'pə:fidi/ (perfidiousness) /pə:'fidiənis/
+*  danh từ
+- sự phản bội, sự bội bạc; sự xảo trá
+- tính phản bội, tính bội bạc; tính xảo trá
+
+@perfidy /'pə:fidi/ (perfidiousness) /pə:'fidiənis/
+*  danh từ
+- sự phản bội, sự bội bạc; sự xảo trá
+- tính phản bội, tính bội bạc; tính xảo trá
+
+@perfoliate /pə'fouliit/
+*  tính từ
+- (thực vật học) xuyên lá (thân)
+
+@perforate /'pə:fəreit/
+*  ngoại động từ
+- khoan, xoi, khoét, đục lỗ, đục thủng
+- xoi lỗ răng cưa, xoi lỗ châm kim (vào giấy để dễ xé)
+*  nội động từ
+- (+ into,  through) xuyên vào, xuyên qua
+
+@perforation /,pə:fə'reiʃn/
+*  danh từ
+- sự khoan, sự xoi, sự khoét, sự đục lỗ, sự đục thủng, sự xuyên qua
+- hàng lỗ răng cưa, hàng lỗ châm kim (trên giấy, xung quanh con tem để dễ xé...)
+
+@perforator /'pə:fəreitə/
+*  danh từ
+- máy khoan
+
+@perforce /pə'fɔ:s/
+*  phó từ
+- tất yếu, cần thiết
+*  danh từ
+- sự tất yếu, sự cần thiết
+
+@perform /pə'fɔ:m/
+*  ngoại động từ
+- làm (công việc...); thực hiện (lời hứa...); thi hành (lệnh); cử hành (lễ); hoàn thành (nhiệm vụ)
+- biểu diễn, trình bày (kịch, điệu nhảy...); đóng
+=to perform a part in a play+ đóng một vai trong một vở kịch
+*  nội động từ
+- đóng một vai
+=to perform in a play+ đóng trong một vở kịch
+- biểu diễn
+=to perform on the piano+ biểu diễn đàn pianô
+
+@performance /pə'fɔ:məns/
+*  danh từ
+- sự làm; sự thực hiện; sự thi hành (lệnh...); sự cử hành (lễ...); sự hoàn thành (nhiệm vụ)
+=the performance of a promise+ sự thực hiện lời hứa
+=the performance of one's duties+ sự hoàn thành nhiệm vụ
+- việc diễn, việc đóng (phim, kịch...); cuộc biểu diễn
+=evening performance+ buổi biểu diễn ban tối
+- kỳ công
+- (thể dục,thể thao) thành tích
+- (kỹ thuật) hiệu suất (máy)
+- (kỹ thuật) đặc tính
+- (hàng không) đặc điểm bay (tầm xa, độ cao, tốc độ, trọng tải...)
+
+@performer /pə'fɔ:mə/
+*  danh từ
+- người biểu diễn
+
+@performing /pə'fɔ:miɳ/
+*  tính từ
+- biểu diễn, làm xiếc, làm trò vui (chỉ dùng cho thú vật)
+=performing dogs+ những con chó làm xiếc
+
+@perfume /'pə:fju:m/
+*  danh từ
+- hương thơm; mùi thơm
+- nước hoa; dầu thơm
+*  ngoại động từ
+- toả hương thơm vào, toả mùi thơm vào (không khí...)
+- xức nước hoa vào (khăn tay, tóc...)
+
+@perfumed /'pə:fju:md/
+*  tính từ
+- thơm, đượm hương thơm
+- có xức nước hoa
+
+@perfumer /'pə:fju:mə/
+*  danh từ
+- người làm nước hoa
+- người bán nước hoa
+
+@perfumery /'pə:fju:məri/
+*  danh từ
+- nước hoa
+- xưởng chế nước hoa
+
+@perfunctoriness /pə'fʌɳktərinis/
+*  danh từ
+- tính chiếu lệ, tính hời hợt, tính đại khái
+
+@perfunctory /pə'fʌɳktəri/
+*  tính từ
+- chiếu lệ, hời hợt, đại khái; làm chiếu lệ, làm hời hợt, làm đại khái
+=a perfunctory examination+ cuộc thi chiếu lệ
+=a perfunctory inquiry+ cuộc điều tra chiếu lệ, cuộc điều tra đại khái
+=in a perfunctory manner+ qua loa đại khái
+
+@perfuse /pə'fju:z/
+*  ngoại động từ
+- vảy lên, rắc lên
+- đổ khắp, đổ tràn (nước...); làm tràn ngập
+
+@perfusion /pə'fju:ʤn/
+*  danh từ
+- sự vảy, sự rắc
+- sự đổ tràn ngập; sự làm tràn ngập
+
+@perfusive /pə'fju:siv/
+*  tính từ
+- rắc khắp, vảy khắp, tràn ngập, chan chứa
+
+@pergameneous /,pə:gə'mi:niəs/
+*  tính từ
+- (thuộc) giày da; giống giày da
+
+@pergola /'pə:gələ/
+*  danh từ
+- giàn dây leo
+- đường đi dạo phố có giàn dây leo
+
+@perhaps /pə'hæps, (Àthtục) præps/ (praps) /praps/
+*  phó từ
+- có lẽ, có thể
+
+@peri /'piəri/
+*  danh từ
+- (thần thoại,thần học) tiên nữ; thần thiện
+- người đẹp, người duyên dáng
+
+@perianth /'periænθ/
+*  danh từ
+- (thực vật học) bao hoa
+
+@periapt /'periæpt/
+*  danh từ
+- bùa
+
+@pericardia /,peri'kɑ:djəm/
+*  danh từ,  số nhiều pericardia  /,peri'kɑ:djə/
+- (giải phẫu) màng ngoài tim
+
+@pericardiac /,peri'kɑ:diæk/
+*  tính từ
+- (y học) (thuộc) bệnh viêm màng ngoài tim; mắc bệnh viêm màng ngoài tim
+
+@pericarditis /,perikɑ:'daitis/
+*  danh từ
+- (y học) bệnh viêm màng ngoài tim
+
+@pericardium /,peri'kɑ:djəm/
+*  danh từ,  số nhiều pericardia  /,peri'kɑ:djə/
+- (giải phẫu) màng ngoài tim
+
+@pericarp /'perikɑ:p/
+*  danh từ
+- (thực vật học) vỏ quả
+
+@perichondrium /,peri'kɔndriəm/
+*  danh từ
+- (giải phẫu) màng sụn
+
+@periclase /'perikleis/
+*  danh từ
+- (khoáng chất) Pericla
+
+@pericope /pe'rikəpi:/
+*  danh từ
+- đoạn ngắn; đoạn kinh thánh (đọc khi làm lễ)
+
+@pericrania /,peri'kreiniəm/
+*  danh từ,  số nhiều pericrania  /,peri'kreiniə/
+- (giải phẫu) màng quanh sọ
+-(đùa cợt) sọ, óc, não; trí tuệ, trí óc
+
+@pericranium /,peri'kreiniəm/
+*  danh từ,  số nhiều pericrania  /,peri'kreiniə/
+- (giải phẫu) màng quanh sọ
+-(đùa cợt) sọ, óc, não; trí tuệ, trí óc
+
+@pericycle /,peri'saikl/
+*  danh từ
+- (thực vật học) trụ bì
+
+@periderm /'peridə:m/
+*  danh từ
+- (thực vật học) chu bì
+
+@peridot /'peridɔt/
+*  danh từ
+- (khoáng chất) Periđot
+
+@perigean /,peri'dʤi:ən/
+*  tính từ
+- (thiên văn học) (thuộc) điểm gần trái đất, (thuộc) cận điểm
+
+@perigee /'peridʤi:/
+*  danh từ
+- (thiên văn học) điểm gần trái đất (trên quỹ đạo của mặt trăng), cận điểm
+
+@perihelia /,peri'hi:ljə/ (perihelion) /,peri'hi:ljən/
+*  danh từ
+- (thiên văn học) điểm gần mặt trời, điểm cận nhật (trong quỹ đạo của một hành tinh)
+
+@perihelion /,peri'hi:ljə/ (perihelion) /,peri'hi:ljən/
+*  danh từ
+- (thiên văn học) điểm gần mặt trời, điểm cận nhật (trong quỹ đạo của một hành tinh)
+
+@peril /'peril/
+*  danh từ
+- sự nguy hiểm, hiểm hoạ, cơn nguy
+=at the peril of one's life+ nguy đến tính mệnh
+- sự liều
+=at one's peril+ liều, liều mạng
+=keep off at your peril+ tránh xa ra nếu không thì nguy hiểm
+*  ngoại động từ
+- đẩy vào chỗ nguy hiểm, làm nguy hiểm
+
+@perilous /'periləs/
+*  tính từ
+- nguy hiểm, nguy nan, hiểm nghèo, đầy hiểm hoạ
+
+@perilousness /'periləsnis/
+*  danh từ
+- tính nguy hiểm, sự nguy hiểm, sự nguy nan, sự hiểm nghèo
+
+@perimeter /pə'rimitə/
+*  danh từ
+- chu vi
+- máy đo trường nhìn (thị trường)
+- (quân sự) vòng ngoài của doanh trại (đồn luỹ...)
+
+@perinea /,peri'ni:əm/ (perinea) /,peri'ni:ə/
+*  danh từ
+- (giải phẫu) đáy chậu (vùng giữa hậu môn và bộ phận sinh dục
+
+@perineum /,peri'ni:əm/ (perinea) /,peri'ni:ə/
+*  danh từ
+- (giải phẫu) đáy chậu (vùng giữa hậu môn và bộ phận sinh dục
+
+@period /'piəriəd/
+*  danh từ
+- kỷ, kỳ, thời kỳ, giai đoạn, thời gian
+=the periods of history+ những thời kỳ lịch sử
+=periods of a disease+ các thời kỳ của bệnh
+=a period of rest+ một thời gian nghỉ
+- thời đại, thời nay
+=the girl of the period+ cô gái thời nay
+- tiết (học)
+- ((thường) số nhiều) kỳ hành kinh
+- (toán học); (vật lý); (thiên văn học) chu kỳ
+=period of a circulating decimal+ chu kỳ của một số thập phân tuần hoàn
+=period of oscillation+ chu kỳ dao động
+- (ngôn ngữ học) câu nhiều đoạn
+- (ngôn ngữ học) chấm câu; dấu chấm câu
+=to put a period to+ chấm dứt
+- (số nhiều) lời nói văn hoa bóng bảy
+*  tính từ
+- (thuộc) thời đại, mang tính chất thời đại, mang màu sắc thời đại (đã qua) (đồ gỗ, quần áo, kiến trúc)
+
+@periodic /,piəri'ɔdik/
+*  tính từ ((cũng) periodical)
+- (thuộc) chu kỳ
+=periodic motion+ chuyển động chu kỳ
+- định kỳ, thường kỳ
+- tuần hoàn
+=periodic law+ định luật tuần hoàn
+=periodic table+ bảng tuần hoàn nguyên tố Men-đe-lê-ép
+*  tính từ
+- văn hoa bóng bảy
+- (hoá học) Periođic
+=periodic acid+ axit periođic
+
+@periodical /,piəri'ɔdikəl/
+*  tính từ ((cũng) periodic)
+- (thuộc) chu kỳ
+=periodical motion+ chuyển động chu kỳ
+- định kỳ, thường kỳ
+- tuần hoàn
+=periodical law+ định luật tuần hoàn
+=periodical table+ bảng tuần hoàn nguyên tố Men-đe-lê-ép
+*  tính từ
+- xuất bản định kỳ (báo, tạp chí...)
+*  danh từ
+- tạo chí xuất bản định kỳ
+
+@periodicity /,piəri'disiti/
+*  danh từ
+- tính chu kỳ
+- tính định kỳ, tính thường kỳ
+- tính tuần hoàn
+
+@periostea /,peri'ɔstiəm/ (periostea) /,peri'ɔstiə/
+*  danh từ số nhiều
+- màng xương
+
+@periosteum /,peri'ɔstiəm/ (periostea) /,peri'ɔstiə/
+*  danh từ số nhiều
+- màng xương
+
+@periostitis /,periɔs'taitis/
+*  danh từ
+- (y học) viêm màng xương
+
+@peripatetic /,peripə'tetik/
+*  tính từ (Peripateic)
+- (triết học) (thuộc) triết lý của A-ri-xtốt, (thuộc) phái tiêu dao
+- lưu động đi rong
+*  danh từ (Peripateic)
+- (triết học) người theo triết lý của A-ri-xtốt, người theo phái tiêu dao
+- người bán hàng rong, nhà buôn lưu động
+
+@peripatetically /,peripə'tetikəli/
+*  phó từ
+- lưu động, đi rong
+
+@peripateticism /,peripə'tetisizm/
+*  danh từ
+- (triết học) thuyết tiêu dao
+- tính lưu động, tính đi rong
+
+@peripeteia /peripi'taijə/ (peripetia) /peripi'taijə/
+*  danh từ
+- cảnh thay đổi đột ngột, sự kiện đột ngột (trong truyện, trong đời người)
+
+@peripetia /peripi'taijə/ (peripetia) /peripi'taijə/
+*  danh từ
+- cảnh thay đổi đột ngột, sự kiện đột ngột (trong truyện, trong đời người)
+
+@peripheral /pə'rifərəl/
+*  tính từ
+- (thuộc) chu vi
+- (thuộc) ngoại vi, (thuộc) ngoại biên
+
+@periphery /pə'rifəri/
+*  danh từ
+- chu vi
+- ngoại vi, ngoại biên
+
+@periphrases /pə'rifrəsis/ (periphrases) /pə'rifrəsi:z/
+*  danh từ
+- cách nói quanh, cách nói vòng
+- lời nói quanh, lời nói vòng
+
+@periphrasis /pə'rifrəsis/ (periphrases) /pə'rifrəsi:z/
+*  danh từ
+- cách nói quanh, cách nói vòng
+- lời nói quanh, lời nói vòng
+
+@periphrastic /,peri'fræstik/
+*  tính từ
+- dùng lối nói quanh, dùng lối nói vòng
+
+@peripteral /pə'riptərəl/
+*  tính từ
+- (kiến trúc) có hàng cột bao quanh
+
+@perique /pi'ri:k/
+*  danh từ
+- thuốc lá pêric
+
+@periscope /'periskoup/
+*  danh từ
+- kính tiềm vọng
+=binocular periscope+ kính tiềm vọng hai mắt
+- kính ngắm (máy ảnh)
+
+@periscopic /,peris'kɔpik/
+*  tính từ
+- (thuộc) kính tiềm vọng
+- làm cho nhìn thấy rõ qua kính tiềm vọng
+- (thuộc) kính ngắm (máy ảnh)
+
+@perish /'periʃ/
+*  nội động từ
+- diệt vong; chết; bỏ mạng, bỏ mình
+- tàn lụi, héo rụi; hỏng đi
+*  ngoại động từ
+- (thường) dạng bị động làm chết; làm bỏ mạng
+=to be perished with cold+ rét chết đi được
+=to be perished with hunger+ đói chết đi được
+- làm tàn lụi, làm héo rụi; làm hỏng
+=the heat has perished all vegetation+ nóng làm cây cối héo rụi hết
+
+@perishable /'periʃəbl/
+*  tính từ
+- có thể bị diệt vong; có thể chết
+- có thể bị tàn lụi, có thể bị héo rụi
+- dễ thối, dễ hỏng (rau, hoa quả...)
+
+@perishables /'periʃəblz/
+*  danh từ số nhiều
+- hàng dễ thối, hàng dễ hỏng (chủ yếu thực phẩm chuyên chở đi)
+
+@perisher /'periʃə/
+*  danh từ
+- (từ lóng) người khó chịu, người quấy rầy
+
+@perishing /'periʃiɳ/
+*  tính từ
+- (từ lóng) hết sức khó chịu, chết đi được
+=in perishing cold+ rét chết đi được
+
+@perisperm /'perispə:m/
+*  danh từ
+- (thực vật học) ngoại nhũ
+
+@perissodactylate /pə,risou'dæktilit/
+*  tính từ
+- (động vật học) có guốc lẻ
+
+@peristalith /pə'ristəliθ/
+*  danh từ
+- (khảo cổ học) đá quanh mộ
+
+@peristalsis /,peri'stælsis/
+*  danh từ
+- (sinh vật học) sự nhu động
+
+@peristaltic /,peri'stæltik/
+*  tính từ
+- (sinh vật học) nhu động
+
+@peristome /'peristoum/
+*  danh từ
+- (thực vật học) lông răng (ở miệng túi bào tử của rêu)
+- (động vật học) vùng quanh miệng
+
+@peristyle /'peristail/
+*  danh từ
+- (kiến trúc) hàng cột bao quanh (nhà, đền đài...)
+- khoảng có hàng cột bao quanh
+
+@peritonaeum /,peritou'ni:əm/
+*  danh từ,  số nhiều peritonea  /,peritou'ni:ə/
+- (giải phẫu) màng bụng
+
+@peritonea /,peritou'ni:əm/
+*  danh từ,  số nhiều peritonea  /,peritou'ni:ə/
+- (giải phẫu) màng bụng
+
+@peritoneal /,peritə'ni:əl/
+*  tính từ
+- (giải phẫu) (thuộc) màng bụng
+
+@peritoneum /,peritou'ni:əm/
+*  danh từ,  số nhiều peritonea  /,peritou'ni:ə/
+- (giải phẫu) màng bụng
+
+@peritonitis /,peritə'naitis/
+*  danh từ
+- (y học) viêm màng bụng
+
+@periwig /'periwig/
+*  danh từ
+- bộ tóc giả
+
+@periwigged /'periwigd/
+*  tính từ
+- đội tóc giả
+
+@periwinkle /'peri,wiɳkl/
+*  danh từ
+- (thực vật học) cây dừa cạn
+- màu dừa cạn
+- (động vật học) ốc bờ
+
+@perjure /'pə:dʤə/
+*  ngoại động từ (to song) m p kh g
+- thề ẩu
+- khai man trước toà
+- phản bội lời thề
+
+@perjured /'pə:dʤəd/
+*  tính từ
+- có tội khai man trước toà
+
+@perjurer /'pə:dʤərə/
+*  danh từ
+- kẻ thề ẩu
+- kẻ khai man trước toà
+- kẻ phản bội lời thề
+
+@perjury /'pə:dʤəri/
+*  danh từ
+- sự thề ẩu; lời thề ẩu
+- sự khai man trước toà; lời khai man trước toà
+- sự phản bội lời thề
+
+@perk /pə:k/
+*  nội động từ
+- ngẩng đầu lên, vểnh lên, vểnh mặt lên (tự đắc, hỗn xược...) ((cũng) to-up)
+- (+ up) vui tươi lên, phấn khởi lại (sau cơn buồn, cơn bệnh)
+*  ngoại động từ (+ up)
+- vểnh (đuôi...) lên, vênh (mặt...) lên
+- làm bảnh cho, làm đỏm dáng cho (ai, bộ quần áo...)
+*  tính từ
+- (từ hiếm,nghĩa hiếm) (như) perky
+*  danh từ
+- (động vật học) (viết tắt) của perquisite
+
+@perkiness /'pə:kinis/
+*  danh từ
+- vẻ tự đắc, vẻ vênh váo; sự xấc xược, sự ngạo mạn
+
+@perky /'pə:ki/
+*  tính từ
+- tự đắc, vênh váo; xấc xược, ngạo mạn
+
+@perlite /'pə:plait/
+*  danh từ
+- Peclit, đá trân châu
+
+@perm /pə:m/
+*  danh từ
+- (thực vật học) (viết tắt) của permanentwave
+- tóc làn sóng giữ lâu không mất quăn
+- (viết tắt) của permutation
+
+@permalloy /'pə:məlɔi/
+*  danh từ
+- hợp kim pecmalci
